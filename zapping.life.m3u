@@ -1,22 +1,28 @@
 #EXTM3U 
 
-#EXTINF:-1,Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,Canal Once group-title="MEXICO", Canal Once
+http://clubtv.link/12n11/phpcode/lista01.php?c=158623&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1,Azteca 7 (720p)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1,Azteca 7 HD
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4180
 #EXTINF:-1,Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u
+#EXTINF:-1,Milenio Tv
+http://highendtv.site:80/restfuxioncan/restfux11/240988.ts
 #EXTINF:-1,Telemax
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1,TNT MX UHD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 #EXTINF:-1,ESPN 1 MX
 http://playtv44.com:8080/maamarilla425/123123/52749
-#EXTINF:-1,Espn 2 HD
-https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4221
+#EXTINF:-1,ESPN 2 MX HD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/145425.m3u8
+#EXTINF:-1,FOX SPORTS MX
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
+#EXTINF:-1,FOX SPORTS 2 MX
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
+#EXTINF:-1,FOX SPORTS 3 MX
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
 #EXTINF:-1,Pluto TV Cine (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=
