@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1,Canal Once group-title="MEXICO", Canal Once
+#EXTINF:-1,Canal Once 
 http://clubtv.link/12n11/phpcode/lista01.php?c=158623&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
