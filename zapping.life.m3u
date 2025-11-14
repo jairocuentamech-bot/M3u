@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="664" tvg-name="Canal Once Internacional" tvg-logo="https://cdn.m3u.cl/logo/664_Canal_Once_Internacional.png", group-title="México", Canal Once Internacional | MX
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal Once (i)
+http://clubtv.link/12n11/phpcode/lista01.php?c=158623&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1,Azteca 7 HD
@@ -18,8 +18,16 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/2809.m3u8
 https://nxt.plus:8443/salvadorver/331015/169447.ts
 #EXTINF:-1,SPACE
 https://nxt.plus:8443/salvadorver/331015/59153.ts
+#EXTINF:-1,CINECANAL
+https://nxt.plus:8443/salvadorver/331015/169437.ts
 #EXTINF:-1,TNT MX UHD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
+#EXTINF:-1,GOLDEN
+https://nxt.plus:8443/salvadorver/331015/43534.ts
+#EXTINF:-1,HBO
+https://nxt.plus:8443/salvadorver/331015/244801.ts
+#EXTINF:-1,HBO 2 
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2806.m3u8
 #EXTINF:-1,ESPN 1 MX
 http://playtv44.com:8080/maamarilla425/123123/52749
 #EXTINF:-1,ESPN 2 MX HD
@@ -30,6 +38,10 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
 #EXTINF:-1,FOX SPORTS 3 MX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
+#EXTINF:-1,AYM SPORTS
+http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
+#EXTINF:-1,TVC Deportes
+http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
 #EXTINF:-1,Sony Comedias
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Sony Novelas
