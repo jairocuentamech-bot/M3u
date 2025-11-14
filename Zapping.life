@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Canal AMC" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CABLE MEXICO",CINE - AMC (L)(720)
-http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9619
-#EXTINF:-1 tvg-id="Canal AXN" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CABLE MEXICO",CINE - AXN (M)(1080)
-http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9623
-#EXTINF:-1 tvg-id="Canal HBO" tvg-name="CINE - HBO (1080)(T)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CABLE MEXICO",CINE - HBO (1080)(T)
-http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9670
