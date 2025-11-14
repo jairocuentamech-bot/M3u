@@ -1,10 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="XEWH-TDT" tvg-name="Canal Telemax" tvg-logo="http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal AMC" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CABLE MEXICO",CINE AMC (720)
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9619
 #EXTINF:-1 tvg-id="Canal AXN" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CABLE MEXICO", AXN (1080)
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9623
 #EXTINF:-1 tvg-id="Canal HBO" tvg-name="CINE - HBO (1080)(T)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CABLE MEXICO",CINE - HBO (1080)(T)
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9670
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CABLE MEXICO",HBO. 2 (1080)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9672
+#EXTINF:-1 tvg-id="Canal HBO Family" tvg-name="HBO Family (1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(1080)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9679
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (TV)(720)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9680
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 -" tvg-logo="" group-title="EVENTOS PPV",PPV 2 -
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/155417
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - (e)" tvg-logo="" group-title="EVENTOS PPV",PPV 3 - (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/155418
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 -" tvg-logo="" group-title="EVENTOS PPV",PPV 4 -
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/155419
