@@ -18,8 +18,6 @@ https://nxt.plus:8443/salvadorver/331015/227048.ts
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNuVoBk8u8-_8COzv3FwZCRA
 #EXTINF:-1,Telemax
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1,Televisa Sonora
-https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 #EXTINF:-1,CANAL 5 HD
 http://imaxplay.net:8880//live/Johan22/KFPPW/241991.ts
 #EXTINF:-1,LAS ESTRELLAS
@@ -40,6 +38,10 @@ https://nxt.plus:8443/salvadorver/331015/59153.ts
 https://nxt.plus:8443/salvadorver/331015/169437.ts
 #EXTINF:-1,TNT MX UHD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
+#EXTINF:-1,PARAMOUNT UHD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2826.m3u8
+#EXTINF:-1,CINEMAX
+http://181.78.4.250:8098/play/a07o/index.m3u8
 #EXTINF:-1,GOLDEN
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:-1,HBO
@@ -48,6 +50,8 @@ https://nxt.plus:8443/salvadorver/331015/244801.ts
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2806.m3u8
 #EXTINF:-1,HBO FAMILY HD
 http://clubtv.link/12n11/phpcode/lista01.php?c=298366&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,TUDN Sports
+http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNuLxAcXHGE5eeRczu5u7CTY
 #EXTINF:-1,ESPN 1 MX
 http://playtv44.com:8080/maamarilla425/123123/52749
 #EXTINF:-1,ESPN 2 MX HD
