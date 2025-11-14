@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1,Canal Once 
-http://clubtv.link/12n11/phpcode/lista01.php?c=158623&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="Canal Once Internacional" tvg-logo="https://cdn.m3u.cl/logo/664_Canal_Once_Internacional.png", group-title="México", Canal Once Internacional | MX
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1,Azteca 7 HD
@@ -16,6 +16,8 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2809.m3u8
 #EXTINF:-1,FX
 https://nxt.plus:8443/salvadorver/331015/169447.ts
+#EXTINF:-1,SPACE
+https://nxt.plus:8443/salvadorver/331015/59153.ts
 #EXTINF:-1,TNT MX UHD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 #EXTINF:-1,ESPN 1 MX
@@ -28,5 +30,13 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
 #EXTINF:-1,FOX SPORTS 3 MX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
-#EXTINF:-1,Pluto TV Cine (684p)
+#EXTINF:-1,Sony Comedias
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Novelas
+https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,24/7 Dragon Ball
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
+#EXTINF:-1,24/7 Dragon Ball Z - Frezzer 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94896
+#EXTINF:-1,Pluto TV Cine 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=
