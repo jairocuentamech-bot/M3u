@@ -10,6 +10,8 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 https://nxt.plus:8443/salvadorver/331015/227048.ts
 #EXTINF:-1,TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1,TELEVISA SONORA
+https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
 #EXTINF:-1,AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
 #EXTINF:-1,AZTECA 7
@@ -186,6 +188,16 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
 #EXTINF:-1,HISTORY 2 HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9836
+#EXTINF:-1,DISNEY CHANNEL HD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
+#EXTINF:-1,NICK JR
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
+#EXTINF:-1,NICKELODEON
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 #EXTINF:-1,24/7 Bob Esponja
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95041
 #EXTINF:-1,24/7 Dragon Ball
@@ -230,17 +242,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95034
 #EXTINF:-1,24/7 Un Show mas
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
-#EXTINF:-1,
-#EXTINF:-1,DISNEY CHANNEL HD
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
-#EXTINF:-1,NICK JR
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
-#EXTINF:-1,NICKELODEON
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
-#EXTINF:-1,DISCOVERY KIDS HD
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 #EXTINF:-1,Pluto TV Cine 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=
 #EXTINF:-1,Pluto TV Cine Terror 
