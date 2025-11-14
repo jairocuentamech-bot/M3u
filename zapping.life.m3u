@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1,Canal Once 
+#EXTINF:-1,Canal Once group-title="MEXICO", Canal Once
 http://clubtv.link/12n11/phpcode/lista01.php?c=158623&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -12,6 +12,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://highendtv.site:80/restfuxioncan/restfux11/240988.ts
 #EXTINF:-1,Telemax
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1,DISCOVERY H&H 
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2809.m3u8
+#EXTINF:-1,FX
+https://nxt.plus:8443/salvadorver/331015/169447.ts
 #EXTINF:-1,TNT MX UHD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 #EXTINF:-1,ESPN 1 MX
