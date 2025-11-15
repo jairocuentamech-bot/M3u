@@ -79,6 +79,8 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9786
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9843
 #EXTINF:-1,DISCOVERY THEATER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
+#EXTINF:-1,RAKUTEN VIKI
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1,STAR TVE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
 #EXTINF:-1,MULTIPREMIER HD
@@ -165,6 +167,8 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/132278.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/145425.m3u8
 #EXTINF:-1,ESPN 3
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2822.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
 #EXTINF:-1,FOX SPORTS MX
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
 #EXTINF:-1,FOX SPORTS 2 MX
@@ -179,8 +183,8 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9556
 #EXTINF:-1,AYM SPORTS
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
-#EXTINF:-1,TVC Deportes
-http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
+#EXTINF:-1,TVC DEPORTES HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9607
 #EXTINF:-1,ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 #EXTINF:-1,HISTORY HD
@@ -201,18 +205,8 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
 #EXTINF:-1,DISCOVERY KIDS HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
-#EXTINF:0,Pluto TV Bob Esponja (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,24/7 Bob Esponja
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95041
-#EXTINF:-1,iCarly
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2700-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=75f70a10-5059-4484-8b19-d938b9bca695
-#EXTINF:-1,iCarly
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8441a0-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9718054f-9c7f-4d08-9de2-dd304f8f46de
-#EXTINF:-1,iCarly
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f13-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=016798d3-d8a9-4683-81ba-9d514289474b
-#EXTINF:-1,iCarly TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050352-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eaebd5fc-5255-402d-a88a-1c56b0f17230
 #EXTINF:-1,24/7 Dragon Ball
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
 #EXTINF:-1,24/7 Dragon Ball Z - Saga Saiyajin
@@ -261,8 +255,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
 #EXTINF:-1,Pluto TV Cine Acción
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,RAKUTEN VIKI
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1,Lilo y Stitch
 http://tv.diablotv.net:8080/movie/VanessaCastaneda284/cpbCeCrFA4/136381.mkv
 #EXTINF:-1,Dora en busca del Sol Dorado
