@@ -40,6 +40,8 @@ http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
 #EXTINF:-1,TELEMUNDO INTERNACIONAL HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
+#EXTINF:-1,NBC UNIVERSO HD
+http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
 #EXTINF:-1,UNIVISION NETWORK
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 #EXTINF:-1,UNICABLE HD
@@ -52,6 +54,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/633dc8684bf50b00074a46b1/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/63ceb6ff60bc8f00088dc625/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1,EXA TV
 http://clubtv.link/12n11/phpcode/geomex.php?c=a0hk&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,CONCERT CHANNEL VIP
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/11479
 #EXTINF:-1,CONECTA TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
 #EXTINF:-1,TELERITMO
@@ -92,6 +96,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/66a01adf46762a00081ee3dc/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-name="Karaoke por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525", Karaoke por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1,Pluto TV VEVO 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1,XITE HITS
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1,XITE ROCK X METAL
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1,XITE SIEMPRE LATINO
+https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1,E! HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
 #EXTINF:-1,LIFETIME HD
@@ -136,6 +150,8 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/453505.ts
 #EXTINF:-1,AMC
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
+#EXTINF:-1,AXN 
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
 #EXTINF:-1,CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,SONY CHANNEL
@@ -206,8 +222,10 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8593
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
 #EXTINF:-1,DE PELICULA 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
-#EXTINF:-1,CINE A3
+#EXTINF:-1,DE PELICULA 3
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
+#EXTINF:-1,CINEMA DINAMITA
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
 #EXTINF:-1,MORBIDO TV
 http://013tv.com:8080/F16077/2d3a2abc/198054
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
@@ -280,6 +298,10 @@ http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
 #EXTINF:-1,TVC DEPORTES HD
 http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
+#EXTINF:-1,TVC DEPORTES 2
+http://clubtv.link/12n11/phpcode/lista01.php?c=158566&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,LATIN AMERICAN SPORTS 
+http://clubtv.link/12n11/phpcode/lista01.php?c=278555&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,PX SPORTS HD
 http://gunslingertv.org:8080/xfyQhHsfYr/qSEu7TjxY7/115004
 #EXTINF:-1,ITV DEPORTES
@@ -298,6 +320,10 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/623659.ts
 http://imaxplay.net:8880//live/Johan22/KFPPW/623660.ts
 #EXTINF:-1,LMP 05 HD 
 http://imaxplay.net:8880//live/Johan22/KFPPW/623661.ts
+#EXTINF:-1,PLUTO MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:-1,MLB NETWORK
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes" tvg-chno="827", Pluto TV Deportes
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1 tvg-id="64b02bbd7d93410008fdae60" tvg-name="DAZN Women's Football" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="Deportes" tvg-chno="871", DAZN Women's Football
@@ -312,8 +338,14 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
 http://tvg.nibbletv.info/CH/wpVrMBZwAVa/Boomerang.m3u8
 #EXTINF:-1,ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,ANIME ONEGAI 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1,ANIME ONEGAI 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1,DISNEY CHANNEL HD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
+#EXTINF:-1,DISNEY JR
+http://181.78.201.70:8000/play/a0hn/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
 #EXTINF:-1,NICK JR
@@ -322,6 +354,8 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
 #EXTINF:-1,DISCOVERY KIDS HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
+#EXTINF:-1,DREAMS WORK
+http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 #EXTINF:-1,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" tvg-chno="1460", Bob Esponja Pantalones Cuadrados
@@ -338,7 +372,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-name="Pluto TV Animé Acción" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1254", Pluto TV Animé Acción
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
 #EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1259", Naruto
 https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1 tvg-id="64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1260", Naruto Shippuden
