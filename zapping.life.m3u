@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1,IMAGEN TV
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87616
+Imagen TV
+http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1,MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1,AZTECA UNO
@@ -19,6 +20,8 @@ http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNp-GD-2no0_2T0KTLzaeQgs
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
 #EXTINF:-1,CANAL NUEVE
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
+#EXTINF:-1,TELEVISA NETWORKS
+http://013tv.com:8080/F16077/2d3a2abc/31791
 #EXTINF:-1,CANAL 5 HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1,ONCE TV
@@ -44,10 +47,24 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
 #EXTINF:-1,TELERITMO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
+#EXTINF:-1,USA LATIN VIDEOROLA
+http://vocotv.live:80/Sanchez01/Sanchez01/707003
+#EXTINF:-1,BANDAMAX
+http://norrpvrppsm.top:8080/601759334289967/cbf3770a87b4/52490
 #EXTINF:-1,HTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
 #EXTINF:-1,TELEHIT PLUS HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
+#EXTINF:-1,MTV
+http://013tv.com:8080/F16077/2d3a2abc/306879
+#EXTINF:-1,MTV 00s
+http://013tv.com:8080/F16077/2d3a2abc/306880
+#EXTINF:-1,MTV 80s
+http://013tv.com:8080/F16077/2d3a2abc/306881
+#EXTINF:-1,MTV HITS
+http://013tv.com:8080/F16077/2d3a2abc/306882
+#EXTINF:-1,MTV LIVE
+http://013tv.com:8080/F16077/2d3a2abc/306883
 #EXTINF:-1,E! HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
 #EXTINF:-1,LIFETIME HD
@@ -160,12 +177,20 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
 #EXTINF:-1,CINE A3
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
+#EXTINF:-1,MORBIDO TV
+http://013tv.com:8080/F16077/2d3a2abc/198054
 #EXTINF:-1,TUDN Sports
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNuLxAcXHGE5eeRczu5u7CTY
+#EXTINF:-1,ESPN 1 MX
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/ESPN-MX.m3u8
 #EXTINF:-1,ESPN 1 MX SD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132278.m3u8
+#EXTINF:-1,ESPN 2 MX
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/ESPN-2-MX.m3u8
 #EXTINF:-1,ESPN 2 MX HD
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/145425.m3u8
+#EXTINF:-1,ESPN 3 MX
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/ESPN-3.m3u8
 #EXTINF:-1,ESPN 3
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2822.m3u8
 #EXTINF:-1,ESPN EXTRA
@@ -196,6 +221,8 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9836
 #EXTINF:-1,COMEDY CENTRAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
+#EXTINF:-1,BOOMERANG
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/Boomerang.m3u8
 #EXTINF:-1,ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,DISNEY CHANNEL HD
@@ -210,6 +237,32 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 #EXTINF:-1,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="BobEsponja.us@SD",Pluto TV Bob Esponja (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAventura.us@SD",Pluto TV Aventura (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineSuspenso.us@SD",Pluto TV Cine Suspenso (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us@SD",Pluto TV Comedy Central Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us@SD",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="",Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us@SD",Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVHistoria.us@SD",Pluto TV Historia (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="",Pluto TV MTV (Mexico) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVMTVLatino.us@SD",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMTVLatino.us@SD",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="NickClasico.us@SD",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NickClasico.us@SD",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,24/7 Bob Esponja
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95041
 #EXTINF:-1,24/7 Dragon Ball
