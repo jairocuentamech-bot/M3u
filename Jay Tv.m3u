@@ -1,0 +1,386 @@
+#EXTM3U 
+#EXTINF:-1,IMAGEN TV
+http://013tv.com:8080/F16077/2d3a2abc/9039
+#EXTINF:-1,IMAGEN TV+
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:-1,MILENIO TV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
+#EXTINF:-1,AZTECA UNO
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
+#EXTINF:-1,AZTECA 7
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87572
+#EXTINF:-1,AZ MUNDO
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
+#EXTINF:-1,AZ CORAZON
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87568
+#EXTINF:-1,AZTECA DEPORTES
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
+#EXTINF:-1,GALAVISION
+http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNp-GD-2no0_2T0KTLzaeQgs
+#EXTINF:-1,LAS ESTRELLAS
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
+#EXTINF:-1,CANAL NUEVE
+http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
+#EXTINF:-1,TELEVISA NETWORKS
+http://013tv.com:8080/F16077/2d3a2abc/31791
+#EXTINF:-1,N+ FORO
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1,CANAL 5 HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
+#EXTINF:-1,ONCE TV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
+#EXTINF:-1,ADN40
+https://nxt.plus:8443/salvadorver/331015/227048.ts
+#EXTINF:-1,TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+MHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:-1,MVS TV 
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1,TELEFÓRMULA
+http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
+#EXTINF:-1,CNN EN ESPAÑOL
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
+#EXTINF:-1,TELEMUNDO INTERNACIONAL HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
+#EXTINF:-1,NBC UNIVERSO HD
+http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
+#EXTINF:-1,UNIVISION NETWORK
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
+#EXTINF:-1,UNICABLE HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
+#EXTINF:-1,MEX-USA LATIN
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
+#EXTINF:-1,EXA TV
+http://clubtv.link/12n11/phpcode/geomex.php?c=a0hk&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,CONCERT CHANNEL VIP
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/11479
+#EXTINF:-1,CONECTA TV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
+#EXTINF:-1,TELERITMO
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
+#EXTINF:-1,USA LATIN VIDEOROLA
+http://vocotv.live:80/Sanchez01/Sanchez01/707003
+#EXTINF:-1,BANDAMAX
+http://norrpvrppsm.top:8080/601759334289967/cbf3770a87b4/52490
+#EXTINF:-1,HTV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
+#EXTINF:-1,TELEHIT PLUS HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
+#EXTINF:-1,MTV
+http://013tv.com:8080/F16077/2d3a2abc/306879
+#EXTINF:-1,MTV 00s
+http://013tv.com:8080/F16077/2d3a2abc/306880
+#EXTINF:-1,MTV 80s
+http://013tv.com:8080/F16077/2d3a2abc/306881
+#EXTINF:-1,MTV HITS
+http://013tv.com:8080/F16077/2d3a2abc/306882
+#EXTINF:-1,MTV LIVE
+http://013tv.com:8080/F16077/2d3a2abc/306883
+#EXTINF:-1,Pluto TV VEVO 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1,XITE HITS
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1,XITE ROCK X METAL
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1,XITE SIEMPRE LATINO
+https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1,E! HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
+#EXTINF:-1,LIFETIME HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9703
+#EXTINF:-1,PASIONES HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8335
+#EXTINF:-1,A&E
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9615
+#EXTINF:-1,ANIMAL PLANET
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9811
+#EXTINF:-1,NATGEO HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9847
+#EXTINF:-1,NATGEO WILD HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9807
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9814
+#EXTINF:-1,DISCOVERY H&H
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
+#EXTINF:-1,DISCOVERY H&H HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
+#EXTINF:-1,DISCOVERY HGTV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
+#EXTINF:-1,DISCOVERY TLC HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9825
+#EXTINF:-1,DISCOVERY TURBO HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9829
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9786
+#EXTINF:-1,INVESTIGACION DISCOVERY
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9843
+#EXTINF:-1,DISCOVERY THEATER
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
+#EXTINF:-1,STAR TVE
+https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
+#EXTINF:-1,MULTIPREMIER HD
+http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/453505.ts
+#EXTINF:-1,AMC
+https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
+#EXTINF:-1,AXN 
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
+#EXTINF:-1,CINE SONY 
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,SONY CHANNEL
+https://nxt.plus:8443/salvadorver/331015/43562.ts
+#EXTINF:-1,SONY COMEDIAS
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,SONY NOVELAS
+https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD 
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
+#EXTINF:-1,UNIVERSAL CINEMA
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9757
+#EXTINF:-1,UNIVERSAL COMEDY
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
+#EXTINF:-1,STAR CHANNEL HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
+#EXTINF:-1,WARNER CHANNEL HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9774
+#EXTINF:-1,FX
+https://nxt.plus:8443/salvadorver/331015/169447.ts
+#EXTINF:-1,SPACE
+https://nxt.plus:8443/salvadorver/331015/59153.ts
+#EXTINF:-1,CINECANAL
+https://nxt.plus:8443/salvadorver/331015/169437.ts
+#EXTINF:-1,TNT MX HD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
+#EXTINF:-1,TNT SERIES
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
+#EXTINF:-1,PARAMOUNT UHD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2826.m3u8
+#EXTINF:-1,CINEMAX
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9635
+#EXTINF:-1,GOLDEN
+https://nxt.plus:8443/salvadorver/331015/43534.ts
+#EXTINF:-1,GOLDEN EDGE
+https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
+#EXTINF:-1,GOLDEN PLUS
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
+#EXTINF:-1,GOLDEN PREMIERE
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
+#EXTINF:-1,STARZ FAMILY
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
+#EXTINF:-1,HBO HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9670
+#EXTINF:-1,HBO 2 HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9675
+#EXTINF:-1,HBO FAMILY
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/85885
+#EXTINF:-1,HBO MUNDI
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2796.m3u8
+#EXTINF:-1,HBO PLUS
+http://imaxplay.net:8880//live/Johan22/KFPPW/198755.ts
+#EXTINF:-1,HBO PLUS HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9685
+#EXTINF:-1,HBO POP
+http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
+#EXTINF:-1,HBO XTREME 
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
+#EXTINF:-1,CINEMA PPV 04 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8589
+#EXTINF:-1,CINEMA PPV 08
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8593
+#EXTINF:-1,CINELATINO
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
+#EXTINF:-1,DE PELICULA 
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
+#EXTINF:-1,DE PELICULA 3
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
+#EXTINF:-1,CINEMA DINAMITA
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
+#EXTINF:-1,MORBIDO TV
+http://013tv.com:8080/F16077/2d3a2abc/198054
+#EXTINF:-1,TUDN Sports
+http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNuLxAcXHGE5eeRczu5u7CTY
+#EXTINF:-1,ESPN 1
+http://playtv44.com:8080/maamarilla425/123123/52749
+#EXTINF:-1,ESPN 2
+http://jima.pinals.xyz:8080/963529988tv/liguik/509
+#EXTINF:-1,ESPN 3 MX
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/ESPN-3.m3u8
+#EXTINF:-1,ESPN 3
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2822.m3u8
+#EXTINF:-1,ESPN 5 HD
+https://zonamovie.pro:443/play/U-Incyv09c9g67CQdtmkvvKjDWjCvx3f1-vAMSTLhpCztjp4ctzkTK6-onPrTaW2/ts
+#EXTINF:-1,ESPN 7 
+http://2.magmas5.com:8000/Cristalguevara/89386563/3014
+#EXTINF:-1,ESPN EXTRA
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
+#EXTINF:-1,FOX SPORTS MX
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
+#EXTINF:-1,FOX SPORTS 2 MX
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
+#EXTINF:-1,FOX SPORTS 3 MX
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
+#EXTINF:-1,CLARO SPORTS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
+#EXTINF:-1,CLARO SPORTS 2
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9556
+#EXTINF:-1,AYM SPORTS
+http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
+#EXTINF:-1,TVC DEPORTES
+http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
+#EXTINF:-1,TVC DEPORTES HD
+http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
+#EXTINF:-1,TVC DEPORTES 2
+http://clubtv.link/12n11/phpcode/lista01.php?c=158566&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,LATIN AMERICAN SPORTS 
+http://clubtv.link/12n11/phpcode/lista01.php?c=278555&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,PX SPORTS HD
+http://gunslingertv.org:8080/xfyQhHsfYr/qSEu7TjxY7/115004
+#EXTINF:-1,ITV DEPORTES
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
+#EXTINF:-1,SKY SPORTS BUNDESLIGA
+http://190.92.10.66:4000/play/a006/index.m3u8
+#EXTINF:-1,SKY SPORTS LA LIGA HD
+http://2.magmas5.com:8000/Cristalguevara/89386563/145437
+#EXTINF:-1,LMP 01 HD 
+http://imaxplay.net:8880//live/Johan22/KFPPW/623657.ts
+#EXTINF:-1,LMP 02 HD
+http://imaxplay.net:8880//live/Johan22/KFPPW/623658.ts
+#EXTINF:-1,LMP 03 HD 
+http://imaxplay.net:8880//live/Johan22/KFPPW/623659.ts
+#EXTINF:-1,LMP 04 HD 
+http://imaxplay.net:8880//live/Johan22/KFPPW/623660.ts
+#EXTINF:-1,LMP 05 HD 
+http://imaxplay.net:8880//live/Johan22/KFPPW/623661.ts
+#EXTINF:-1,PLUTO MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:-1,MLB NETWORK
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes" tvg-chno="827", Pluto TV Deportes
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1,HISTORY HD
+https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
+#EXTINF:-1,HISTORY 2 HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9836
+#EXTINF:-1,COMEDY CENTRAL
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
+#EXTINF:-1,BOOMERANG
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/Boomerang.m3u8
+#EXTINF:-1,ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,ANIME ONEGAI 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1,ANIME ONEGAI 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1,DISNEY CHANNEL HD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
+#EXTINF:-1,DISNEY JR
+http://181.78.201.70:8000/play/a0hn/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
+#EXTINF:-1,NICK JR
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
+#EXTINF:-1,NICKELODEON
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
+#EXTINF:-1,DREAMS WORK
+http://go.iptvhn.net:25461/live/7619/7619/13336.ts
+#EXTINF:-1,ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1,LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" tvg-chno="1460", Bob Esponja Pantalones Cuadrados
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-name="Nickelodeon iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Teen" tvg-chno="1360", Nickelodeon iCarly
+https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids" tvg-chno="1440", Nickelodeon Clásico
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1324", Pluto TV E-Sports
+https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Retro" tvg-chno="265", Pluto TV Retro Cartoons
+https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1251", Pluto TV Anime
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-name="Pluto TV Animé Acción" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1254", Pluto TV Animé Acción
+https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1259", Naruto
+https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1260", Naruto Shippuden
+https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="656f37f257fe4a000884dfee" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1261", Boruto: Naruto Next Generations
+https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="65d916a2f7f0af0008b6540d" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1263", Hunter x Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="64666345f3f5b1000882bfb4" tvg-name="Captain Tsubasa" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1271", Captain Tsubasa
+https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="66b26665d512590008c507b7" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="Anime & Gaming" tvg-chno="1279", Inuyasha
+https://stitcher.pluto.tv/stitch/hls/channel/66b26665d512590008c507b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Anime & Gaming" tvg-chno="1284", One Piece
+https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-name="Nick Teen" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="Teen" tvg-chno="1352", Nick Teen
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5dd6de52b9914200091f047a" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Teen" tvg-chno="1370", Pluto TV Teen
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Kids" tvg-chno="1402", Nick Jr. Club
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-name="Las Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Kids" tvg-chno="1405", Las Pistas de Blue
+https://stitcher.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids" tvg-chno="1420", Pluto TV Junior
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids" tvg-chno="1445", Rugrats
+https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="6202ab549654c800076ee13f" tvg-name="Nickelodeon Rocket Power" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Kids" tvg-chno="1450", Nickelodeon Rocket Power
+https://stitcher.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nickelodeon Pluto TV" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="Kids" tvg-chno="1455", Nickelodeon Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="6322099c822bbc00074857db" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Kids" tvg-chno="1465", Los Padrinos Mágicos
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Kids" tvg-chno="1470", Las Tortugas Ninja
+https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids" tvg-chno="1480", Pluto TV Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 tvg-id="636e83511fa9600007e5ae19" tvg-name="Pluto TV Anime Kids" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Kids" tvg-chno="1485", Pluto TV Anime Kids
+https://stitcher.pluto.tv/stitch/hls/channel/636e83511fa9600007e5ae19/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1,24/7 Dragon Ball
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Saiyajin
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94895
+#EXTINF:-1,24/7 Dragon Ball Z - Frezzer 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94896
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94897
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Buu 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94898
+#EXTINF:-1,24/7 Dragon Ball GT
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94899
+#EXTINF:-1,24/7 The Big Bang Theory
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
+#EXTINF:-1,24/7 Los caballeros del Zodiaco
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/3397.m3u8
+#EXTINF:-1,24/7 Los Caballeros del Zodiaco
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94912
+#EXTINF:-1,24/7 | Los Simpsons
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
+#EXTINF:-1,24/7 | Pokémon
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/129325.m3u8
+#EXTINF:-1, 24/7 Cinema Gamer
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
+#EXTINF:-1,24/7 Los Chicos Del Barrio
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95018
+#EXTINF:-1,24/7 Oye Arnold
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95031
+#EXTINF:-1,24/7 Los Padrinos Magicos
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95653
+#EXTINF:-1,24/7 Los pingüinos de Madagascar
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95028
+#EXTINF:-1,24/7 Phineas y Ferb
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
+#EXTINF:-1,24/7 Un Show mas
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
