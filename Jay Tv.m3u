@@ -54,6 +54,12 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9703
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8335
 #EXTINF:-1,A&E
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9615
+#EXTINF:-1,HISTORY 
+https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
+#EXTINF:-1,HISTORY 2 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9836
+#EXTINF:-1,COMEDY CENTRAL
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
 #EXTINF:-1,ANIMAL PLANET
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9811
 #EXTINF:-1,NATGEO HD
@@ -270,23 +276,9 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/623661.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 #EXTINF:-1,MLB NETWORK
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Deportes" tvg-chno="827", Pluto TV Deportes
+#EXTINF:-1,PLUTO TV DEPORTES 
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTINF:-1,HISTORY 
-https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
-#EXTINF:-1,HISTORY 2 
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9836
-#EXTINF:-1,COMEDY CENTRAL
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
-#EXTINF:-1,BOOMERANG
-http://tvg.nibbletv.info/CH/wpVrMBZwAVa/Boomerang.m3u8
-#EXTINF:-1,ZTV ANIME
-https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1,ANIME ONEGAI 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:-1,ANIME ONEGAI 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:-1,DISNEY CHANNEL HD
+#EXTINF:-1,DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:-1,DISNEY JR
 http://181.78.201.70:8000/play/a0hn/index.m3u8
@@ -298,12 +290,20 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
 #EXTINF:-1,TEEN NICK
 http://streamprostk.com:2082/paty12/202020/32359
-#EXTINF:-1,DISCOVERY KIDS HD
+#EXTINF:-1,DISCOVERY KIDS 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 #EXTINF:-1,DREAMS WORK
 http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 #EXTINF:-1,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1,BOOMERANG
+http://tvg.nibbletv.info/CH/wpVrMBZwAVa/Boomerang.m3u8
+#EXTINF:-1,ZTV ANIME
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,ANIME ONEGAI 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1,ANIME ONEGAI 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1,24/7 Bob Esponja
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 #EXTINF:-1,24/7 iCarly 
