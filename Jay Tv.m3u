@@ -116,14 +116,34 @@ https://jmp2.uk/stvp-USBD3300004RH
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1,XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1,WARNER CHANNEL 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9774
 #EXTINF:-1,STAR TVE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
-#EXTINF:-1,MULTIPREMIER HD
-http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/453505.ts
-#EXTINF:-1,AMC
-https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
+#EXTINF:-1,STAR CHANNEL 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
+#EXTINF:-1,STARZ FAMILY
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
+#EXTINF:-1,FX
+https://nxt.plus:8443/salvadorver/331015/169447.ts
 #EXTINF:-1,AXN 
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
+#EXTINF:-1,SPACE
+https://nxt.plus:8443/salvadorver/331015/59153.ts
+#EXTINF:-1,AMC
+https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
+#EXTINF:-1,CINEMAX
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9635
+#EXTINF:-1,CINECANAL
+https://nxt.plus:8443/salvadorver/331015/169437.ts
+#EXTINF:-1,MULTIPREMIER
+http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/453505.ts
+#EXTINF:-1,PARAMOUNT HD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/2826.m3u8
+#EXTINF:-1,TNT MX HD
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
+#EXTINF:-1,TNT SERIES
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
 #EXTINF:-1,CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,SONY CHANNEL
@@ -132,7 +152,7 @@ https://nxt.plus:8443/salvadorver/331015/43562.ts
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,SONY NOVELAS
 https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL HD 
+#EXTINF:-1,STUDIO UNIVERSAL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL
 http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
@@ -142,24 +162,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9757
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
 #EXTINF:-1,UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
-#EXTINF:-1,STAR CHANNEL HD
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
-#EXTINF:-1,WARNER CHANNEL HD
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9774
-#EXTINF:-1,FX
-https://nxt.plus:8443/salvadorver/331015/169447.ts
-#EXTINF:-1,SPACE
-https://nxt.plus:8443/salvadorver/331015/59153.ts
-#EXTINF:-1,CINECANAL
-https://nxt.plus:8443/salvadorver/331015/169437.ts
-#EXTINF:-1,TNT MX HD
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
-#EXTINF:-1,TNT SERIES
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
-#EXTINF:-1,PARAMOUNT HD
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/2826.m3u8
-#EXTINF:-1,CINEMAX
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9635
 #EXTINF:-1,GOLDEN
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:-1,GOLDEN EDGE
@@ -168,8 +170,6 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
 #EXTINF:-1,GOLDEN PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
-#EXTINF:-1,STARZ FAMILY
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
 #EXTINF:-1,HBO 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9670
 #EXTINF:-1,HBO 2 
@@ -186,8 +186,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9685
 http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
 #EXTINF:-1,HBO XTREME 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
-#EXTINF:-1,ULTRA CINE
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/79183
 #EXTINF:-1,24H CINE PRIME 1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
 #EXTINF:-1,24H CINE PRIME 2
@@ -200,18 +198,20 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/266495
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266502
 #EXTINF:-1,24H NETFLIX CINE EN CASA 3
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266504
-#EXTINF:-1,24H CINE PRIME 1
+#EXTINF:-1,24H NETFLIX CINE EN CASA 4
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
+#EXTINF:-1,MORBIDO TV
+http://013tv.com:8080/F16077/2d3a2abc/198054
+#EXTINF:-1,ULTRA CINE
+http://www.1play.cool:25461/Pisingo2024/ee19e81224/79183
 #EXTINF:-1,CINELATINO
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
+#EXTINF:-1,CINEMA DINAMITA
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
 #EXTINF:-1,DE PELICULA 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
 #EXTINF:-1,DE PELICULA PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
-#EXTINF:-1,CINEMA DINAMITA
-http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
-#EXTINF:-1,MORBIDO TV
-http://013tv.com:8080/F16077/2d3a2abc/198054
 #EXTINF:-1,ZONA TUDN
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
 #EXTINF:-1,TUDN SPORTS
