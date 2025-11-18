@@ -36,7 +36,7 @@ MHGS7bs0sot6KZk5EZg.m3u8
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 #EXTINF:-1,CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
-#EXTINF:-1,TELEMUNDO INTERNACIONAL HD
+#EXTINF:-1,TELEMUNDO INTERNACIONAL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
 #EXTINF:-1,NBC UNIVERSO
 http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
@@ -46,38 +46,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
 #EXTINF:-1,USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
-#EXTINF:-1,MVS TV 
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1,CONCERT CHANNEL VIP
-http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/11479
-#EXTINF:-1,CONECTA TV
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
-#EXTINF:-1,TELERITMO
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
-#EXTINF:-1,HTV
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
-#EXTINF:-1,TELEHIT PLUS 
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
-#EXTINF:-1,MTV
-http://013tv.com:8080/F16077/2d3a2abc/306879
-#EXTINF:-1,MTV 00s
-http://013tv.com:8080/F16077/2d3a2abc/306880
-#EXTINF:-1,MTV 80s
-http://013tv.com:8080/F16077/2d3a2abc/306881
-#EXTINF:-1,MTV HITS
-http://013tv.com:8080/F16077/2d3a2abc/306882
-#EXTINF:-1,MTV LIVE
-http://013tv.com:8080/F16077/2d3a2abc/306883
-#EXTINF:-1,PLUTO TV VEVO 2K
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,K-POP by CJ ENM
-https://jmp2.uk/stvp-US39000038W
-#EXTINF:-1,XITE HITS
-https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:-1,XITE ROCK X METAL
-https://jmp2.uk/stvp-USBB2300004KV
-#EXTINF:-1,XITE SIEMPRE LATINO
-https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1,E! HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
 #EXTINF:-1,LIFETIME
@@ -110,6 +78,38 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9786
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9843
 #EXTINF:-1,DISCOVERY THEATER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
+#EXTINF:-1,MVS TV 
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1,CONECTA TV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
+#EXTINF:-1,TELERITMO
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
+#EXTINF:-1,HTV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
+#EXTINF:-1,TELEHIT PLUS 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
+#EXTINF:-1,MTV
+http://013tv.com:8080/F16077/2d3a2abc/306879
+#EXTINF:-1,MTV 00s
+http://013tv.com:8080/F16077/2d3a2abc/306880
+#EXTINF:-1,MTV 80s
+http://013tv.com:8080/F16077/2d3a2abc/306881
+#EXTINF:-1,MTV HITS
+http://013tv.com:8080/F16077/2d3a2abc/306882
+#EXTINF:-1,MTV LIVE
+http://013tv.com:8080/F16077/2d3a2abc/306883
+#EXTINF:-1,CONCERT CHANNEL VIP
+http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/11479
+#EXTINF:-1,PLUTO TV VEVO 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1,XITE HITS
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1,XITE ROCK X METAL
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1,XITE SIEMPRE LATINO
+https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1,STAR TVE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
 #EXTINF:-1,MULTIPREMIER HD
