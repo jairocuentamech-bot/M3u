@@ -94,6 +94,8 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
 #EXTINF:-1,TELEHIT PLUS 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
+#EXTINF:-1,VH1 LATINO
+http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
 #EXTINF:-1,MTV
 http://013tv.com:8080/F16077/2d3a2abc/306879
 #EXTINF:-1,MTV 00s
@@ -116,6 +118,8 @@ https://jmp2.uk/stvp-USBD3300004RH
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1,XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1,SYFY
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
 #EXTINF:-1,WARNER CHANNEL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9774
 #EXTINF:-1,STAR TVE
@@ -126,6 +130,18 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
 #EXTINF:-1,FX
 https://nxt.plus:8443/salvadorver/331015/169447.ts
+#EXTINF:-1,FOX 1
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:-1,FOX MOVIES
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:-1,FOX MOVIES LT
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:-1,FOX CINEMA
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:-1,FOX FAMILY
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:-1,FILM ZONE
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
 #EXTINF:-1,AXN 
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
 #EXTINF:-1,SPACE
