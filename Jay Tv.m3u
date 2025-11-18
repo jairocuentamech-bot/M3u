@@ -68,12 +68,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9847
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9807
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9814
-#EXTINF:-1,DISCOVERY H&H
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
-#EXTINF:-1,DISCOVERY H&H HD
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
-#EXTINF:-1,DISCOVERY HGTV
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
 #EXTINF:-1,DISCOVERY TLC HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9825
 #EXTINF:-1,DISCOVERY TURBO HD
@@ -84,6 +78,14 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9786
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9843
 #EXTINF:-1,DISCOVERY THEATER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
+#EXTINF:-1,DISCOVERY H&H
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
+#EXTINF:-1,DISCOVERY H&H HD
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
+#EXTINF:-1,DISCOVERY HGTV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
+#EXTINF:-1,RAKUTEN VIKI
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1,MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,CONECTA TV
