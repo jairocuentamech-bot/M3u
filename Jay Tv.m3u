@@ -50,7 +50,7 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 #EXTINF:-1,UNICABLE 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
-#EXTINF:-1,USA
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="Series",USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
 #EXTINF:-1,E! HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
