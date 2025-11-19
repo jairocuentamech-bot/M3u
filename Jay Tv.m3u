@@ -5,7 +5,7 @@ http://013tv.com:8080/F16077/2d3a2abc/9039
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1,MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
-#EXTINF:-1,AZTECA UNO
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="México",AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
