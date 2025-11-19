@@ -254,6 +254,10 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/31123
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,ESPN 3.1
+http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,ESPN 4 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134294
 ##EXTVLCOPT:network-caching=1000
