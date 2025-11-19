@@ -1,9 +1,9 @@
 #EXTM3U 
-#EXTINF:-1,IMAGEN TV
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Imagen TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="México",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
-#EXTINF:-1,IMAGEN TV+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Imagen TV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="México",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1,MILENIO TV
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="México",MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="México",AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
@@ -17,17 +17,17 @@ http://46.151.196.243:80/play/liKMdkhx4i0YRlyNHiiuIRNNGMz_7ySPavr4I5yqgAY
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="México",AZTECA INTERNACIONAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
-#EXTINF:-1,AZ CORAZON
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="México",,AZ CORAZON
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87568
 #EXTINF:-1,AZTECA DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 #EXTINF:-1,GALAVISION
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNp-GD-2no0_2T0KTLzaeQgs
-#EXTINF:-1,LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="México",LAS ESTRELLAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
-#EXTINF:-1,CANAL NUEVE
+#EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México",,CANAL NUEVE
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
-#EXTINF:-1,N+ FORO
+#EXTINF:-1 tvg-id="NPlus.mx@SD" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="México",N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México",CANAL 5 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
@@ -35,10 +35,10 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="México",ADN 40
 https://nxt.plus:8443/salvadorver/331015/227048.ts
-#EXTINF:-1,TELEMAX
+#EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="México",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 MHGS7bs0sot6KZk5EZg.m3u8
-#EXTINF:-1,TELEFÓRMULA
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TELEFÓRMULA
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 #EXTINF:-1,CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
@@ -98,11 +98,11 @@ https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",CONECTA TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
-#EXTINF:-1,TELERITMO
+#EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",TELERITMO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 #EXTINF:-1,HTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
-#EXTINF:-1,TELEHIT PLUS 
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TELEHIT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
 #EXTINF:-1,MTV
 http://013tv.com:8080/F16077/2d3a2abc/306879
@@ -156,7 +156,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
 #EXTINF:-1,CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,SONY CHANNEL
+#EXTINF:-1 tvg-id="SonyChannel.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas",SONY CHANNEL
 https://nxt.plus:8443/salvadorver/331015/43562.ts
 #EXTINF:-1,SONY COMEDIAS
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
@@ -226,7 +226,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,TUDN SPORTS
+#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -276,7 +276,7 @@ http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
 #EXTINF:-1,TVC DEPORTES HD
 http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
-#EXTINF:-1,ITV DEPORTES
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Deportes",ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 #EXTINF:-1,SKY SPORTS LA LIGA 
 http://2.magmas5.com:8000/Cristalguevara/89386563/145437
@@ -312,13 +312,16 @@ http://streamprostk.com:2082/paty12/202020/32359
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 #EXTINF:-1,DREAMS WORK
 http://go.iptvhn.net:25461/live/7619/7619/13336.ts
-#EXTINF:-1,ZTV ANIME
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="Caricaturas",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,ANIME ONEGAI 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1,ANIME ONEGAI 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:-1,24/7 Bob Esponja
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="cine-friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Caricaturas",CINE FRIKI
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=90e2619a-d67d-4df7-aadc-70862f04782a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-id="Johan22" tvg-name="24/7 Bob Esponja" tvg-logo="https://www.vhv.rs/viewpic/hoJwi_spongebob-all-characters-png-transparent-png" group-title="Caricaturas",ZTV ANIME
+,24/7 Bob Esponja
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -360,3 +363,9 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95028
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
 #EXTINF:-1,24/7 Un Show mas
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
+
+
+
+
+
+
