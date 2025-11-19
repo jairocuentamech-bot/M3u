@@ -356,6 +356,8 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
 #EXTINF:-1,THE BIG BANG THEORY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 2 BROKE GIRLS
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
 #EXTINF:-1,BOB ESPONJA
