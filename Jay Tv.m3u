@@ -234,7 +234,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 http://playtv44.com:8080/maamarilla425/123123/52749
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="ESPN.2.MX.mx" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN.2.MX" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",ESPN 2
 http://jima.pinals.xyz:8080/963529988tv/liguik/509
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
