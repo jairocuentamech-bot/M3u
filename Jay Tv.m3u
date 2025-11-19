@@ -322,44 +322,45 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=90e2619a-d67d-4df7-aadc-70862f04782a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,CINEMA GAMER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
+#EXTINF:-1,THE BIG BANG THEORY
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
 #EXTINF:-1,BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
-##EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=600
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,DRAGON BALL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Saiyajin
+#EXTINF:-1,DRAGON BALL Z - Saga Saiyajin
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94895
-#EXTINF:-1,24/7 Dragon Ball Z - Frezzer 
+#EXTINF:-1,DRAGON BALL Z - Frezzer 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94896
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)
+#EXTINF:-1,DRAGON BALL Z - Saga Cell
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94897
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Buu 
+#EXTINF:-1,DRAGON BALL Z - Saga Majin Buu 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94898
-#EXTINF:-1,24/7 Dragon Ball GT
+#EXTINF:-1,DRAGON BALL GT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94899
-#EXTINF:-1,24/7 The Big Bang Theory
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
-#EXTINF:-1,24/7 Los caballeros del Zodiaco
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO 1
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3397.m3u8
-#EXTINF:-1,24/7 Los Caballeros del Zodiaco
+#EXTINF:-1,LOS CABALLEROS DEL ZODIACO 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94912
-#EXTINF:-1,24/7 Los Simpsons
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
-#EXTINF:-1,24/7 Pokémon
+#EXTINF:-1,UN SHOW MAS
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
+#EXTINF:-1,POKEMON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129325.m3u8
-#EXTINF:-1,24/7 Los Chicos Del Barrio
+#EXTINF:-1,CHICOS DEL BARRIO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95018
-#EXTINF:-1,24/7 Oye Arnold
+#EXTINF:-1,OYE ARNOLD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95031
-#EXTINF:-1,24/7 Los Padrinos Magicos
+#EXTINF:-1,LOS PADRINOS MAGICOS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95653
-#EXTINF:-1,24/7 Los pingüinos de Madagascar
+#EXTINF:-1,LOS PINGÜINOS DE MADAGASCAR
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95028
 #EXTINF:-1,PHINEAS y FERB
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
-#EXTINF:-1,UN SHOW MAS
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
+#EXTINF:-1,LOS SIMPSON
+http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
+
 
 
 
