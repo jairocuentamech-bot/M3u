@@ -332,6 +332,8 @@ http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,GAME TOON
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134297
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,ANIME ONEGAI 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1,ANIME ONEGAI 2
