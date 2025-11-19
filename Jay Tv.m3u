@@ -33,7 +33,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1,ONCE TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
-#EXTINF:-1,ADN 40
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png",ADN 40
 https://nxt.plus:8443/salvadorver/331015/227048.ts
 #EXTINF:-1,TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
