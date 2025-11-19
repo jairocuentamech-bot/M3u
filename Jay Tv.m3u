@@ -31,7 +31,7 @@ http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México",CANAL 5 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
-#EXTINF:-1,ONCE TV
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Once TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="México",ONCE TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="México",ADN 40
 https://nxt.plus:8443/salvadorver/331015/227048.ts
