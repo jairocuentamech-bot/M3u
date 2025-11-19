@@ -29,7 +29,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
 #EXTINF:-1,N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-#EXTINF:-1,CANAL 5 
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México",CANAL 5 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1,ONCE TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
