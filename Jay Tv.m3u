@@ -90,6 +90,10 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
 #EXTINF:-1,DISCOVERY H&H HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+https://restream-live.realiptv.to:443/Bert123/Bert123/4208
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,DISCOVERY HGTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
 #EXTINF:-1,RAKUTEN VIKI
