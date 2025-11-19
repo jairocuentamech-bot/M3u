@@ -15,7 +15,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 http://46.151.196.243:80/play/liKMdkhx4i0YRlyNHiiuIRNNGMz_7ySPavr4I5yqgAY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="México",AZTECA INTERNACIONAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
 #EXTINF:-1,AZ CORAZON
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87568
