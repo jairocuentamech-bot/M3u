@@ -382,6 +382,10 @@ http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/94854
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
+#EXTINF:0,MANUAL DE NED
+http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/95003
+#EXTTURBOPLAYOPT:network-caching=10000 
+#EXTTURBOPLAYOPT--http-reconnect=true
 #EXTINF:0,BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 #EXTTURBOPLAYOPT:network-caching=10000 
