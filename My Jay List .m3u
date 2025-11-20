@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
-#EXTINF:20 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV
+#EXTINF:0 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
-#EXTINF:20 tvg-id="" tvg-name="IMAGEN TV+" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV+
+#EXTINF:0 tvg-id="" tvg-name="IMAGEN TV+" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:20 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png",MILENIO TV
+#EXTINF:0 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png",MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
-#EXTINF:20 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png",AZTECA UNO
+#EXTINF:0 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png",AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
-#EXTINF:20 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png",AZTECA 7 
+#EXTINF:0 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png",AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -342,77 +342,77 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
 #EXTINF:20,TEEN NICK
 http://streamprostk.com:2082/paty12/202020/32359
-#EXTINF:20,DISCOVERY KIDS 
+#EXTINF:0,DISCOVERY KIDS 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
-#EXTINF:20,DREAMS WORK
+#EXTINF:0,DREAMS WORK
 http://go.iptvhn.net:25461/live/7619/7619/13336.ts
-#EXTINF:20 tvg-id="1604" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",ZTV ANIME
+#EXTINF:0 tvg-id="1604" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:20,GAME TOON
+#EXTINF:0,GAME TOON
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134297
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,ANIME ONEGAI 
+#EXTINF:0,ANIME ONEGAI 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:20,ANIME ONEGAI 2
+#EXTINF:0,ANIME ONEGAI 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:20 tvg-id="CINE FRIKI" tvg-name="CINE FRIKI" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",CINE FRIKI
+#EXTINF:0 tvg-id="CINE FRIKI" tvg-name="CINE FRIKI" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",CINE FRIKI
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=90e2619a-d67d-4df7-aadc-70862f04782a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:20,CINEMA GAMER
+#EXTINF:0,CINEMA GAMER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,THE BIG BANG THEORY
+#EXTINF:0,THE BIG BANG THEORY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
 2 BROKE GIRLS
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
-#EXTINF:20,BOB ESPONJA
+#EXTINF:0,BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,DRAGON BALL
+#EXTINF:0,DRAGON BALL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,DRAGON BALL Z - Saga Saiyajin
+#EXTINF:0,DRAGON BALL Z - Saga Saiyajin
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94895
-#EXTINF:20,DRAGON BALL Z - Frezzer 
+#EXTINF:0,DRAGON BALL Z - Frezzer 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94896
-#EXTINF:20,DRAGON BALL Z - Saga Cell
+#EXTINF:0,DRAGON BALL Z - Saga Cell
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94897
-#EXTINF:20,DRAGON BALL Z - Saga Majin Buu 
+#EXTINF:0,DRAGON BALL Z - Saga Majin Buu 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94898
-#EXTINF:20,DRAGON BALL GT
+#EXTINF:0,DRAGON BALL GT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94899
-#EXTINF:20,LOS CABALLEROS DEL ZODIACO 1
+#EXTINF:0,LOS CABALLEROS DEL ZODIACO 1
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3397.m3u8
-#EXTINF:20,LOS CABALLEROS DEL ZODIACO 2
+#EXTINF:0,LOS CABALLEROS DEL ZODIACO 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94912
-#EXTINF:20,UN SHOW MAS
+#EXTINF:0,UN SHOW MAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
-#EXTINF:20,POKEMON
+#EXTINF:0,POKEMON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129325.m3u8
-#EXTINF:20,CHICOS DEL BARRIO
+#EXTINF:0,CHICOS DEL BARRIO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95018
-#EXTINF:20,OYE ARNOLD
+#EXTINF:0,OYE ARNOLD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95031
-#EXTINF:20,LOS PADRINOS MAGICOS
+#EXTINF:0,LOS PADRINOS MAGICOS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95653
-#EXTINF:20,LOS PINGÜINOS DE MADAGASCAR
+#EXTINF:0,LOS PINGÜINOS DE MADAGASCAR
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95028
-#EXTINF:20,PHINEAS y FERB
+#EXTINF:0,PHINEAS y FERB
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
-#EXTINF:20,LOS SIMPSON
+#EXTINF:0,LOS SIMPSON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
-#EXTINF:20,ED, EDD y EDDY
+#EXTINF:0,ED, EDD y EDDY
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/102888
-#EXTINF:20,BORUTO: NARUTO NEXT GENERATION
+#EXTINF:0,BORUTO: NARUTO NEXT GENERATION
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94887
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
-#EXTINF:20,WANDA
+#EXTINF:0,WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
