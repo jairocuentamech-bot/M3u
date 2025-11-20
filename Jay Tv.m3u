@@ -1,4 +1,6 @@
-#EXTM3U 
+#EXTM3U
+#EXTOTTOPT:network-caching=10000 
+#EXTOTTOPT:http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV+" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV+
@@ -86,18 +88,18 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9786
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9843
 #EXTINF:-1,DISCOVERY THEATER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
-#EXTINF:-1,DISCOVERY H&H
+#EXTINF:0,DISCOVERY H&H
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,DISCOVERY H&H HD
+#EXTOTTOPT:network-caching=10000 
+#EXTOTTOPT:http-reconnect=true
+#EXTINF:0,DISCOVERY H&H HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+#EXTOTTOPT:network-caching=10000 
+#EXTOTTOPT:http-reconnect=true
+#EXTINF:0,DISCOVERY HOME & HEALTH HD
 https://restream-live.realiptv.to:443/Bert123/Bert123/4208
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTOTTOPT:network-caching=10000 
+#EXTOTTOPT:http-reconnect=true
 #EXTINF:-1,DISCOVERY HGTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
 ##EXTVLCOPT:network-caching=1000
