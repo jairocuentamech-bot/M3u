@@ -357,7 +357,11 @@ https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:0,GAME TOON
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134297
 #EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT--http-reconnect=true
+#EXTTURBOPLAYOPT:http-reconnect=true
+#EXTINF:0,eSPORTS MAX TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTTURBOPLAYOPT:network-caching=10000 
+#EXTTURBOPLAYOPT:http-reconnect=true
 #EXTINF:0,ANIME ONEGAI 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:0,ANIME ONEGAI 2
