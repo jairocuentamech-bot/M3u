@@ -174,173 +174,175 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:20 tvg-id="SonyChannel.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",SONY CHANNEL
 https://nxt.plus:8443/salvadorver/331015/43562.ts
-#EXTINF:20,SONY COMEDIAS
+#EXTINF:0,SONY COMEDIAS
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:20,SONY NOVELAS
+#EXTINF:0,SONY NOVELAS
 https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:20,STUDIO UNIVERSAL 
+#EXTINF:0,STUDIO UNIVERSAL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
-#EXTINF:20,UNIVERSAL CHANNEL
+#EXTINF:0,UNIVERSAL CHANNEL
 http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
-#EXTINF:20,UNIVERSAL CINEMA
+#EXTINF:0,UNIVERSAL CINEMA
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9757
-#EXTINF:20,UNIVERSAL COMEDY
+#EXTINF:0,UNIVERSAL COMEDY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
-#EXTINF:20,UNIVERSAL PREMIERE
+#EXTINF:0,UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
-#EXTINF:20,GOLDEN
+#EXTINF:0,GOLDEN
 https://nxt.plus:8443/salvadorver/331015/43534.ts
-#EXTINF:20,GOLDEN EDGE
+#EXTINF:0,GOLDEN EDGE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
-#EXTINF:20 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png",GOLDEN PLUS
+#EXTINF:0 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
-#EXTINF:20,GOLDEN PREMIERE
+#EXTINF:0,GOLDEN PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
-#EXTINF:20,HBO 
+#EXTINF:0,HBO 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9670
-#EXTINF:20,HBO 2 
+#EXTINF:0,HBO 2 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9675
-#EXTINF:20,HBO FAMILY
+#EXTINF:0,HBO FAMILY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/85885
-#EXTINF:20,HBO MUNDI
+#EXTINF:0,HBO MUNDI
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2796.m3u8
-#EXTINF:20,HBO PLUS
+#EXTINF:0,HBO PLUS
 http://imaxplay.net:8880//live/Johan22/KFPPW/198755.ts
-#EXTINF:20,HBO PLUS HD
+#EXTINF:0,HBO PLUS HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9685
-#EXTINF:20,HBO POP
+#EXTINF:0,HBO POP
 http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
-#EXTINF:20,HBO XTREME 
+#EXTINF:0,HBO XTREME 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
-#EXTINF:20,24H CINE PRIME 1
+#EXTINF:0,24H CINE PRIME 1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
-#EXTINF:20,24H CINE PRIME 2
+#EXTINF:0,24H CINE PRIME 2
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306958
-#EXTINF:20,24H CINE PRIME 3
+#EXTINF:0,24H CINE PRIME 3
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306959
-#EXTINF:20,24H NETFLIX CINE EN CASA 1
+#EXTINF:0,24H NETFLIX CINE EN CASA 1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266495
-#EXTINF:20,24H NETFLIX CINE EN CASA 2
+#EXTINF:0,24H NETFLIX CINE EN CASA 2
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266502
-#EXTINF:20,24H NETFLIX CINE EN CASA 3
+#EXTINF:0,24H NETFLIX CINE EN CASA 3
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266504
-#EXTINF:20,24H NETFLIX CINE EN CASA 4
+#EXTINF:0,24H NETFLIX CINE EN CASA 4
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
-#EXTINF:20,MORBIDO TV
+#EXTINF:0,MORBIDO TV
 http://013tv.com:8080/F16077/2d3a2abc/198054
-#EXTINF:20,ULTRA CINE
+#EXTINF:0,ULTRA CINE
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/79183
-#EXTINF:20,CINELATINO
+#EXTINF:0,CINELATINO
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
-#EXTINF:20,CINEMA DINAMITA
+#EXTINF:0,CINEMA DINAMITA
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
-#EXTINF:20,DE PELICULA 
+#EXTINF:0,DE PELICULA 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
-#EXTINF:20,DE PELICULA PLUS
+#EXTINF:0,DE PELICULA PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
-#EXTINF:20,ZONA TUDN
+#EXTINF:0,ZONA TUDN
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN
+#EXTINF:0 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20 tvg-id="ESPN.MX.mx" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",ESPN 1
+#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",ESPN 1
 http://playtv44.com:8080/maamarilla425/123123/52749
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20,ESPN 1.1
+#EXTINF:0,ESPN 1.1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31122
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20 tvg-id="ESPN.MX.mx" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",ESPN 2
+#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",ESPN 2
 http://jima.pinals.xyz:8080/963529988tv/liguik/509
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20,ESPN 2.1
+#EXTINF:0,ESPN 2.1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31123
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png",ESPN 3 
+#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png",ESPN 3 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20,ESPN 3.1
+#EXTINF:0,ESPN 3.1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20,ESPN 4 
+#EXTINF:0,ESPN 4 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134294
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,ESPN 5
+#EXTINF:0,ESPN 5
 https://zonamovie.pro:443/play/U-Incyv09c9g67CQdtmkvvKjDWjCvx3f1-vAMSTLhpCztjp4ctzkTK6-onPrTaW2/ts
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,ESPN 6
+#EXTINF:0,ESPN 6
 http://go.iptvhn.net:25461/live/7619/7619/13347.ts
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
-#EXTINF:20,ESPN 7 
+#EXTINF:0,ESPN 7 
 http://2.magmas5.com:8000/Cristalguevara/89386563/3014
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:20,ESPN EXTRA
+#EXTINF:0,ESPN EXTRA
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
-#EXTINF:20,FOX SPORTS 
+#EXTINF:0,FOX SPORTS 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
-#EXTINF:20,FOX SPORTS 2 
+#EXTINF:0,FOX SPORTS 2 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
-#EXTINF:20,FOX SPORTS 3 
+#EXTINF:0,FOX SPORTS 3 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
-#EXTINF:20 tvg-id="FoxSportsPremium.mx@SD" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX SPORTS PREMIUM
+#EXTINF:0 tvg-id="FoxSportsPremium.mx@SD" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX SPORTS PREMIUM
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
-#EXTINF:20,CLARO SPORTS
+#EXTINF:0,CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
-#EXTINF:20,CLARO SPORTS 2
+#EXTINF:0,CLARO SPORTS 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9556
-#EXTINF:20,LAS LATIN AMERICA SPORT
+#EXTINF:0,LAS LATIN AMERICA SPORT
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHASB8vtGb2wLLWtaF7dJ5vWwwMvIUAqTjfVPxwt_ODtk
-#EXTINF:20,AYM SPORTS
+#EXTINF:0,LAS 1.1
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
+#EXTINF:0,AYM SPORTS
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
-#EXTINF:20 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png",TVC DEPORTES
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png",TVC DEPORTES
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
-#EXTINF:20,TVC DEPORTES HD
+#EXTINF:0,TVC DEPORTES HD
 http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
-#EXTINF:20 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png",ITV DEPORTES
+#EXTINF:0 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png",ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
-#EXTINF:20,SKY SPORTS LA LIGA 
+#EXTINF:0,SKY SPORTS LA LIGA 
 http://2.magmas5.com:8000/Cristalguevara/89386563/145437
-#EXTINF:20,SKY SPORTS LA LIGA 2
+#EXTINF:0,SKY SPORTS LA LIGA 2
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/249996
-#EXTINF:20,LMP 01 
+#EXTINF:0,LMP 01 
 http://imaxplay.net:8880//live/Johan22/KFPPW/623657.ts
-#EXTINF:20,LMP 02 
+#EXTINF:0,LMP 02 
 http://imaxplay.net:8880//live/Johan22/KFPPW/623658.ts
-#EXTINF:20,LMP 03 
+#EXTINF:0,LMP 03 
 http://imaxplay.net:8880//live/Johan22/KFPPW/623659.ts
-#EXTINF:20,LMP 04 
+#EXTINF:0,LMP 04 
 http://imaxplay.net:8880//live/Johan22/KFPPW/623660.ts
-#EXTINF:20,LMP 05 
+#EXTINF:0,LMP 05 
 http://imaxplay.net:8880//live/Johan22/KFPPW/623661.ts
-#EXTINF:20,PLUTO MLB
+#EXTINF:0,PLUTO MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:20,MLB NETWORK
+#EXTINF:0,MLB NETWORK
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:20,PLUTO TV DEPORTES 
+#EXTINF:0,PLUTO TV DEPORTES 
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTINF:20,DISNEY CHANNEL 
+#EXTINF:0,DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
-#EXTINF:20,DISNEY JR
+#EXTINF:0,DISNEY JR
 http://181.78.201.70:8000/play/a0hn/index.m3u8
-#EXTINF:20,CARTOON NETWORK
+#EXTINF:0,CARTOON NETWORK
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
-#EXTINF:20,NICK JR
+#EXTINF:0,NICK JR
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
-#EXTINF:20,NICKELODEON
+#EXTINF:0,NICKELODEON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
-#EXTINF:20,TEEN NICK
+#EXTINF:0,TEEN NICK
 http://streamprostk.com:2082/paty12/202020/32359
 #EXTINF:0,DISCOVERY KIDS 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
