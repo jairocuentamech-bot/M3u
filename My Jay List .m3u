@@ -365,7 +365,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
 #EXTINF:-1,THE BIG BANG THEORY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
 #EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT--http-reconnect=true
+#EXTTURBOPLAYOPT:http-reconnect=true
 2 BROKE GIRLS
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
 #EXTINF:-1,BOB ESPONJA
@@ -411,12 +411,11 @@ http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/102888
 #EXTINF:-1,BORUTO: NARUTO NEXT GENERATION
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94887
 #EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT--http-reconnect=true
+#EXTTURBOPLAYOPT:http-reconnect=true
 #EXTINF:-1,WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
 #EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT--http-reconnect=true
-
+#EXTTURBOPLAYOPT:http-reconnect=true
 
 
 
