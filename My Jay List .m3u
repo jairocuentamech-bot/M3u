@@ -450,7 +450,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
-
+#EXTINF:0,CLUB 3
+http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
+#EXTTURBOPLAYOPT:network-caching=10000 
+#EXTTURBOPLAYOPT:http-reconnect=true
 
 
 
