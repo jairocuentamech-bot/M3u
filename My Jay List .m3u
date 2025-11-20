@@ -356,18 +356,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=90e2619a-d67d-4df7-aadc-70862f04782a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,CINEMA GAMER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
-##EXTVLCOPT:network-caching=600
-#EXTVLCOPT--http-reconnect=true
+##EXTTURBOOPT:network-caching=6000 
+#EXTTURBOOPT--http-reconnect=true
 #EXTINF:-1,THE BIG BANG THEORY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+##EXTTURBOOPT:network-caching=6000 
+#EXTTURBOOPT--http-reconnect=true
 2 BROKE GIRLS
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
 #EXTINF:-1,BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
-##EXTVLCOPT:network-caching=600
-#EXTVLCOPT--http-reconnect=true
+##EXTTURBOOPT:network-caching=6000 
+#EXTTURBOOPT--http-reconnect=true
 #EXTINF:-1,DRAGON BALL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
 ##EXTVLCOPT:network-caching=600
@@ -410,8 +410,8 @@ http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94887
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
-##EXTVLCOPT:network-caching=600
-#EXTVLCOPT--http-reconnect=true
+##EXTTURBOOPT:network-caching=6000 
+#EXTTURBOOPT--http-reconnect=true
 
 
 
