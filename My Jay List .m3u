@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:0 tvg-id="" tvg-name="IMAGEN TV+" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV+
