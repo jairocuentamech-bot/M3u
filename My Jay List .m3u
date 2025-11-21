@@ -313,22 +313,20 @@ http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
 #EXTINF:0,TVC DEPORTES HD
 http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
+#EXTINF:0,TVC DEPORTES 2
+http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/157777
+#EXTINF:0,MEGA DEPORTES
+http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/157779
+#EXTINF:0,MEGA DEPORTES 2
+http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/157780
+#EXTINF:0,MEGA DEPORTES 3
+http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/157778
 #EXTINF:0 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png",ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 #EXTINF:0,SKY SPORTS LA LIGA 
 http://2.magmas5.com:8000/Cristalguevara/89386563/145437
 #EXTINF:0,SKY SPORTS LA LIGA 2
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/249996
-#EXTINF:0,LMP 01 
-http://imaxplay.net:8880//live/Johan22/KFPPW/623657.ts
-#EXTINF:0,LMP 02 
-http://imaxplay.net:8880//live/Johan22/KFPPW/623658.ts
-#EXTINF:0,LMP 03 
-http://imaxplay.net:8880//live/Johan22/KFPPW/623659.ts
-#EXTINF:0,LMP 04 
-http://imaxplay.net:8880//live/Johan22/KFPPW/623660.ts
-#EXTINF:0,LMP 05 
-http://imaxplay.net:8880//live/Johan22/KFPPW/623661.ts
 #EXTINF:0,PLUTO MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 #EXTINF:0,MLB NETWORK
@@ -361,10 +359,6 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/134297
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT:http-reconnect=true
-#EXTINF:0,ANIME ONEGAI 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:0,ANIME ONEGAI 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:0 tvg-id="CINE FRIKI" tvg-name="CINE FRIKI" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",CINE FRIKI
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=90e2619a-d67d-4df7-aadc-70862f04782a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:0,CINEMA GAMER
