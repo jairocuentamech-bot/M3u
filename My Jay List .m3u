@@ -309,8 +309,6 @@ http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHASB8vtGb2wLLWtaF7dJ5vWwwMvIUAqTj
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
 #EXTINF:0,AYM SPORTS
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
-#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png",TVC DEPORTES
-http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
 #EXTINF:0,TVC DEPORTES HD
 http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
 #EXTINF:0,TVC DEPORTES 2
@@ -351,10 +349,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 #EXTINF:0 tvg-id="1604" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:0,GAME TOON
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/134297
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
 #EXTINF:0,eSPORTS MAX TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTTURBOPLAYOPT:network-caching=10000 
@@ -377,16 +371,16 @@ http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/94854
 #EXTTURBOPLAYOPT:http-reconnect=true
 #EXTINF:0,MANUAL DE NED
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/95003
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT--http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 #EXTTURBOPLAYOPT:network-caching=10000 
 #EXTTURBOPLAYOPT--http-reconnect=true
 #EXTINF:0,DRAGON BALL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT--http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,DRAGON BALL Z - Saga Saiyajin
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94895
 #EXTINF:0,DRAGON BALL Z - Frezzer 
@@ -421,24 +415,24 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/102888
 #EXTINF:0,BORUTO: NARUTO NEXT GENERATION
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94887
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,PLUTO TV BOB ESPONJA
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,PLUTO TV e-SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,PLUTO TV iCARLY
 https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,PLUTO TV NICK TEEN
 https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
+#EXT-OPT:network-caching=10000 
+#EXT-OPT:http-reconnect=true
 #EXTINF:0,WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
 #EXT-OPT:network-caching=10000 
@@ -447,6 +441,3 @@ http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonr
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
 #EXT-OPT:network-caching=10000 
 #EXT-OPT:http-reconnect=true
-
-
-
