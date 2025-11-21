@@ -1,10 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:1
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTOPT:network-caching=10000 
-#EXTOPT:http-reconnect=true
 #EXTINF:0 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:0 tvg-id="" tvg-name="IMAGEN TV+" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png",IMAGEN TV+
@@ -456,9 +454,8 @@ http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonr
 #EXTTURBOPLAYOPT:http-reconnect=true
 #EXTINF:0,CLUB 3
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
-#EXTTURBOPLAYOPT:network-caching=10000 
-#EXTTURBOPLAYOPT:http-reconnect=true
-#EXT-X-ENDLIST
+#EXTOPT:network-caching=10000 
+#EXTOPT:http-reconnect=true
 
 
 
