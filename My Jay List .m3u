@@ -359,6 +359,8 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
 #EXT-OPT:network-caching=10000 
 #EXT-OPT:http-reconnect=true
+#EXTINF:0,LA FAMILIA PLUCHE
+http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/94859
 #EXTINF:0,THE BIG BANG THEORY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
 #EXTTURBOPLAYOPT:network-caching=10000 
