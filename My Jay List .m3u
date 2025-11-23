@@ -31,10 +31,10 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
 #EXTINF:0 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="México",ADN 40
 https://nxt.plus:8443/salvadorver/331015/227048.ts
-#EXTINF:0 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png",TELEMAX
+#EXTINF:0 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="México",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 MHGS7bs0sot6KZk5EZg.m3u8
-#EXTINF:0 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="México",TELEFÓRMULA
+#EXTINF:0 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TELEFÓRMULA
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 #EXTINF:0,CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
