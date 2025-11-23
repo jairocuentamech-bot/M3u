@@ -34,7 +34,7 @@ https://nxt.plus:8443/salvadorver/331015/227048.ts
 #EXTINF:0 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 MHGS7bs0sot6KZk5EZg.m3u8
-#EXTINF:0 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png",TELEFÓRMULA
+#EXTINF:0 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="México",TELEFÓRMULA
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 #EXTINF:0,CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
@@ -46,7 +46,7 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 #EXTINF:0,UNICABLE 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
-#EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png",USA
+#EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="Cine y Series",USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
 #EXTINF:0,E! HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
@@ -94,13 +94,13 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:0,MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:0 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png",CONECTA TV
+#EXTINF:0 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",CONECTA TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
-#EXTINF:0 tvg-id="Teleritmo.mx@SD" tvg-logo="https://i.imgur.com/9s380Bz.png",TELERITMO
+#EXTINF:0 tvg-id="Teleritmo.mx@SD" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",TELERITMO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 #EXTINF:0,HTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
-#EXTINF:0 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png",TELEHIT
+#EXTINF:0 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TELEHIT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
 #EXTINF:0,MTV
 http://013tv.com:8080/F16077/2d3a2abc/306879
@@ -180,7 +180,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:0,GOLDEN EDGE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
-#EXTINF:0 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png",GOLDEN PLUS
+#EXTINF:0 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cine Golden",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
 #EXTINF:0,GOLDEN PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
