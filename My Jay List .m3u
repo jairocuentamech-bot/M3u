@@ -260,7 +260,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes",FOX SPORTS 3 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
-#EXTINF:-1,FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes",FOX SPORTS PREMIUM
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
 #EXTINF:0,FOX ONE 1
 http://goldtv.lat:80/Danny2025/Gold25/360907
