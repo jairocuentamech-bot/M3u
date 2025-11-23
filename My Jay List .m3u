@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IMAGEN TV" tvg-name="IMAGEN TV" tvg-logo="" group-title="México",IMAGEN TV
+#EXTINF:-1,IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
-#EXTINF:-1 tvg-id="IMAGEN TV+" tvg-name="IMAGEN TV+" tvg-logo="" group-title="México",IMAGEN TV+
+#EXTINF:-1,IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1 tvg-id="MILENIO TV" tvg-name="MILENIO TV" tvg-logo="" group-title="México",MILENIO TV
+#EXTINF:-1,MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1,AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
 #EXTINF:-1,AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,AZTECA 7.1
 http://46.151.196.243:80/play/liKMdkhx4i0YRlyNHiiuIRNNGMz_7ySPavr4I5yqgAY
 #EXTINF:-1,AZTECA INTERNACIONAL
@@ -21,9 +23,9 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNp-GD-2no0_2T0KTLzaeQgs
 #EXTINF:-1,LAS ESTRELLAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
-#EXTINF:0 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México",CANAL NUEVE
+#EXTINF:0 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png",CANAL NUEVE
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
-#EXTINF:0 tvg-id="NPlus.mx@SD" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="México",N+ FORO
+#EXTINF:0 tvg-id="NPlus.mx@SD" tvg-logo="https://i.imgur.com/TwBa344.png",N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:0 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png",CANAL 5 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
@@ -140,11 +142,11 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
 #EXTINF:0,FX
 https://nxt.plus:8443/salvadorver/331015/169447.ts
-#EXTINF:0,AXN 
+#EXTINF:0 tvg-id="Canal AXN" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="Cine",AXN 
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
 #EXTINF:0,SPACE
 http://goldtv.lat:80/Danny2025/Gold25/1281
-#EXTINF:0,AMC
+#EXTINF:0 tvg-id="Canal AMC" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="Cine",AMC
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
 #EXTINF:0,CINEMAX
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9635
@@ -160,7 +162,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
 #EXTINF:0,CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-id="SonyChannel.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",SONY CHANNEL
+#EXTINF:0 tvg-id="SonyChannel.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine",SONY CHANNEL
 https://nxt.plus:8443/salvadorver/331015/43562.ts
 #EXTINF:0,SONY COMEDIAS
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
