@@ -9,9 +9,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="México",AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,AZTECA 7.1
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7.1" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="México",AZTECA 7.1
 http://46.151.196.243:80/play/liKMdkhx4i0YRlyNHiiuIRNNGMz_7ySPavr4I5yqgAY
 #EXTINF:-1,AZTECA INTERNACIONAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
