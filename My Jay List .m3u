@@ -64,7 +64,7 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9836
 #EXTINF:0 tvg-id="Comedy.Central.co" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedia",COMEDY CENTRAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
-#EXTINF:0,ANIMAL PLANET
+#EXTINF:0 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" group-title="Documentales",ANIMAL PLANET
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9811
 #EXTINF:0,NATGEO HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9847
@@ -88,7 +88,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
 #EXTINF:0,DISCOVERY HOME & HEALTH HD
 https://restream-live.realiptv.to:443/Bert123/Bert123/4208
-#EXTINF:0,DISCOVERY HGTV
+#EXTINF:0 tvg-id="HGTV.co" tvg-name="DISCOVERY HGTV" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="Documentales",DISCOVERY HGTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
 #EXTINF:0,RAKUTEN VIKI
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
