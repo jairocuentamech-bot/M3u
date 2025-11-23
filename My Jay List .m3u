@@ -256,7 +256,7 @@ http://2.magmas5.com:8000/Cristalguevara/89386563/3014
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
 #EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX SPORTS 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
-#EXTINF:0,FOX SPORTS 2 
+#EXTINF:0 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" tvg-name="FOX SPORTS 2" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="Deportes",FOX SPORTS 2 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
 #EXTINF:0,FOX SPORTS 3 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
