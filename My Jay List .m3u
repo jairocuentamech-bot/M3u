@@ -7,7 +7,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="México",AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
-#EXTINF:-1,AZTECA 7 
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="México",AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
