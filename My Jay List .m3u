@@ -242,7 +242,7 @@ http://goldtv.lat:80/Danny2025/Gold25/360993
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31123
 #EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes",ESPN 3 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
-#EXTINF:0,ESPN 3.1
+#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3.1" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes",ESPN 3.1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
 #EXTINF:0,ESPN 4 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134294
