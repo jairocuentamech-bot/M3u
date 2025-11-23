@@ -3,7 +3,7 @@
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1 tvg-id="IMAGEN TV+" tvg-name="IMAGEN TV+" tvg-logo="" group-title="México",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1,MILENIO TV
+#EXTINF:-1 tvg-id="MILENIO TV" tvg-name="MILENIO TV" tvg-logo="" group-title="México",MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1,AZTECA UNO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
