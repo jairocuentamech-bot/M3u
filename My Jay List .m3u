@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-logo="" group-title="México",IMAGEN TV
+#EXTINF:-1tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-logo="" group-title="México",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1tvg-id="Imagen TV+" tvg-name="Imagen TV+" tvg-logo="" group-title="México",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
