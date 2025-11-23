@@ -226,7 +226,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
 #EXTINF:0 tvg-id="Canal.De.Película.mx" tvg-name="DE PELICULA" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="Cine Latino",DE PELICULA 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
-#EXTINF:0,DE PELICULA PLUS
+#EXTINF:0 tvg-id="De.Pelicula.Clasico.us" tvg-name="DE PELICULA PLUS" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="Cine Latino",DE PELICULA PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
 #EXTINF:0 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",ZONA TUDN
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
