@@ -138,7 +138,7 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
 #EXTINF:0,STARZ FAMILY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
-#EXTINF:0,FX
+#EXTINF:0 tvg-id="Canal.FX.(México).mx" tvg-name="FX" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="Cine",FX
 https://nxt.plus:8443/salvadorver/331015/169447.ts
 #EXTINF:0 tvg-id="Canal AXN" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="Cine",AXN 
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
