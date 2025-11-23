@@ -268,7 +268,7 @@ http://goldtv.lat:80/Danny2025/Gold25/360907
 http://duolatin.top:8080//live/qwerty/qwerty/3020676.ts
 #EXTINF:0,CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
-#EXTINF:0,CLARO SPORTS 2
+#EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="Deportes",CLARO SPORTS 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9556
 #EXTINF:0,LAS LATIN AMERICA SPORT
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHASB8vtGb2wLLWtaF7dJ5vWwwMvIUAqTjfVPxwt_ODtk
