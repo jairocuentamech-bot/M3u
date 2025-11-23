@@ -254,7 +254,7 @@ http://go.iptvhn.net:25461/live/7619/7619/13347.ts
 http://2.magmas5.com:8000/Cristalguevara/89386563/3014
 #EXTINF:0 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes",ESPN EXTRA
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
-#EXTINF:0,FOX SPORTS 
+#EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX SPORTS 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
 #EXTINF:0,FOX SPORTS 2 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
