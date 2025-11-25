@@ -178,7 +178,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
 #EXTINF:0 tvg-id="Canal.Golden.(México).mx" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="Cine Golden",GOLDEN
 https://nxt.plus:8443/salvadorver/331015/43534.ts
-#EXTINF:0,GOLDEN EDGE
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine",GOLDEN EDGE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
 #EXTINF:0 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Cine Golden",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
@@ -214,9 +214,9 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/266504
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
 #EXTINF:0 tvg-id="" tvg-name="NETFLIX 7" tvg-logo="http://galaxtv.art:80/images/e21a4246951ace4dc2f64166324b511f.png" group-title="24 Hrs Cine",NETFLIX 7
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306959
-#EXTINF:0,MORBIDO TV
+#EXTINF:0 tvg-id="" tvg-name="MORBIDO TV" tvg-logo="" group-title="Cine",MORBIDO TV
 http://013tv.com:8080/F16077/2d3a2abc/198054
-#EXTINF:0,ULTRA CINE
+#EXTINF:0 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="" group-title="Cine",ULTRA CINE
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/79183
 #EXTINF:0 tvg-id="Canal.Cinelatino.cl" tvg-name="CINE LATINO" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Cine Latino",CINELATINO
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
@@ -260,9 +260,9 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes",FOX SPORTS PREMIUM
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
-#EXTINF:0,FOX ONE 1
+#EXTINF:0 tvg-id="" tvg-name="FOX ONE 1" tvg-logo="" group-title="Deportes",FOX ONE 1
 http://goldtv.lat:80/Danny2025/Gold25/360907
-#EXTINF:0,FOX ONE 2
+#EXTINF:0 tvg-id="" tvg-name="FOX ONE 2" tvg-logo="" group-title="Deportes",FOX ONE 2
 http://duolatin.top:8080//live/qwerty/qwerty/3020676.ts
 #EXTINF:0 tvg-id="Claro Sports" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Deportes",CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
@@ -280,13 +280,13 @@ http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/574232.ts
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/157777
 #EXTINF:-1 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Deportes",ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
-#EXTINF:-1,SKY SPORTS LA LIGA 
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="" group-title="Deportes",SKY SPORTS LA LIGA 
 http://2.magmas5.com:8000/Cristalguevara/89386563/145437
-#EXTINF:-1,PLUTO MLB
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO MLB" tvg-logo="" group-title="Deportes",PLUTO MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:0,MLB NETWORK
+#EXTINF:0 tvg-id="" tvg-name="MLB NEYWORK" tvg-logo="" group-title="Deportes",MLB NETWORK
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:0,PLUTO TV DEPORTES 
+#EXTINF:0 tvg-id="" tvg-name="PLUTO TV DEPORTES" tvg-logo="" group-title="Deportes",PLUTO TV DEPORTES 
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:0 tvg-id="MX - Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
@@ -362,7 +362,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95653
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS SIMPSON" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",LOS SIMPSON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
-#EXTINF:-1,WANDA
+#EXTINF:-1 tvg-id="" tvg-name="WANDA" tvg-logo="" group-title="Zona X",WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
-#EXTINF:-1,CLUB 3
+#EXTINF:-1 tvg-id="" tvg-name="CLUB 3" tvg-logo="" group-title="Zona X",CLUB 3
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
