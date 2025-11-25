@@ -42,9 +42,9 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
 #EXTINF:0 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Vida",NBC UNIVERSO
 http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
-#EXTINF:0,UNIVISION 
+#EXTINF:0 tvg-id="UNI.(KWEX).San.Antonio,.TX.us" tvg-name="UNIVISIÓN" tvg-logo="http://209.126.82.213/USALat/unimas.png" group-title="Vida",UNIVISION 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
-#EXTINF:0,UNICABLE 
+#EXTINF:0 tvg-id="I682.84425.schedulesdirect.org" tvg-name="UNICABLE" tvg-logo="http://209.126.82.213/MX/unicable_mx.png" group-title="México",UNICABLE 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
 #EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="Cine y Series",USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
