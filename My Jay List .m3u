@@ -120,11 +120,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="K-POP" tvg-logo="" group-title="Música",K-POP
 https://jmp2.uk/stvp-US39000038W
-#EXTINF:0 tvg-id="" tvg-name="XITE HITS" tvg-logo="" group-title="Música",XITE HITS
+#EXTINF:0 tvg-id="" tvg-name="XITE HITS" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Música",XITE HITS
 https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:0 tvg-id="" tvg-name="XITE ROCK X METAL" tvg-logo="" group-title="Música",XITE ROCK X METAL
+#EXTINF:0 tvg-id="" tvg-name="XITE ROCK X METAL" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Música",XITE ROCK X METAL
 https://jmp2.uk/stvp-USBB2300004KV
-#EXTINF:0 tvg-id="" tvg-name="XITE SIEMPRE LATINO" tvg-logo="" group-title="Música",XITE SIEMPRE LATINO
+#EXTINF:0 tvg-id="" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Música",XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:0 tvg-id="" tvg-name="ITV URBAN MUSIC" tvg-logo="" group-title="Música",ITV URBAN MUSIC
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
