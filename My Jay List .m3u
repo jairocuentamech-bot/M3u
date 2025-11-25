@@ -40,7 +40,7 @@ http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
 #EXTINF:0 tvg-id="telemundo.pr" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Vida",TELEMUNDO INTERNACIONAL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
-#EXTINF:0,NBC UNIVERSO
+#EXTINF:0 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Vida",NBC UNIVERSO
 http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
 #EXTINF:0,UNIVISION 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
