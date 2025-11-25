@@ -36,7 +36,7 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 MHGS7bs0sot6KZk5EZg.m3u8
 #EXTINF:0 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TELEFÓRMULA
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
-#EXTINF:0 tvg-id="PE - CNN en Español" tvg-name="CNN EN ESPAÑOL" tvg-logo="http://209.126.82.213/MX/cnnespanol_mx.png" group-title="Noticias",CNN EN ESPAÑOL
+#EXTINF:0 tvg-id="PE - CNN en Español" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
 #EXTINF:0 tvg-id="telemundo.pr" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Vida",TELEMUNDO INTERNACIONAL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
