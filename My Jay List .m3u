@@ -310,13 +310,13 @@ http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,CINEMA GAMER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
-#EXTINF:-1,LA FAMILIA PLUCHE
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LA FAMILIA PLUCHE" tvg-logo="" group-title="24 HRS",LA FAMILIA PLUCHE
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/94859
-#EXTINF:-1,EL CHAVO DEL 8
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="EL CHAVO DEL 8" tvg-logo="" group-title="24 HRS",EL CHAVO DEL 8
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94852
-#EXTINF:-1,THE BIG BANG THEORY
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="THE BIG BANG THEORY" tvg-logo="" group-title="24 HRS",THE BIG BANG THEORY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
-#EXTINF:-1,2 BROKE GIRLS
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="2 BROKE GIRLS" tvg-logo="" group-title="24 HRS",2 BROKE GIRLS
 http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="VICTORIOUS" tvg-logo="" group-title="24 HRS",VICTORIOUS
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/95647
