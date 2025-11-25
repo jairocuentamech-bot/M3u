@@ -308,7 +308,7 @@ http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA GAMER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="Infantiles",CINEMA GAMER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LA FAMILIA PLUCHE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",LA FAMILIA PLUCHE
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LA FAMILIA PLUCHE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Series",LA FAMILIA PLUCHE
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/94859
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="EL CHAVO DEL 8" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",EL CHAVO DEL 8
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94852
@@ -320,47 +320,47 @@ http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/95647
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="MANUAL DE NED" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",MANUAL DE NED
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/95003
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="BOB ESPONJA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",BOB ESPONJA
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="BOB ESPONJA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - SAYAJIN" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL Z - Saga Saiyajin
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - SAYAJIN" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL Z - Saga Saiyajin
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94895
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - FREEZER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL Z - Frezzer 
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - FREEZER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL Z - Frezzer 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94896
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - CELL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL Z - Saga Cell
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - CELL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL Z - Saga Cell
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94897
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - MAJIN BU" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL Z - Saga Majin Buu 
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL Z - MAJIN BU" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL Z - Saga Majin Buu 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94898
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL GT" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL GT
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL GT" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL GT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94899
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL SÚPER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DRAGON BALL SUPER
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DRAGON BALL SÚPER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",DRAGON BALL SUPER
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/94901
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS CABALLEROS DEL ZODIACO" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",LOS CABALLEROS DEL ZODIACO 1
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS CABALLEROS DEL ZODIACO" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",LOS CABALLEROS DEL ZODIACO 1
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3397.m3u8
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS CABALLEROS DEL ZODIACO 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",LOS CABALLEROS DEL ZODIACO 2
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS CABALLEROS DEL ZODIACO 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",LOS CABALLEROS DEL ZODIACO 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94912
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS GATOS SAMURAI" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS" ,LOS GATOS SAMURAI
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS GATOS SAMURAI" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil" ,LOS GATOS SAMURAI
 http://globalplayer.io:80/FlorgonzaLe58/XcygZxpKwprd/34295
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="BETA X" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",BETA X
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="BETA X" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",BETA X
 http://globalplayer.io:80/FlorgonzaLe58/XcygZxpKwprd/306606
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FLY" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",FLY
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FLY" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",FLY
 http://globalplayer.io:80/FlorgonzaLe58/XcygZxpKwprd/101925
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="UN SHOW MÁS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",UN SHOW MAS
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="UN SHOW MÁS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",UN SHOW MAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="POKEMÓN" tvg-logo="" group-title="24 HRS",POKEMÓN
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="POKEMÓN" tvg-logo="" group-title="24 Hrs Infantil",POKEMÓN
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129325.m3u8
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DINOSAURIOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",DINOSAURIOS
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/428547.ts
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="HORA DE AVENTURA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",HORA DE AVENTURA
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="HORA DE AVENTURA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",HORA DE AVENTURA
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/582527.ts
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="OYE ARNOLD" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",OYE ARNOLD
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="OYE ARNOLD" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",OYE ARNOLD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95031
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS PADRINOS MAGICOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",LOS PADRINOS MAGICOS
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS PADRINOS MAGICOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",LOS PADRINOS MAGICOS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95653
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="PHINEAS Y FERB" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",PHINEAS Y FERB
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="PHINEAS Y FERB" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",PHINEAS Y FERB
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS SIMPSON" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 HRS",LOS SIMPSON
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LOS SIMPSON" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Infantil",LOS SIMPSON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
 #EXTINF:-1,WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
