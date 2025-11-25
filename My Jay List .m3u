@@ -292,7 +292,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:0 tvg-id="MX - Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png" group-title="Infantiles",DISNEY JR
 http://181.78.201.70:8000/play/a0hn/index.m3u8
-#EXTINF:0 tvg-id="MX - Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://od.lk/s/MzlfMzQ1NjE1OTBf/mx_cartoon_network.png" group-title="Infantiles",CARTOON NETWORK
+#EXTINF:0 tvg-id="MX - Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",CARTOON NETWORK
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
 #EXTINF:0 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",NICK JR
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
