@@ -290,7 +290,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:0,PLUTO TV DEPORTES 
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTINF:0,DISNEY CHANNEL 
+#EXTINF:0 tvg-id="MX - Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="http://209.126.82.213/MX/disney_mx.png" group-title="Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:0,DISNEY JR
 http://181.78.201.70:8000/play/a0hn/index.m3u8
