@@ -202,7 +202,7 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CINE PRIME 1" tvg-logo="https://share.google/images/4RUL6xwOp8U6oinhj" group-title="Cine 24 Hrs",24H CINE PRIME 1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
-#EXTINF:0,24H CINE PRIME 2
+#EXTINF:0 tvg-id="" tvg-name="CINE PRIME 2" tvg-logo="https://share.google/images/4RUL6xwOp8U6oinhj" group-title="Cine 24 Hrs",24H CINE PRIME 2
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306958
 #EXTINF:0,24H CINE PRIME 3
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306959
