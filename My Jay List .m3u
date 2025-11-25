@@ -292,11 +292,11 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:0 tvg-id="MX - Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
-#EXTINF:0 tvg-id="MX - Disney Junior" tvg-name="DISNEY JR" tvg-logo="http://209.126.82.213/MX/disneyjunior_mx.png" group-title="Infantiles",DISNEY JR
+#EXTINF:0 tvg-id="MX - Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Infantiles",DISNEY JR
 http://181.78.201.70:8000/play/a0hn/index.m3u8
 #EXTINF:0,CARTOON NETWORK
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
-#EXTINF:0 tvg-id="" tvg-name="NICK JR" tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png" group-title="Infantiles",NICK JR
+#EXTINF:0 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",NICK JR
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
 #EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="NICKELODEON" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="Infantiles",NICKELODEON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
