@@ -200,7 +200,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9685
 http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
 #EXTINF:0 tvg-id="HBO.XTREME.co" tvg-name="HBO XTREME" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="Cine HBO",HBO XTREME 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
-#EXTINF:0,24H CINE PRIME 1
+#EXTINF:0 tvg-id="" tvg-name="CINE PRIME 1" tvg-logo="https://share.google/images/4RUL6xwOp8U6oinhj" group-title="Cine 24 Hrs",24H CINE PRIME 1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306957
 #EXTINF:0,24H CINE PRIME 2
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306958
