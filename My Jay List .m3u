@@ -136,13 +136,13 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9774
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
 #EXTINF:0 tvg-id="MX - FOX" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine Y Series",STAR CHANNEL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
-#EXTINF:0,STARZ FAMILY
+#EXTINF:0 tvg-id="" tvg-name="STARZ FAMILY" tvg-logo="" group-title="Cine",STARZ FAMILY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
 #EXTINF:0 tvg-id="Canal.FX.(México).mx" tvg-name="FX" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="Cine",FX
 https://nxt.plus:8443/salvadorver/331015/169447.ts
 #EXTINF:0 tvg-id="Canal AXN" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="Cine",AXN 
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
-#EXTINF:0,SPACE
+#EXTINF:0 tvg-id="" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Cine",SPACE
 http://goldtv.lat:80/Danny2025/Gold25/1281
 #EXTINF:0 tvg-id="Canal AMC" tvg-name="AMC" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="Cine",AMC
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
@@ -150,13 +150,13 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9635
 #EXTINF:0 tvg-id="Cinecanal.co" tvg-name="CINECANAL" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="Cine",CINECANAL
 https://nxt.plus:8443/salvadorver/331015/169437.ts
-#EXTINF:0,MULTIPREMIER
+#EXTINF:0 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Cine",MULTIPREMIER
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/453505.ts
 #EXTINF:0 tvg-id="Canal.Paramount.Channel.Latinoamérica.sv" tvg-name="PARAMOUNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="Cine",PARAMOUNT 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2826.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TNT" tvg-logo="https://i.imgur.com/4MYjMsD.png" group-title="Cine",TNT 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
-#EXTINF:0,TNT SERIES
+#EXTINF:0 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine Y Series",TNT SERIES
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
 #EXTINF:0,CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
