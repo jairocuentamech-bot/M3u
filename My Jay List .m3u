@@ -274,11 +274,11 @@ http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHASB8vtGb2wLLWtaF7dJ5vWwwMvIUAqTj
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
 #EXTINF:0 tvg-id="I80.34863.schedulesdirect.org" tvg-name="AYM SPORTS" tvg-logo="https://i.imgur.com/yu3Bpbd.png" group-title="Deportes",AYM SPORTS
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
-#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="Deportes",TVC DEPORTES HD
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Deportes",TVC DEPORTES HD
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/574232.ts
-#EXTINF:0,TVC DEPORTES 2
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="Deportes",TVC DEPORTES 2
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/157777
-#EXTINF:-1,ITV DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Deportes",ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 #EXTINF:-1,SKY SPORTS LA LIGA 
 http://2.magmas5.com:8000/Cristalguevara/89386563/145437
