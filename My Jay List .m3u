@@ -102,7 +102,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
 #EXTINF:0 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TELEHIT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
-#EXTINF:0,MTV
+#EXTINF:0 tvg-id="CO - MTV" tvg-name="MTV" tvg-logo="http://209.126.82.213/MX/mtv_mx.png" group-title="Música",MTV
 http://013tv.com:8080/F16077/2d3a2abc/306879
 #EXTINF:0,MTV 00s
 http://013tv.com:8080/F16077/2d3a2abc/306880
