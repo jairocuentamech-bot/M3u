@@ -384,6 +384,8 @@ http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonr
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
 #EXTINF:-1 tvg-id="" tvg-name="GHOST TV CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",GHOST TV CARTOON
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20926
+#EXTINF:-1 tvg-id="" tvg-name="SMX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",SMX
+http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/79621.ts
 #EXTINF:-1 tvg-id="" tvg-name="MFS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MFS
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidgzGA5j5BHdFXDUivAfkZAjlfdM_Ss6UUV9OMf7pyP4Z
 #EXTINF:-1 tvg-id="" tvg-name="MTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MTS
@@ -394,7 +396,6 @@ http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20075
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20053
 #EXTINF:-1 tvg-id="" tvg-name="RK1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",RK1
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",PRIVATE
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidt99PGEye6Syq02ZIEpjr6G7rAOJ1wasxJwtzU6I66Pd
 #EXTINF:-1 tvg-id="" tvg-name="BNB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",BNB
@@ -434,7 +435,8 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106523
 #EXTINF:-1 tvg-id="" tvg-name="OF 4" tvg-logo="" group-title="Zona X",OF 4
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106524
 
-#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
