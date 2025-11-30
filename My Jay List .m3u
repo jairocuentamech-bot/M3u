@@ -390,6 +390,8 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidgzGA5j5BHdFXDUivAfkZAjlfdM
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidoGY0SnOaJcovzkVxAfUUhIi82PbNdAytDX-cqt-iuBw
 #EXTINF:-1 tvg-id="" tvg-name="BRZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",BRZ
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20075
+#EXTINF:-1 tvg-id="" tvg-name="DUSK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",DUSK
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20053
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",PRIVATE
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidt99PGEye6Syq02ZIEpjr6G7rAOJ1wasxJwtzU6I66Pd
 #EXTINF:-1 tvg-id="" tvg-name="BNB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",BNB
@@ -418,10 +420,10 @@ http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20073
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20071
 #EXTINF:-1 tvg-id="" tvg-name="4U7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",4U7
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20069
+#EXTINF:-1 tvg-id="" tvg-name="4U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",4U8
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20064
 
-#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
-#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
-#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+
 #EXTINF:-1 tvg-id="" tvg-name="OF 1" tvg-logo="" group-title="Zona X",OF 1
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106521
 #EXTINF:-1 tvg-id="" tvg-name="OF 2" tvg-logo="" group-title="Zona X",OF 2
