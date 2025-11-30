@@ -370,6 +370,18 @@ http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/94859
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/95003
 #EXTINF:-1 tvg-id="" tvg-name="VICTORIOUS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Series",VICTORIOUS
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/95647
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",HARRY POTTER
+http://www.1play.cool:25461/2137135563/63ab966fe8/266592
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",CINE MARVEL
+http://www.1play.cool:25461/2137135563/63ab966fe8/266544
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",PIRATAS DEL CARIBE
+http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/531712.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",DISNEY PIXAR
+http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/177339.ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="WANDA" tvg-logo="" group-title="Zona X",WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
 #EXTINF:-1 tvg-id="" tvg-name="CLUB 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",CLUB 3
@@ -380,6 +392,8 @@ http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20926
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidgzGA5j5BHdFXDUivAfkZAjlfdM_Ss6UUV9OMf7pyP4Z
 #EXTINF:-1 tvg-id="" tvg-name="MTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MTS
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidoGY0SnOaJcovzkVxAfUUhIi82PbNdAytDX-cqt-iuBw
+#EXTINF:-1 tvg-id="" tvg-name="BRZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",BRZ
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20075
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",PRIVATE
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidt99PGEye6Syq02ZIEpjr6G7rAOJ1wasxJwtzU6I66Pd
 #EXTINF:-1 tvg-id="" tvg-name="BNB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",BNB
@@ -392,8 +406,24 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vh94km
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vgixQxkMQQbHMHUGGjId3Nw
 #EXTINF:-1 tvg-id="" tvg-name="AD8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",AD8
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vi1XUDMqzX0dXkj2hBnymnI
-#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"AD9
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",AD9
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vj22UL47KT1AwMJln4noOr0
+#EXTINF:-1 tvg-id="" tvg-name="4U1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",4U1
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/5551
+#EXTINF:-1 tvg-id="" tvg-name="4U2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",4U2
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20113
+#EXTINF:-1 tvg-id="" tvg-name="4U3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",FU3
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20095
+#EXTINF:-1 tvg-id="" tvg-name="4U4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",4U4
+http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20082
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="AD9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="OF 1" tvg-logo="" group-title="Zona X",OF 1
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106521
 #EXTINF:-1 tvg-id="" tvg-name="OF 2" tvg-logo="" group-title="Zona X",OF 2
@@ -402,11 +432,4 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106522
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106523
 #EXTINF:-1 tvg-id="" tvg-name="OF 4" tvg-logo="" group-title="Zona X",OF 4
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106524
-#EXTINF:-1 tvg-id="" tvg-name="HARRY POTER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",HARRY POTTER
-http://www.1play.cool:25461/2137135563/63ab966fe8/266592
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",CINE MARVEL
-http://www.1play.cool:25461/2137135563/63ab966fe8/266544
-#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",PIRATAS DEL CARIBE
-http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/531712.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="24 Hrs Peliculas",DISNEY PIXAR
-http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/177339.ts
+
