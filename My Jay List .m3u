@@ -402,6 +402,8 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidt99PGEye6Syq02ZIEpjr6G7rAO
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidk7aUrV3uwX3sfHJdH_-VpFxA97SiU8Zx95AmpVgfkJQ
 #EXTINF:-1 tvg-id="" tvg-name="VIVID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",VIVID
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqJGWvwLDRCASi_kA76i7mAZCF0uy_ZbadoVwZwDbZm6
+#EXTINF:-1 tvg-id="" tvg-name="PMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",PMT
+http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596819.ts
 #EXTINF:-1 tvg-id="" tvg-name="AD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",AD1
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vh94kml1JNZox3aStuekVO3
 #EXTINF:-1 tvg-id="" tvg-name="AD3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",AD3
@@ -437,7 +439,8 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106524
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
