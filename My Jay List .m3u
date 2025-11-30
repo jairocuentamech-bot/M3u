@@ -404,6 +404,14 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidk7aUrV3uwX3sfHJdH_-VpFxA97
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqJGWvwLDRCASi_kA76i7mAZCF0uy_ZbadoVwZwDbZm6
 #EXTINF:-1 tvg-id="" tvg-name="PMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",PMT
 http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596819.ts
+#EXTINF:-1 tvg-id="" tvg-name="MSR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MSR
+http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596821.ts
+#EXTINF:-1 tvg-id="" tvg-name="BTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",BTS
+http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596827.ts
+#EXTINF:-1 tvg-id="" tvg-name="MFP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MFP
+http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596857.ts
+#EXTINF:-1 tvg-id="" tvg-name="MPF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MPF
+http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596858.ts
 #EXTINF:-1 tvg-id="" tvg-name="AD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",AD1
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vh94kml1JNZox3aStuekVO3
 #EXTINF:-1 tvg-id="" tvg-name="AD3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",AD3
@@ -437,10 +445,13 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106523
 #EXTINF:-1 tvg-id="" tvg-name="OF 4" tvg-logo="" group-title="Zona X",OF 4
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106524
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
 #EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X"
+
