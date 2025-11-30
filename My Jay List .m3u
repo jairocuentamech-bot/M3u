@@ -376,6 +376,10 @@ http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonr
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
 #EXTINF:-1 tvg-id="" tvg-name="GHOST TV CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",GHOST TV CARTOON
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20926
+#EXTINF:-1 tvg-id="" tvg-name="MFS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MFS
+https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidgzGA5j5BHdFXDUivAfkZAjlfdM_Ss6UUV9OMf7pyP4Z
+#EXTINF:-1 tvg-id="" tvg-name="MTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X",MTS
+https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidoGY0SnOaJcovzkVxAfUUhIi82PbNdAytDX-cqt-iuBw
 #EXTINF:-1 tvg-id="" tvg-name="OF 1" tvg-logo="" group-title="Zona X",OF 1
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106521
 #EXTINF:-1 tvg-id="" tvg-name="OF 2" tvg-logo="" group-title="Zona X",OF 2
