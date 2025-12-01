@@ -264,7 +264,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes",FOX SPORTS PREMIUM
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
-#EXTINF:0 tvg-id="" tvg-name="FOX VIVO" tvg-logo="" group-title="Deportes",FOX VIVO
+#EXTINF:0 tvg-id="" tvg-name="FOX VIVO" tvg-logo="https://commons.wikimedia.org/wiki/File:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Deportes",FOX VIVO
 http://duolatin.top:8080//live/qwerty/qwerty/3020676.ts
 #EXTINF:0 tvg-id="Claro Sports" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Deportes",CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
