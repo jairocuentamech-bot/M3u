@@ -310,6 +310,8 @@ http://go.iptvhn.net:25461/live/7619/7619/13336.ts
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA GAMER" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="Infantiles",CINEMA GAMER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
+#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="Infantiles",BITME
+https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqp4wZctuR93wEFe6Hh09sS3dUHrLYIbGckcshHfEXa6
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24 Hrs Infantil",BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24 Hrs Infantil",BOB ESPONJA 2
@@ -448,6 +450,14 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqJGWvwLDRCASi_kA76i7mAZCF0
 http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596819.ts
 #EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",REALITY KINGS 2
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20082
+#EXTINF:-1 tvg-id="" tvg-name="AMATEUR EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",AMATEUR EURO
+http://live.detodotvplay.com:8080/Risario8/Pineda13/302776
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas"
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas"
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas"
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas"
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",AD1
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vh94kml1JNZox3aStuekVO3
 #EXTINF:-1 tvg-id="" tvg-name="AD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",AD2
@@ -482,3 +492,5 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106524
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
 #EXTINF:-1 tvg-id="" tvg-name="GHOST TV CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X Dibujos",GHOST TV CARTOON
 http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20926
+#EXTINF:-1 tvg-id="" tvg-name="HENTAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X Dibujos",HENTAI
+http://live.detodotvplay.com:8080/Risario8/Pineda13/155620
