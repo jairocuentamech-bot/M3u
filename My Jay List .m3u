@@ -248,15 +248,15 @@ http://go.iptvhn.net:25461/live/7619/7619/13347.ts
 http://2.magmas5.com:8000/Cristalguevara/89386563/3014
 #EXTINF:0 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes ESPN",ESPN EXTRA
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
-#EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX SPORTS 
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
-#EXTINF:0 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes",FOX SPORTS 2 
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/132269.m3u8
-#EXTINF:0 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes",FOX SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes FOX",FOX SPORTS 
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592003.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes FOX",FOX SPORTS 2 
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592007.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes FOX",FOX SPORTS 3 
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278592.m3u8
-#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes FOX",FOX SPORTS PREMIUM
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
-#EXTINF:0 tvg-id="" tvg-name="FOX VIVO" tvg-logo="https://commons.wikimedia.org/wiki/File:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Deportes",FOX VIVO
+#EXTINF:0 tvg-id="" tvg-name="FOX VIVO" tvg-logo="https://commons.wikimedia.org/wiki/File:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Deportes FOX",FOX VIVO
 http://duolatin.top:8080//live/qwerty/qwerty/3020676.ts
 #EXTINF:0 tvg-id="Claro Sports" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Deportes",CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
