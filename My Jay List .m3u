@@ -29,9 +29,9 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1 tvg-id="" tvg-name="ONCE TV" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="México",ONCE TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
-#EXTINF:0 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40
 https://nxt.plus:8443/salvadorver/331015/227048.ts
-#EXTINF:-1 tvg-id="" tvg-name="N+ MEDIA" tvg-logo="https://pbs.twimg.com/profile_images/1508304729473957888/KybUKjtU_400x400.jpg" group-title="Noticias",N+ MEDIA
+#EXTINF:-1 tvg-id="" tvg-name="N+ MEDIA" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo-nmas.png" group-title="Noticias",N+ MEDIA
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/218424.ts
 #EXTINF:0 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="México",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
