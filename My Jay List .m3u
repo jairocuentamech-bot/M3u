@@ -232,27 +232,23 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://tv.supercabletv.com:25461/Francisco/123456/6204
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes",ESPN 1
-http://playtv44.com:8080/maamarilla425/123123/52749
-#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 1.1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes",ESPN 1.1
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/31122
-#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="Deportes",ESPN 2
-http://goldtv.lat:80/Danny2025/Gold25/360993
-#EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="ESPN 2.1" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="Deportes",ESPN 2.1
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/31123
-#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes",ESPN 3 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes ESPN",ESPN 1
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591979.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="Deportes ESPN",ESPN 2
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591985.ts
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes ESPN",ESPN 3 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
-#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3.1" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes",ESPN 3.1
+#EXTINF:0 tvg-id="ESPN.MX.mx" tvg-name="ESPN 3.1" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes ESPN",ESPN 3.1
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/31124
-#EXTINF:0 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 
+#EXTINF:0 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes ESPN",ESPN 4 
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134294
-#EXTINF:0 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 5
+#EXTINF:0 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 5
 https://zonamovie.pro:443/play/U-Incyv09c9g67CQdtmkvvKjDWjCvx3f1-vAMSTLhpCztjp4ctzkTK6-onPrTaW2/ts
-#EXTINF:0 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 6
+#EXTINF:0 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 6
 http://go.iptvhn.net:25461/live/7619/7619/13347.ts
-#EXTINF:0 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN 7 
+#EXTINF:0 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 7 
 http://2.magmas5.com:8000/Cristalguevara/89386563/3014
-#EXTINF:0 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes",ESPN EXTRA
+#EXTINF:0 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes ESPN",ESPN EXTRA
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
 #EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX SPORTS 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/1971.m3u8
