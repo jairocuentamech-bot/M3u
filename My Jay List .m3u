@@ -101,7 +101,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 #EXTINF:0 tvg-id="" tvg-name="HTV" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Música",HTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TELEHIT
+#EXTINF:0 tvg-id="" tvg-name="TELEHIT" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TELEHIT
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
 #EXTINF:0 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música",MTV
 http://013tv.com:8080/F16077/2d3a2abc/306879
@@ -133,31 +133,31 @@ https://jmp2.uk/stvp-USBB2300004KV
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:0 tvg-id="" tvg-name="ITV URBAN MUSIC" tvg-logo="" group-title="Música",ITV URBAN MUSIC
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="CO - DHE" tvg-name="DHE" tvg-logo="https://iconape.com/wp-content/files/ig/117745/png/Canal_DHE_logo.png" group-title="Cine",DHE
+#EXTINF:0 tvg-id="" tvg-name="DHE" tvg-logo="https://iconape.com/wp-content/files/ig/117745/png/Canal_DHE_logo.png" group-title="Cine",DHE
 http://goldtv.lat:80/Danny2025/Gold25/400290
-#EXTINF:0 tvg-id="Canal.Warner.TV.(México).sv" tvg-name="WARNER CHANNEL" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="Cine y Series",WARNER CHANNEL 
+#EXTINF:0 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="Cine y Series",WARNER CHANNEL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9774
-#EXTINF:0 tvg-id="" tvg-name="STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine",STAR TVE HD
+#EXTINF:0 tvg-id="" tvg-name="STAR TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine",STAR TVE HD
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4281
-#EXTINF:0 tvg-id="MX - FOX" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine Y Series",STAR CHANNEL 
+#EXTINF:0 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine Y Series",STAR CHANNEL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9723
 #EXTINF:0 tvg-id="" tvg-name="STARZ FAMILY" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Cine",STARZ FAMILY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9731
-#EXTINF:0 tvg-id="Canal.FX.(México).mx" tvg-name="FX" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="Cine",FX
+#EXTINF:0 tvg-id="" tvg-name="FX" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="Cine",FX
 https://nxt.plus:8443/salvadorver/331015/169447.ts
-#EXTINF:0 tvg-id="Canal AXN" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="Cine",AXN 
+#EXTINF:0 tvg-id="" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="Cine",AXN 
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5393
 #EXTINF:0 tvg-id="" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Cine",SPACE
 http://goldtv.lat:80/Danny2025/Gold25/1281
-#EXTINF:0 tvg-id="Canal AMC" tvg-name="AMC" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="Cine",AMC
+#EXTINF:0 tvg-id="" tvg-name="AMC" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="Cine",AMC
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/1613
-#EXTINF:0 tvg-id="Canal.Cinemax.(México).mx" tvg-name="CINEMAX" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="Cine",CINEMAX
+#EXTINF:0 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="Cine",CINEMAX
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9635
-#EXTINF:0 tvg-id="Cinecanal.co" tvg-name="CINECANAL" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="Cine",CINECANAL
+#EXTINF:0 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="Cine",CINECANAL
 https://nxt.plus:8443/salvadorver/331015/169437.ts
 #EXTINF:0 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Cine",MULTIPREMIER
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/453505.ts
-#EXTINF:0 tvg-id="Canal.Paramount.Channel.Latinoamérica.sv" tvg-name="PARAMOUNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="Cine",PARAMOUNT 
+#EXTINF:0 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" group-title="Cine",PARAMOUNT 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2826.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TNT" tvg-logo="https://i.imgur.com/4MYjMsD.png" group-title="Cine",TNT 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
@@ -265,9 +265,7 @@ http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592015.ts
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Deportes",CLARO SPORTS 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9556
-#EXTINF:0 tvg-id="" tvg-name="LAS" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="Deportes",LAS 
-http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHASB8vtGb2wLLWtaF7dJ5vWwwMvIUAqTjfVPxwt_ODtk
-#EXTINF:0 tvg-id="" tvg-name="LAS 1.1" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="Deportes",LAS 1.1
+#EXTINF:0 tvg-id="" tvg-name="LAS" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="Deportes",LAS 1.1
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
 #EXTINF:0 tvg-id="I80.34863.schedulesdirect.org" tvg-name="AYM SPORTS" tvg-logo="https://i.imgur.com/yu3Bpbd.png" group-title="Deportes",AYM SPORTS
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
@@ -285,17 +283,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="PLUTO TV DEPORTES" tvg-logo="" group-title="Deportes",PLUTO TV DEPORTES 
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-#EXTINF:0 tvg-id="MX - Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",DISNEY CHANNEL 
+#EXTINF:0 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
-#EXTINF:0 tvg-id="MX - Disney Junior" tvg-name="DISNEY JR" tvg-logo="https://dreamlogos.miraheze.org/wiki/File:Disney_Jr._(June_27,_2024-October_25,_2024).png" group-title="Infantiles",DISNEY JR
+#EXTINF:0 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://dreamlogos.miraheze.org/wiki/File:Disney_Jr._(June_27,_2024-October_25,_2024).png" group-title="Infantiles",DISNEY JR
 http://181.78.201.70:8000/play/a0hn/index.m3u8
-#EXTINF:0 tvg-id="MX - Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",CARTOON NETWORK
+#EXTINF:0 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",CARTOON NETWORK
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4850.m3u8
 #EXTINF:0 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Infantiles",NICK JR
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4858.m3u8
-#EXTINF:0 tvg-id="Canal.Azteca.Uno.mx" tvg-name="NICKELODEON" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="Infantiles",NICKELODEON
+#EXTINF:0 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="Infantiles",NICKELODEON
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/4859.m3u8
-#EXTINF:-1 tvg-id="CL - Telefe Internacional" tvg-name="TEEN NICK" tvg-logo="https://i.postimg.cc/kG4nCtQ7/teennick.png" group-title="Infantiles",TEEN NICK
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" tvg-logo="https://i.postimg.cc/kG4nCtQ7/teennick.png" group-title="Infantiles",TEEN NICK
 http://streamprostk.com:2082/paty12/202020/32359
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="Infantiles",DISCOVERY KIDS 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
