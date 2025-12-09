@@ -27,6 +27,8 @@ http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1 tvg-id="" tvg-name="ONCE TV" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="México",ONCE TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
+#EXTINF:-1 tvg-id="" tvg-name="MEGANOTICIAS" tvg-logo="https://logos.xbots.com.mx/307519.png" group-title="Noticias",MEGANOTICIAS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/138232
 #EXTINF:0 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="México",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40
