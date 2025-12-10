@@ -21,29 +21,29 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNp-GD-2no0_2T0KTLzaeQgs
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="México",LAS ESTRELLAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
-#EXTINF:0 tvg-id="NueveTV.mx@SD" tvg-name="CANAL NUEVE" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México",CANAL NUEVE
+#EXTINF:-1 tvg-id="" tvg-name="CANAL NUEVE" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México",CANAL NUEVE
 http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/415388.ts
-#EXTINF:0 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="México",CANAL 5 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="México",CANAL 5 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1 tvg-id="" tvg-name="ONCE TV" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="México",ONCE TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
 #EXTINF:-1 tvg-id="" tvg-name="MEGANOTICIAS" tvg-logo="https://logos.xbots.com.mx/307519.png" group-title="Noticias",MEGANOTICIAS
 http://live.detodotvplay.com:8080/Risario8/Pineda13/138232
-#EXTINF:0 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="México",TELEMAX
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="México",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40
 https://nxt.plus:8443/salvadorver/331015/227048.ts
 #EXTINF:-1 tvg-id="" tvg-name="N+ MEDIA" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Noticias",N+ MEDIA
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/218424.ts
-#EXTINF:0 tvg-id="" tvg-name="N+ FORO" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Noticias",N+ FORO
+#EXTINF:-1 tvg-id="" tvg-name="N+ FORO" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Noticias",N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-#EXTINF:0 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TELEFÓRMULA
+#EXTINF:-1 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Noticias",TELEFÓRMULA
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
-#EXTINF:0 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
-#EXTINF:0 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Vida",TELEMUNDO INTERNACIONAL 
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Vida",TELEMUNDO INTERNACIONAL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
-#EXTINF:0 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Vida",NBC UNIVERSO
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Vida",NBC UNIVERSO
 http://imaxplay.net:8880//live/Johan22/KFPPW/199524.ts
 #EXTINF:0 tvg-id="" tvg-name="UNIVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Vida",UNIVISION 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
@@ -181,35 +181,35 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/FI0AtXv.png" group-title="Cine Universal",UNIVERSAL CHANNEL
 http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
-#EXTINF:0 tvg-id="Canal.Universal.Cinema.sv" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="Cine Universal",UNIVERSAL CINEMA
+#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="Cine Universal",UNIVERSAL CINEMA
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9757
-#EXTINF:0 tvg-id="Canal.Universal.Comedy.sv" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="Cine Universal",UNIVERSAL COMEDY
+#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="Cine Universal",UNIVERSAL COMEDY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
-#EXTINF:0 tvg-id="Canal.Universal.Premiere.sv" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="Cine Universal",UNIVERSAL PREMIERE
+#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="Cine Universal",UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
-#EXTINF:0 tvg-id="Canal.Golden.(México).mx" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="Cine Golden",GOLDEN
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="Cine Golden",GOLDEN
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine",GOLDEN EDGE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
-#EXTINF:0 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="Cine Golden",GOLDEN PLUS
+#EXTINF:0 tvg-id="" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="Cine Golden",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
-#EXTINF:0 tvg-id="Canal.Golden.Premier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://logos.xbots.com.mx/307517.png" group-title="Cine Golden",GOLDEN PREMIER
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://logos.xbots.com.mx/307517.png" group-title="Cine Golden",GOLDEN PREMIER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
-#EXTINF:0 tvg-id="Canal HBO" tvg-name="HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="Cine HBO",HBO
+#EXTINF:0 tvg-id="" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="Cine HBO",HBO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9670
-#EXTINF:0 tvg-id="Canal HBO 2" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="Cine HBO",HBO 2 
+#EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="Cine HBO",HBO 2 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9675
-#EXTINF:0 tvg-id="Canal HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="Cine HBO",HBO FAMILY
+#EXTINF:0 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="Cine HBO",HBO FAMILY
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/85885
-#EXTINF:0 tvg-id="Canal.HBO.Mundi.mx" tvg-name="HBO MUNDI" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="Cine HBO",HBO MUNDI
+#EXTINF:0 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="Cine HBO",HBO MUNDI
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2796.m3u8
-#EXTINF:0 tvg-id="Canal.HBO.Plus.mx" tvg-name="HBO PLUS" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS
+#EXTINF:0 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS
 http://imaxplay.net:8880//live/Johan22/KFPPW/198755.ts
-#EXTINF:0 tvg-id="Canal.HBO.Plus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS HD
+#EXTINF:0 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9685
-#EXTINF:0 tvg-id="Canal.HBO.Pop.mx" tvg-name="HBO POP" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="Cine HBO",HBO POP
+#EXTINF:0 tvg-id="" tvg-name="HBO POP" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="Cine HBO",HBO POP
 http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
-#EXTINF:0 tvg-id="HBO.XTREME.co" tvg-name="HBO XTREME" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="Cine HBO",HBO XTREME 
+#EXTINF:0 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="Cine HBO",HBO XTREME 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="24 Hrs Cine Netflix",NETFLIX FHD
 http://fhh54d.vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235580.ts
