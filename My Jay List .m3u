@@ -103,8 +103,10 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 #EXTINF:0 tvg-id="" tvg-name="HTV" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Música",HTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
-#EXTINF:0 tvg-id="" tvg-name="TELEHIT" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TELEHIT
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8317
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MÚSICA" tvg-logo="http://51.222.27.42/iconox/TeleHit.png" group-title="Música",TELEHIT MÚSICA
+http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/38936
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT PLUS" tvg-logo="http://51.222.27.42/iconox/telehitplus.png" group-title="Música",TELEHIT PLUS
+http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/25513
 #EXTINF:0 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música",MTV
 http://013tv.com:8080/F16077/2d3a2abc/306879
 #EXTINF:0 tvg-id="" tvg-name="MTV 00s" tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Música",MTV 00s
@@ -115,8 +117,8 @@ http://013tv.com:8080/F16077/2d3a2abc/306881
 http://013tv.com:8080/F16077/2d3a2abc/306882
 #EXTINF:0 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Música",MTV LIVE
 http://013tv.com:8080/F16077/2d3a2abc/306883
-#EXTINF:0 tvg-id="" tvg-name="CONCERT CHANNEL VIP" tvg-logo="" group-title="Música",CONCERT CHANNEL VIP
-http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/11479
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="http://51.222.27.42/iconox/concertchannel.png" group-title="Música",CONCERT CHANNEL
+http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/121827
 #EXTINF:0 tvg-id="" tvg-name="PLUTO TV VEVO 2K" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/09/cropped-vevo-favicon.png" group-title="Música",PLUTO TV VEVO 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="" tvg-name="VEVO RETRO ROCK" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/09/cropped-vevo-favicon.png" group-title="Música",VEVO RETRO ROCK
