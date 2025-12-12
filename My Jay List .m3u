@@ -279,12 +279,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 http://2.magmas5.com:8000/Cristalguevara/89386563/145437
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="http://51.222.27.42/iconox/ligadecampeones.png" group-title="Deportes",LIGA DE CAMPEONES
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/251630
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO MLB" tvg-logo="" group-title="Deportes",PLUTO MLB
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:0 tvg-id="" tvg-name="MLB NEYWORK" tvg-logo="" group-title="Deportes",MLB NETWORK
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="PLUTO TV DEPORTES" tvg-logo="" group-title="Deportes",PLUTO TV DEPORTES 
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:0 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="Infantiles",DISNEY JR
