@@ -171,11 +171,11 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine Sony",CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine Sony",SONY CHANNEL
+#EXTINF:0 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine Sony",SONY CHANNEL
 https://nxt.plus:8443/salvadorver/331015/43562.ts
 #EXTINF:0 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="Cine Sony",SONY COMEDIAS
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Cine Universal",STUDIO UNIVERSAL 
+#EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="Cine Universal",STUDIO UNIVERSAL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/FI0AtXv.png" group-title="Cine Universal",UNIVERSAL CHANNEL
 http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
