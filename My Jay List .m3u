@@ -95,7 +95,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:0 tvg-id="" tvg-name="MVS TV" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Música",MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",CONECTA TV
+#EXTINF:0 tvg-id="" tvg-name="CONECTA TV" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",CONECTA TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",TELERITMO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
@@ -123,18 +123,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="VEVO POP" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/09/cropped-vevo-favicon.png" group-title="Música",VEVO POP
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/playlist.m3u8?ads_amagi_channel=919&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=16&ads_rtv_content_id=5980&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=d4b05072-8805-4c1a-955c-d0bff7dd90b6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/16fc8182278cf82c77a2b948fca6b3d7.png" group-title="Música",NOW 90s
-http://bd.x-black.xyz:8080/live/osman.yanik/05.02@2022/336738.ts
-#EXTINF:0 tvg-id="" tvg-name="K-POP" tvg-logo="" group-title="Música",K-POP
-https://jmp2.uk/stvp-US39000038W
 #EXTINF:0 tvg-id="" tvg-name="XITE HITS" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Música",XITE HITS
 https://jmp2.uk/stvp-USBD3300004RH
 #EXTINF:0 tvg-id="" tvg-name="XITE ROCK X METAL" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Música",XITE ROCK X METAL
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:0 tvg-id="" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Música",XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:0 tvg-id="" tvg-name="ITV URBAN MUSIC" tvg-logo="" group-title="Música",ITV URBAN MUSIC
-https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DHE" tvg-logo="https://iconape.com/wp-content/files/ig/117745/png/Canal_DHE_logo.png" group-title="Cine",DHE
 http://goldtv.lat:80/Danny2025/Gold25/400290
 #EXTINF:0 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="Cine y Series",WARNER CHANNEL 
@@ -225,8 +219,6 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/266502
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266504
 #EXTINF:0 tvg-id="" tvg-name="NETFLIX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Netflix_Logomark.png" group-title="24 Hrs Cine Netflix",NETFLIX 6
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306959
-#EXTINF:0 tvg-id="" tvg-name="MORBIDO TV" tvg-logo="https://morbido.tv/wp-content/uploads/2024/02/MTV-Color-Favicon.png" group-title="Cine",MORBIDO TV
-http://013tv.com:8080/F16077/2d3a2abc/198054
 #EXTINF:0 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/07/Ultra-Cine-Logo.png" group-title="Cine",ULTRA CINE
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/79183
 #EXTINF:0 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="Cine Latino",CINELATINO
