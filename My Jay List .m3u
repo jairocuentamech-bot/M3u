@@ -17,8 +17,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87568
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="Deportes",AZTECA DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISIÓN" tvg-logo="http://209.126.82.213/USALat/galavision.png" group-title="México",GALAVISION
-http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNp-GD-2no0_2T0KTLzaeQgs
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="México",LAS ESTRELLAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
 #EXTINF:-1 tvg-id="" tvg-name="CANAL NUEVE" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México",CANAL NUEVE
@@ -205,13 +203,13 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/85885
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2796.m3u8
 #EXTINF:0 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS
 http://imaxplay.net:8880//live/Johan22/KFPPW/198755.ts
-#EXTINF:0 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS HD
+#EXTINF:0 tvg-id="" tvg-name="HBO PLUS 2" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="Cine HBO",HBO PLUS 2
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9685
 #EXTINF:0 tvg-id="" tvg-name="HBO POP" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="Cine HBO",HBO POP
 http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
 #EXTINF:0 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="Cine HBO",HBO XTREME 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD (DTV)" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="Cine HBO",HBO SIGNATURE HD 
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="Cine HBO",HBO SIGNATURE
 http://fhh54d.vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/46162.ts
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="24 Hrs Cine Netflix",NETFLIX FHD
 http://fhh54d.vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235580.ts
