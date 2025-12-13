@@ -505,144 +505,49 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/106524
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/10104
 #EXTINF:-1 tvg-id="" tvg-name="HENTAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Zona X Dibujos",HENTAI
 http://live.detodotvplay.com:8080/Risario8/Pineda13/155620
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América: El Primer Vengador" tvg-logo="https://image.tmdb.org/t/p/w400/i5eSA5DK5iAv53SB4yv57bN56o6.jpg" group-title="Cine Marvel",Capitán América: El Primer Vengador
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e903d97e-dbec-4eba-8b13-7d3a0f96efb0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitana Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title="Cine Marvel",Capitana Marvel (2019)
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ffa35454-b1c0-4d62-a253-5102271c7e2d.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron man - El hombre de hierro" tvg-logo="https://image.tmdb.org/t/p/w400/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="Cine Marvel",Iron man - El hombre de hierro
+#EXTINF:-1 tvg-id="" tvg-name="Iron man - El hombre de hierro" tvg-logo="https://image.tmdb.org/t/p/w400/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="1. MCU: La Saga del Infinito",Iron man - El hombre de hierro
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/3872ac13-49c5-4165-af35-7fc2aba9b18c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El increíble Hulk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="Cine Marvel",El increíble Hulk
+#EXTINF:-1 tvg-id="" tvg-name="El increíble Hulk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="1. MCU: La Saga del Infinito",El increíble Hulk
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f799bc32-a607-4e31-9382-c0ad2984a7b0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2" tvg-logo="https://image.tmdb.org/t/p/w400/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" group-title="Cine Marvel",Iron Man 2
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2" tvg-logo="https://image.tmdb.org/t/p/w400/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg" group-title="1. MCU: La Saga del Infinito",Iron Man 2
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/57b49c07-aba9-401e-bb46-35aef0cc611c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="https://image.tmdb.org/t/p/w400/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg" group-title="Cine Marvel",Thor
+#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="https://image.tmdb.org/t/p/w400/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg" group-title="1. MCU: La Saga del Infinito",Thor
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/64fbf78b-4262-4251-8a53-c7da9de2715e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avengers: Los Vengadores" tvg-logo="https://image.tmdb.org/t/p/w400/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="Cine Marvel",Avengers: Los Vengadores
+#EXTINF:-1 tvg-id="" tvg-name="Capitán América: El Primer Vengador" tvg-logo="https://image.tmdb.org/t/p/w400/i5eSA5DK5iAv53SB4yv57bN56o6.jpg" group-title="1. MCU: La Saga del Infinito",Capitán América: El Primer Vengador
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e903d97e-dbec-4eba-8b13-7d3a0f96efb0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Los Vengadores" tvg-logo="https://image.tmdb.org/t/p/w400/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="1. MCU: La Saga del Infinito",Avengers: Los Vengadores
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/415ee358-22d7-4bf0-b0de-e0ad78fdccf0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="Cine Marvel",Iron Man 3
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="1. MCU: La Saga del Infinito",Iron Man 3
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e6246f58-b0bf-479e-8c94-8749c44576c9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: un mundo oscuro" tvg-logo="https://image.tmdb.org/t/p/w400/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="Cine Marvel",Thor: un mundo oscuro
+#EXTINF:-1 tvg-id="" tvg-name="Thor: un mundo oscuro" tvg-logo="https://image.tmdb.org/t/p/w400/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="1. MCU: La Saga del Infinito",Thor: un mundo oscuro
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/202b4fb6-4382-4887-ab15-18e0104b82d7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América y el Soldado del Invierno (2014)" tvg-logo="https://image.tmdb.org/t/p/w400/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" group-title="Cine Marvel",Capitán América y el Soldado del Invierno (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Capitán América y el Soldado del Invierno (2014)" tvg-logo="https://image.tmdb.org/t/p/w400/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" group-title="1. MCU: La Saga del Infinito",Capitán América y el Soldado del Invierno (2014)
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/3fa6c19b-74cb-4cbd-9233-2e7c81c972a9.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia" tvg-logo="https://image.tmdb.org/t/p/w400/lGR9yjcPctrIxNrnGBiXlEbM6nT.jpg" group-title="Cine Marvel",Guardianes de la galaxia
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia" tvg-logo="https://image.tmdb.org/t/p/w400/lGR9yjcPctrIxNrnGBiXlEbM6nT.jpg" group-title="1. MCU: La Saga del Infinito",Guardianes de la galaxia
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/26c4b712-2dc7-4003-9e25-6ba1674dbcfe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia 2" tvg-logo="https://image.tmdb.org/t/p/w400/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="Cine Marvel",Guardianes de la Galaxia 2
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e4ab9cdc-da93-4325-a26a-544e0e17f75f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avengers 2: Era de Ultrón" tvg-logo="https://image.tmdb.org/t/p/w400/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="Cine Marvel",Avengers 2: Era de Ultrón
+#EXTINF:-1 tvg-id="" tvg-name="Avengers 2: Era de Ultrón" tvg-logo="https://image.tmdb.org/t/p/w400/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="1. MCU: La Saga del Infinito",Avengers 2: Era de Ultrón
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/80e8839e-7377-4f7d-a69a-8c95b71870b9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man: El hombre Hormiga" tvg-logo="https://image.tmdb.org/t/p/w400/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" group-title="Cine Marvel",Ant-Man: El hombre Hormiga
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man: El hombre Hormiga" tvg-logo="https://image.tmdb.org/t/p/w400/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" group-title="1. MCU: La Saga del Infinito",Ant-Man: El hombre Hormiga
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/4ce6c04a-5e26-4634-b09c-1366a25d5574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América: Civil War (2016)" tvg-logo="https://image.tmdb.org/t/p/w400/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg" group-title="Cine Marvel",Capitán América: Civil War (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Capitán América: Civil War (2016)" tvg-logo="https://image.tmdb.org/t/p/w400/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg" group-title="1. MCU: La Saga del Infinito",Capitán América: Civil War (2016)
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/2d80bfb1-ec43-428f-90a2-99b7dc4bce29.mkv
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia volumen 3" tvg-logo="https://image.tmdb.org/t/p/w400/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg" group-title="Cine Marvel",Guardianes de la Galaxia volumen 3
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/4c1e8537-34b4-4b04-836d-56ea8ee60f98.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daredevil: El Hombre sin Miedo" tvg-logo="https://image.tmdb.org/t/p/w400/x1l1vC446IM89iD3wBaQc3erp9Z.jpg" group-title="Cine Marvel",Daredevil: El Hombre sin Miedo
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/8d246d04-f960-4c1a-acab-5e74664ba94e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vengadores: La Era de Ultrón" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg" group-title="Cine Marvel",Vengadores: La Era de Ultrón
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/7b044312-6bb4-467b-beec-9af5b933452e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América: El primer vengador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5eSA5DK5iAv53SB4yv57bN56o6.jpg" group-title="Cine Marvel",Capitán América: El primer vengador
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/26822f08-218d-497c-a500-ee34741b537d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" group-title="Cine Marvel",Thor: Love and Thunder
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/9cca8679-636d-451b-a741-387b2691e2d1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man 2: La Avispa" tvg-logo="https://image.tmdb.org/t/p/w400/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg" group-title="Cine Marvel",Ant-Man 2: La Avispa
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/2f48d884-703b-4e7b-b073-490117f00867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania" tvg-logo="https://image.tmdb.org/t/p/w400/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" group-title="Cine Marvel",Ant-Man and the Wasp: Quantumania
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/bfb2ad2f-a889-4a4d-b618-7a7a85073bec.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame" tvg-logo="https://image.tmdb.org/t/p/w400/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="Cine Marvel",Avengers: Endgame
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ce9d4f75-83e4-43d8-a5a0-f11c7df0ffea.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War" tvg-logo="https://image.tmdb.org/t/p/w400/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="Cine Marvel",Avengers: Infinity War
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/6b867345-eb18-4daf-a9d1-c8f003bde950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Widow" tvg-logo="https://image.tmdb.org/t/p/w400/iKntUTTLxUgizTe3jFcGLuHc84c.jpg" group-title="Cine Marvel",Black Widow
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/009d69e5-a088-4c4f-86c7-243c8e8c7507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitana Marvel" tvg-logo="https://image.tmdb.org/t/p/w400/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title="Cine Marvel",Capitana Marvel
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/b7a263c8-382f-4065-8479-0cfa6b88a536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América y el Soldado del Invierno" tvg-logo="https://image.tmdb.org/t/p/w400/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg" group-title="Cine Marvel",Capitán América y el Soldado del Invierno
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f9394cd2-858d-4a52-8e6a-959c9d6be301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América: Civil War" tvg-logo="https://image.tmdb.org/t/p/w400/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="Cine Marvel",Capitán América: Civil War
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f4915222-46d7-4739-aa1a-7608b49fa596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="Cine Marvel",Deadpool & Wolverine
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/75f4de8a-d693-4e82-86e9-89fe453db439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://image.tmdb.org/t/p/w400/fgPTa4IS07Pygz0Q1WJnRgOP7r7.jpg" group-title="Cine Marvel",Deadpool 2
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/1b955ac0-e7ea-4eb6-b8f1-28fde3cb304e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura" tvg-logo="https://image.tmdb.org/t/p/w400/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg" group-title="Cine Marvel",Doctor Strange en el multiverso de la locura
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/48c414d9-a3e5-4d3b-a089-3db3e8341352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange: Hechicero supremo" tvg-logo="https://image.tmdb.org/t/p/w400/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" group-title="Cine Marvel",Doctor Strange: Hechicero supremo
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange: Hechicero supremo" tvg-logo="https://image.tmdb.org/t/p/w400/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" group-title="1. MCU: La Saga del Infinito",Doctor Strange: Hechicero supremo
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/a18730c4-fe74-4c82-8146-0d24aab90223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eternals" tvg-logo="https://image.tmdb.org/t/p/w400/wPZ5n5LlzFFdO5lFJbi2qmaE6w7.jpg" group-title="Cine Marvel",Eternals
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/3cdbc055-bd4a-4ed1-acbd-6e3e080e3a37.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 2: Espíritu de Venganza" tvg-logo="https://image.tmdb.org/t/p/w400/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg" group-title="Cine Marvel",Ghost Rider 2: Espíritu de Venganza
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/2afb800d-69c9-49a0-b191-98ab35fd4e38.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider: el vengador fantasma" tvg-logo="https://image.tmdb.org/t/p/w400/5GHGotbrKQOj1z39hmOUHh8pYjP.jpg" group-title="Cine Marvel",Ghost Rider: el vengador fantasma
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/efff6052-d251-49af-932a-60ead3d89858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hombre Lobo por la noche" tvg-logo="https://image.tmdb.org/t/p/w400/jCZ92sCQkHv8jHLI9Cz6ETuj0cS.jpg" group-title="Cine Marvel",Hombre Lobo por la noche
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/b441eaff-1221-42ff-9aad-778d2212db49.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3" tvg-logo="https://image.tmdb.org/t/p/w400/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="Cine Marvel",Iron Man 3
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/bc4e821b-f4f6-41cc-81fd-aea71b808d94.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Logan: Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/d0ktjN9eKww26HhM8or8iUB1I68.jpg" group-title="Cine Marvel",Logan: Wolverine
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f8e35752-73a1-445b-b23a-f73035525ec9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Nuevos Mutantes" tvg-logo="https://image.tmdb.org/t/p/w400/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" group-title="Cine Marvel",Los Nuevos Mutantes
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/97887f8b-95a9-4a0d-b1e5-e04b9a27ed2e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra" tvg-logo="https://image.tmdb.org/t/p/w400/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg" group-title="Cine Marvel",Pantera Negra
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f315ebff-c4f3-4598-97cd-198a2bfb287f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra: Wakanda por siempre" tvg-logo="https://image.tmdb.org/t/p/w400/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="Cine Marvel",Pantera Negra: Wakanda por siempre
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/5cdfe616-9226-4b20-8493-150855217ad0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos" tvg-logo="https://image.tmdb.org/t/p/w400/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="Cine Marvel",Shang-Chi y la leyenda de los Diez Anillos
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/c914f97b-bc4c-4216-ac5e-3ffce1002759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Marvels" tvg-logo="https://image.tmdb.org/t/p/w400/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="Cine Marvel",The Marvels
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/8e038623-122c-46f0-9773-c59aa1b9de24.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor y Trueno" tvg-logo="https://image.tmdb.org/t/p/w400/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" group-title="Cine Marvel",Thor: Amor y Trueno
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ed8994fd-dba9-4ad1-976a-19d8707cf86a.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w400/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="Cine Marvel",Thor: Ragnarok
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ebf8c970-1c66-4581-870e-8392d59961d8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wolverine: Inmortal" tvg-logo="https://image.tmdb.org/t/p/w400/xsdBlh5Rg673dRmIblDZchuicWi.jpg" group-title="Cine Marvel",Wolverine: Inmortal
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/16c16bbe-e92e-4a6f-846c-098ecd7ef2f4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w400/aF170xLGytZcC0xeSlSamImgIi4.jpg" group-title="Cine Marvel",X-Men
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/87278cb9-6ff0-4413-9e8e-095f24838236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 2" tvg-logo="https://image.tmdb.org/t/p/w400/quih8FOtyoy0z2O3ijBJLol2F5q.jpg" group-title="Cine Marvel",X-Men 2
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e2432b08-e824-40f3-90fb-5de3c38318f0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 3: La Batalla Final" tvg-logo="https://image.tmdb.org/t/p/w400/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg" group-title="Cine Marvel",X-Men 3: La Batalla Final
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/9cc4397a-6805-46c0-997c-ebd60709638c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men orígenes: Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/k2wFS6LAYDjOdSAtRc1Ey7roB4G.jpg" group-title="Cine Marvel",X-Men orígenes: Wolverine
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/eda3ace3-e93e-4e48-bdf0-dfd9a68f8777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Días del futuro pasado" tvg-logo="https://image.tmdb.org/t/p/w400/ppxf3P06ixq1jwRYBD6Hf0mang8.jpg" group-title="Cine Marvel",X-Men: Días del futuro pasado
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/3e5a20bc-1ffd-4305-b6d6-0ec3323c9dcb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El hombre araña" tvg-logo="https://image.tmdb.org/t/p/w400/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="Cine Marvel",El hombre araña
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/dd7eedc7-d14c-4fee-bc33-df037f447ba0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El hombre araña 2" tvg-logo="https://image.tmdb.org/t/p/w400/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg" group-title="Cine Marvel",El hombre araña 2
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/597d1515-5334-4b5c-9f8a-2c49c5d5a3cc.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El hombre araña 3" tvg-logo="https://image.tmdb.org/t/p/w400/589rUff9Ai272uMudb9Dn7k88Oa.jpg" group-title="Cine Marvel",El hombre araña 3
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/aedb8f34-1fec-4729-b61f-c7021e927918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Sorprendente Hombre-Araña" tvg-logo="https://image.tmdb.org/t/p/w400/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg" group-title="Cine Marvel",El Sorprendente Hombre-Araña
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/dc993cfb-2c9b-4fe5-b069-b34f55c367ec.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Sorprendente Hombre-Araña 2: La Amenaza de Electro" tvg-logo="https://image.tmdb.org/t/p/w400/pyxjizLYG86Bxl4mntCWaWXZAko.jpg" group-title="Cine Marvel",El Sorprendente Hombre-Araña 2: La Amenaza de Electro
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f93749f5-d5dd-4203-999c-049ef7d16cb0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Madame Web" tvg-logo="https://image.tmdb.org/t/p/w400/blq050GHBt0Fzx1j9FvohaEuknJ.jpg" group-title="Cine Marvel",Madame Web
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/1a8d5050-6f15-45e5-a1ef-1d6c9adbf2e2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: A través del Spider-Verso" tvg-logo="https://image.tmdb.org/t/p/w400/37WcNMgNOMxdhT87MFl7tq7FM1.jpg" group-title="Cine Marvel",Spider-Man: A través del Spider-Verso
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e9329fc5-2b22-42fd-89be-09e081f40355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: De Regreso a Casa" tvg-logo="https://image.tmdb.org/t/p/w400/81qIJbnS2L0rUAAB55G8CZODpS5.jpg" group-title="Cine Marvel",Spider-Man: De Regreso a Casa
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia 2" tvg-logo="https://image.tmdb.org/t/p/w400/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="1. MCU: La Saga del Infinito",Guardianes de la Galaxia 2
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e4ab9cdc-da93-4325-a26a-544e0e17f75f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: De Regreso a Casa" tvg-logo="https://image.tmdb.org/t/p/w400/81qIJbnS2L0rUAAB55G8CZODpS5.jpg" group-title="1. MCU: La Saga del Infinito",Spider-Man: De Regreso a Casa
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/19990da6-224d-4da0-8038-2e5ada8c6cc1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa" tvg-logo="https://image.tmdb.org/t/p/w400/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="Cine Marvel",Spider-Man 2: Lejos de Casa
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w400/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="1. MCU: La Saga del Infinito",Thor: Ragnarok
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ebf8c970-1c66-4581-870e-8392d59961d8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra" tvg-logo="https://image.tmdb.org/t/p/w400/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg" group-title="1. MCU: La Saga del Infinito",Pantera Negra
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f315ebff-c4f3-4598-97cd-198a2bfb287f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War" tvg-logo="https://image.tmdb.org/t/p/w400/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="1. MCU: La Saga del Infinito",Avengers: Infinity War
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/6b867345-eb18-4daf-a9d1-c8f003bde950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man 2: La Avispa" tvg-logo="https://image.tmdb.org/t/p/w400/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg" group-title="1. MCU: La Saga del Infinito",Ant-Man 2: La Avispa
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/2f48d884-703b-4e7b-b073-490117f00867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitana Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title="1. MCU: La Saga del Infinito",Capitana Marvel (2019)
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ffa35454-b1c0-4d62-a253-5102271c7e2d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame" tvg-logo="https://image.tmdb.org/t/p/w400/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="1. MCU: La Saga del Infinito",Avengers: Endgame
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ce9d4f75-83e4-43d8-a5a0-f11c7df0ffea.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa" tvg-logo="https://image.tmdb.org/t/p/w400/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="1. MCU: La Saga del Infinito",Spider-Man 2: Lejos de Casa
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/9f29dc8b-71d4-40b8-a108-21fb211f48b8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Sin camino a casa" tvg-logo="https://image.tmdb.org/t/p/w400/miZFgV81xG324rpUknQX8dtXuBl.jpg" group-title="Cine Marvel",Spider-Man: Sin camino a casa
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/31f4e924-3de3-41c5-a0e1-a4f4c1ae9fdf.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un Nuevo Universo" tvg-logo="https://image.tmdb.org/t/p/w400/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" group-title="Cine Marvel",Spider-Man: Un Nuevo Universo
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/6655c533-8a44-452b-ae0c-e0eb2054b5d5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom" tvg-logo="https://image.tmdb.org/t/p/w400/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg" group-title="Cine Marvel",Venom
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/d7b6365e-9567-4d23-b115-66bc895e396d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom: Carnage Liberado" tvg-logo="https://image.tmdb.org/t/p/w400/b0j9rHYpRML7dKm5xw9e97HTDJF.jpg" group-title="Cine Marvel",Venom: Carnage Liberado
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/af75131f-888e-4b65-8c61-db969d491fe5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom: El último baile" tvg-logo="https://image.tmdb.org/t/p/w400/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg" group-title="Cine Marvel",Venom: El último baile
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/a8f8ce07-14fb-4aea-b976-b8e01e11ee2b.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hulk" tvg-logo="https://image.tmdb.org/t/p/w400/scLV1AO6TLi45N7AJanjYR48i78.jpg" group-title="Cine Marvel",Hulk
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/b2ac7d7b-f3b6-46da-9759-3edd30cfdf96.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Capitán América: Un nuevo mundo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tjVuh3ZauNacBGG5cvjKVIxXbdJ.jpg" group-title="Cine Marvel",Capitán América: Un nuevo mundo
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/80e4b384-c279-411c-aeaf-4a7f83fb6006.mp4
