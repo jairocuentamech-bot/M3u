@@ -573,8 +573,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/4c1e8537-34b4-4b04-836d-56ea8
 http://tv.zapping.life:8080/movie/SANTIAGOe22/9jxAUptDXm/109060.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Marvels" tvg-logo="https://image.tmdb.org/t/p/w400/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="2. MCU: La Saga del Multiverso",The Marvels
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/8e038623-122c-46f0-9773-c59aa1b9de24.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="2. MCU: La Saga del Multiverso",Deadpool & Wolverine
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/75f4de8a-d693-4e82-86e9-89fe453db439.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w400/aF170xLGytZcC0xeSlSamImgIi4.jpg" group-title="3. MCU: X-Men",X-Men
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/87278cb9-6ff0-4413-9e8e-095f24838236.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men 2" tvg-logo="https://image.tmdb.org/t/p/w400/quih8FOtyoy0z2O3ijBJLol2F5q.jpg" group-title="3. MCU: X-Men",X-Men 2
@@ -595,6 +593,8 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f8e35752-73a1-445b-b23a-f7303
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/1b955ac0-e7ea-4eb6-b8f1-28fde3cb304e.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Nuevos Mutantes" tvg-logo="https://image.tmdb.org/t/p/w400/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" group-title="3. MCU: X-Men",Los Nuevos Mutantes
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/97887f8b-95a9-4a0d-b1e5-e04b9a27ed2e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="3. MCU: X-Men",Deadpool & Wolverine
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/75f4de8a-d693-4e82-86e9-89fe453db439.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña" tvg-logo="https://image.tmdb.org/t/p/w400/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="4. MCU: Spiderman",El hombre araña
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/dd7eedc7-d14c-4fee-bc33-df037f447ba0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña 2" tvg-logo="https://image.tmdb.org/t/p/w400/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg" group-title="4. MCU: Spiderman",El hombre araña 2
@@ -637,12 +637,12 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/2e59fc6b-d984-409e-987d-53cb1
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/8729e457-f413-4213-941d-af45596a62fc.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Transformers: El despertar de las bestias" tvg-logo="https://image.tmdb.org/t/p/w400/8HBYMQkF6cFpupgRDhsrrKskXOE.jpg" group-title="Cine Taquilla",Transformers: El despertar de las bestias
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/de942782-b633-4e21-acea-fedfa0e6fd71.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe: La Maldición del Perla Negra" tvg-logo="https://image.tmdb.org/t/p/w400/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" group-title="Cine Taquilla",Piratas del Caribe: La Maldición del Perla Negra
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/38d72a4c-ceb2-4cd6-a46a-0f4050a599a1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe 2: El Cofre de la Muerte" tvg-logo="https://image.tmdb.org/t/p/w400/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg" group-title="Cine Taquilla",Piratas del Caribe 2: El Cofre de la Muerte
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/43770ed4-5b50-4552-807d-d30b4a10c948.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe 3: En el Fin del Mundo" tvg-logo="https://image.tmdb.org/t/p/w400/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" group-title="Cine Taquilla",Piratas del Caribe 3: En el Fin del Mundo
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f9054aff-fbb6-48fc-a306-77f5a0e39d30.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe: La Maldición del Perla Negra" tvg-logo="https://image.tmdb.org/t/p/w400/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg" group-title="Cine Taquilla",Piratas del Caribe: La Maldición del Perla Negra
-http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/38d72a4c-ceb2-4cd6-a46a-0f4050a599a1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe 5: La Venganza de Salazar" tvg-logo="https://image.tmdb.org/t/p/w400/net3hZOe33XbieLzVkfJsQEdig2.jpg" group-title="Cine Taquilla",Piratas del Caribe 5: La Venganza de Salazar
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/bbbfe82e-4a28-46e8-b65b-74d15fa1b7c5.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe 4: Navegando Aguas Misteriosas" tvg-logo="https://image.tmdb.org/t/p/w400/2oOARbiV871kCC27FyKBmYwOM3G.jpg" group-title="Cine Taquilla",Piratas del Caribe 4: Navegando Aguas Misteriosas
@@ -691,7 +691,16 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/998f33a5-970d-4678-b13f-d9ed4
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/c382d6e8-efb8-454b-a858-adcfd088c286.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrSaXF39nDfAAeLKksRCyvSzI2a.jpg" group-title="Cine Taquilla",Interstellar
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/2ad92e37-93a0-4c2f-bf9d-fc4b5c097f82.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="John Carter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRvQP1wLqyPJEgBjjn35bInO7it.jpg" group-title="Cine Taquilla",John Carter
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/f32ac26b-def2-4891-b082-93ad13963e27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Muralla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VenQvaBTOM2By4rsJbCZhl6hFU.jpg" group-title="Cine Taquilla",La Gran Muralla
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/1f1cf18f-a680-42df-b719-1ac5864bfa67.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail y la ciudad perdida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32nTmkbZiinSJ4Dy69oHGA0KTvo.jpg" group-title="Cine Taquilla",Abigail y la ciudad perdida
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ad05798f-380c-4b94-ab4c-ed9ca20701d1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita: Ángel de combate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg" group-title="Cine Taquilla",Alita: Ángel de combate
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/96992371-5bcc-48d5-9836-c8003afe07dc.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elysium" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEdwDsEwny5rAZ8WEPA97XBqtru.jpg" group-title="Cine Taquilla",Elysium
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/62ce0f22-d6e4-4cde-a89d-678a74b165c4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang S1 E1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxWlBXZhGWhumbLB8gAHyyW3ITD.jpg" group-title="Series: The Big Bang Theory",Big Bang S1 E1
 http://vodlat.top:80/series/PREMIUM22/dhbdjkvdghfvk/8aff0020-fa98-4c25-8ce0-217f908c753e.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang S1 E2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Itgr82yyAEtwegAZgMm30UqJXK.jpg" group-title="Series: The Big Bang Theory",Big Bang S1 E2
