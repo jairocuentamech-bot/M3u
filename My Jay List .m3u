@@ -163,6 +163,8 @@ http://fhh54d.vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235575.ts
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine Y Series",TNT SERIES
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="SONY MOVIES" tvg-logo="https://cablego.com.pe/cache/logos/SONYMOVIES.png" group-title="Cine Sony",SONY MOVIES
+http://vodlat.top:80/live/PREMIUM22/dhbdjkvdghfvk/4c9b220f-ec76-4b4d-b55c-d10464eb86a8.m3u
 #EXTINF:0 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine Sony",CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine Sony",SONY CHANNEL
