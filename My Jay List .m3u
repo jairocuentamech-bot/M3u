@@ -97,7 +97,7 @@ https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CONECTA TV" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",CONECTA TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114789
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",TELERITMO
+#EXTINF:0 tvg-id="" tvg-name="TELERITMO" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",TELERITMO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8318
 #EXTINF:0 tvg-id="" tvg-name="HTV" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Música",HTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8309
@@ -583,6 +583,8 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/e2432b08-e824-40f3-90fb-5de3c
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/9cc4397a-6805-46c0-997c-ebd60709638c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men orígenes: Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/k2wFS6LAYDjOdSAtRc1Ey7roB4G.jpg" group-title="3. MCU: X-Men",X-Men orígenes: Wolverine
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/eda3ace3-e93e-4e48-bdf0-dfd9a68f8777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Primera Generación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg" group-title="3. MCU: X-Men",X-Men: Primera Generación
+http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/daae4b6a-1f59-46dd-a5d3-f0cb60c02018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wolverine: Inmortal" tvg-logo="https://image.tmdb.org/t/p/w400/xsdBlh5Rg673dRmIblDZchuicWi.jpg" group-title="3. MCU: X-Men",Wolverine: Inmortal
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/16c16bbe-e92e-4a6f-846c-098ecd7ef2f4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Días del futuro pasado" tvg-logo="https://image.tmdb.org/t/p/w400/ppxf3P06ixq1jwRYBD6Hf0mang8.jpg" group-title="3. MCU: X-Men",X-Men: Días del futuro pasado
