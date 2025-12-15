@@ -188,7 +188,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:-1,GOLDEN EDGE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
-#EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png",GOLDEN PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OOEkyM2.png",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
 #EXTINF:-1,GOLDEN PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
@@ -238,7 +238,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -302,18 +302,8 @@ http://imaxplay.net:8880//live/Cliente222/hJqpwJvW2v/9540.ts
 http://46.151.196.243:80/play/ZcGYC1mvTUxgtBD7K_MCNgAebEJYb0WfLHHJJYyPOiY
 #EXTINF:-1,TVC DEPORTES HD
 http://tv.diablotv.net:8080/HUGOmattuS/ZfEAQUqhvP/9607
-#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png",ITV DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/J1kV1Bn.png",ITV DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
-#EXTINF:-1,SKY SPORTS LA LIGA 
-http://2.magmas5.com:8000/Cristalguevara/89386563/145437
-#EXTINF:-1,SKY SPORTS LA LIGA 2
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/249996
-#EXTINF:-1,PLUTO MLB
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:-1,MLB NETWORK
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1,PLUTO TV DEPORTES 
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 #EXTINF:-1,DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:-1,DISNEY JR
@@ -330,64 +320,12 @@ http://streamprostk.com:2082/paty12/202020/32359
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
 #EXTINF:-1,DREAMS WORK
 http://go.iptvhn.net:25461/live/7619/7619/13336.ts
-#EXTINF:-1 tvg-id="1604" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",ZTV ANIME
+#EXTINF:-1 tvg-id="" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,GAME TOON
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/134297
 #EXTINF:-1,ANIME ONEGAI 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:-1,ANIME ONEGAI 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:-1 tvg-id="CINE FRIKI" tvg-name="CINE FRIKI" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg",CINE FRIKI
-https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=90e2619a-d67d-4df7-aadc-70862f04782a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1,CINEMA GAMER
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
-#EXTINF:-1 tvg-id="" tvg-name="HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="24 Hrs Peliculas",HARRY POTTER
-http://www.1play.cool:25461/2137135563/63ab966fe8/266592
-#EXTINF:-1,THE BIG BANG THEORY
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94867
-#EXTINF:-1,2 BROKE GIRLS
-http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94845
-#EXTINF:-1,BOB ESPONJA
-http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
-#EXTINF:-1,DRAGON BALL
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
-#EXTINF:-1,DRAGON BALL Z - Saga Saiyajin
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94895
-#EXTINF:-1,DRAGON BALL Z - Frezzer 
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94896
-#EXTINF:-1,DRAGON BALL Z - Saga Cell
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94897
-#EXTINF:-1,DRAGON BALL Z - Saga Majin Buu 
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94898
-#EXTINF:-1,DRAGON BALL GT
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94899
-#EXTINF:-1,LOS CABALLEROS DEL ZODIACO 1
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/3397.m3u8
-#EXTINF:-1,LOS CABALLEROS DEL ZODIACO 2
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94912
-#EXTINF:-1,UN SHOW MAS
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/102912
-#EXTINF:-1,POKEMON
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/129325.m3u8
-#EXTINF:-1,CHICOS DEL BARRIO
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95018
-#EXTINF:-1,OYE ARNOLD
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95031
-#EXTINF:-1,LOS PADRINOS MAGICOS
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95653
-#EXTINF:-1,LOS PINGÜINOS DE MADAGASCAR
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95028
-#EXTINF:-1,PHINEAS y FERB
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
-#EXTINF:-1,LOS SIMPSON
-http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
-#EXTINF:-1,ED, EDD y EDDY
-http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/102888
-#EXTINF:-1,BORUTO: NARUTO NEXT GENERATION
-http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94887
-#EXTINF:-1,DRAKE Y JOSH
-http://tv.zapping.life:8080/Arol97/hHjf0j4HB7/94991
 #EXTINF:-1 tvg-name="Hermanos a la obra S08E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoTE9vPdelduo6JdFNudaLioo7V.jpg" group-title="SERIES MAX",Hermanos a la obra S08E01
 http://live.detodotvplay.com:8080/series/Risario8/Pineda13/394858.mkv
 #EXTINF:-1 tvg-name="Hermanos a la obra S08E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoTE9vPdelduo6JdFNudaLioo7V.jpg" group-title="SERIES MAX",Hermanos a la obra S08E02
@@ -874,6 +812,218 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/b04a9c85-d477-4c05-b01d-2ea87
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/10173be0-1ffe-41d4-91f3-3337762d3304.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TRON: Ares" tvg-logo="https://image.tmdb.org/t/p/w400/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg" group-title="Cine Taquilla",TRON: Ares
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/7519634e-8567-4929-949a-067588607f83.mp4
+#EXTINF:-1 tvg-name="Stephen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zht2iAMV2hh99ZpXl2T9offt0tt.jpg" group-title="Cine Taquilla",Stephen
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729629.mkv
+#EXTINF:-1 tvg-name="Sarah's Oil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Cine Taquilla",Sarah's Oil
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729628.mkv
+#EXTINF:-1 tvg-name="Presente continuo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meYqYutiMSXptjBdbSNIiYsd2l9.jpg" group-title="Cine Taquilla",Presente continuo
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729627.mkv
+#EXTINF:-1 tvg-name="Jay Kelly" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO0cV3886E47tmZo0iJXzMPEEzr.jpg" group-title="Cine Taquilla",Jay Kelly
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729626.mkv
+#EXTINF:-1 tvg-name="El secreto de Papá Noel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWla8Ndd7YjTdRKqfbdTneoMRPz.jpg" group-title="Cine Taquilla",El secreto de Papá Noel
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729625.mkv
+#EXTINF:-1 tvg-name="Ojalá me lo hubieras dicho (Sana Sinabi Mo)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKuos4fGcntgeXXgR3NAmTU0kOU.jpg" group-title="Cine Taquilla",Ojalá me lo hubieras dicho (Sana Sinabi Mo)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729624.mkv
+#EXTINF:-1 tvg-name="La boda de mi madre (My Mother's Wedding)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg" group-title="Cine Taquilla",La boda de mi madre (My Mother's Wedding)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729623.mkv
+#EXTINF:-1 tvg-name="¡Vaya Navidad! (Oh. What. Fun.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNmyZChmLKqxROmbsylj5sbzGUR.jpg" group-title="Cine Taquilla",¡Vaya Navidad! (Oh. What. Fun.)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729622.mkv
+#EXTINF:-1 tvg-name="El diario de Greg: ¡Esto es el colmo!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6hPJGl130XkJgwWpBagMHojWz.jpg" group-title="Cine Taquilla",El diario de Greg: ¡Esto es el colmo!
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729621.mkv
+#EXTINF:-1 tvg-name="¡Hola, Frida!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh8qIKgIwaeuDZ215JF4ylugMZs.jpg" group-title="Cine Taquilla",¡Hola, Frida!
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729620.mkv
+ESTRENOS 2025",Stephen
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729629.mkv
+#EXTINF:-1 tvg-name="Sarah's Oil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Cine Taquilla",Sarah's Oil
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729628.mkv
+#EXTINF:-1 tvg-name="Presente continuo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meYqYutiMSXptjBdbSNIiYsd2l9.jpg" group-title="Cine Taquilla",Presente continuo
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729627.mkv
+#EXTINF:-1 tvg-name="Jay Kelly" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO0cV3886E47tmZo0iJXzMPEEzr.jpg" group-title="Cine Taquilla",Jay Kelly
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729626.mkv
+#EXTINF:-1 tvg-name="El secreto de Papá Noel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWla8Ndd7YjTdRKqfbdTneoMRPz.jpg" group-title="Cine Taquilla",El secreto de Papá Noel
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729625.mkv
+#EXTINF:-1 tvg-name="Ojalá me lo hubieras dicho (Sana Sinabi Mo)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKuos4fGcntgeXXgR3NAmTU0kOU.jpg" group-title="Cine Taquilla",Ojalá me lo hubieras dicho (Sana Sinabi Mo)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729624.mkv
+#EXTINF:-1 tvg-name="La boda de mi madre (My Mother's Wedding)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg" group-title="Cine Taquilla",La boda de mi madre (My Mother's Wedding)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729623.mkv
+#EXTINF:-1 tvg-name="¡Vaya Navidad! (Oh. What. Fun.)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNmyZChmLKqxROmbsylj5sbzGUR.jpg" group-title="Cine Taquilla",¡Vaya Navidad! (Oh. What. Fun.)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729622.mkv
+#EXTINF:-1 tvg-name="El diario de Greg: ¡Esto es el colmo!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6hPJGl130XkJgwWpBagMHojWz.jpg" group-title="Cine Taquilla",El diario de Greg: ¡Esto es el colmo!
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729621.mkv
+#EXTINF:-1 tvg-name="¡Hola, Frida!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh8qIKgIwaeuDZ215JF4ylugMZs.jpg" group-title="Cine Taquilla",¡Hola, Frida!
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729620.mkv
+#EXTINF:-1 tvg-name="Amor y vino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg" group-title="Cine Taquilla",Amor y vino
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729619.mkv
+#EXTINF:-1 tvg-name="Un buen chico indio (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfY2FZlnm5uaQbaWR9IYW41J1xG.jpg" group-title="Cine Taquilla",Un buen chico indio (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729386.mkv
+#EXTINF:-1 tvg-name="Roofman (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg" group-title="Cine Taquilla",Roofman (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/729385.mkv
+#EXTINF:-1 tvg-name="Trol 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppcDeziFymu7DBbjItsMHJ70Smd.jpg" group-title="Cine Taquilla",Trol 2 (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728865.mkv
+#EXTINF:-1 tvg-name="Trol 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppcDeziFymu7DBbjItsMHJ70Smd.jpg" group-title="CINE ACCION",Trol 2 (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728865.mkv
+#EXTINF:-1 tvg-name="El lado oscuro de la justicia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg" group-title="Cine Taquilla",El lado oscuro de la justicia (2024)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728864.mkv
+#EXTINF:-1 tvg-name="El lado oscuro de la justicia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg" group-title="CINE ACCION",El lado oscuro de la justicia (2024)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728864.mkv
+#EXTINF:-1 tvg-name="El lado oscuro de la justicia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg" group-title="CINE CRIMEN",El lado oscuro de la justicia (2024)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728864.mkv
+#EXTINF:-1 tvg-name="Drácula (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg" group-title="Cine Taquilla",Drácula (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728863.mkv
+#EXTINF:-1 tvg-name="Drácula (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg" group-title="CINE TERROR",Drácula (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728863.mkv
+#EXTINF:-1 tvg-name="Drácula (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg" group-title="CINE FANTASIA",Drácula (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728863.mkv
+#EXTINF:-1 tvg-name="Desastre en familia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xElszx6rphaMQHoX4T5CCCM2cV.jpg" group-title="Cine Taquilla",Desastre en familia
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728588.mkv
+#EXTINF:-1 tvg-name="La chica zurda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTjbC92LLeO3Va5HfuAL7QGy0eH.jpg" group-title="Cine Taquilla",La chica zurda
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728587.mkv
+#EXTINF:-1 tvg-name="La Niebla De La Guerra (Fog of War)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvKfxdKaV20YikapsiYA23ETXG.jpg" group-title="Cine Taquilla",La Niebla De La Guerra (Fog of War)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728586.mkv
+#EXTINF:-1 tvg-name="Un robo muy navideño" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90vYAz1JCdbF2Ggx2VQUQEfitbN.jpg" group-title="Cine Taquilla",Un robo muy navideño
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728585.mkv
+#EXTINF:-1 tvg-name="La educación de Polly McClusky" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oflNtC0av7EoQkvasSP2HV3h0yC.jpg" group-title="Cine Taquilla",La educación de Polly McClusky
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728584.mkv
+#EXTINF:-1 tvg-name="Blue Moon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7pfJYxB1dpfAWkKSrnFjRhTmIG.jpg" group-title="Cine Taquilla",Blue Moon
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728583.mkv
+#EXTINF:-1 tvg-name="High Ground: En la tierra de los justos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rM5vppJk6HLfGAXhHBPpMo5d8Nt.jpg" group-title="Cine Taquilla",High Ground: En la tierra de los justos
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728582.mkv
+#EXTINF:-1 tvg-name="Dos mundos, un deseo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bg1WLMsrXmHvRUZpWXBcj6u5mbQ.jpg" group-title="Cine Taquilla",Dos mundos, un deseo
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728581.mkv
+#EXTINF:-1 tvg-name="Cuestión de confianza (Trust)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRzhyCIimncbPfD6h9QwP4xbhzc.jpg" group-title="Cine Taquilla",Cuestión de confianza (Trust)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728580.mkv
+#EXTINF:-1 tvg-name="Bugonia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg" group-title="Cine Taquilla",Bugonia
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/728579.mkv
+#EXTINF:-1 tvg-name="Ya no quedan junglas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzKeASTj4HitqVXB1cdvswmMV50.jpg" group-title="Cine Taquilla",Ya no quedan junglas
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726891.mkv
+#EXTINF:-1 tvg-name="El encanto del champán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yey6ihLZVwx2sjMXhObUyFusqyX.jpg" group-title="Cine Taquilla",El encanto del champán
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726890.mkv
+#EXTINF:-1 tvg-name="El arte de las ocho extremidades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMN3YAtIb8MgkGs46fhjxC7f5JG.jpg" group-title="Cine Taquilla",El arte de las ocho extremidades
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726889.mkv
+#EXTINF:-1 tvg-name="El hijo de mil hombres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfkecTToGVoq7hUE1xlay7ccM9e.jpg" group-title="Cine Taquilla",El hijo de mil hombres
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726888.mkv
+#EXTINF:-1 tvg-name="El más allá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLbFoMTwi3vDzUfNpg1Va19F7HC.jpg" group-title="Cine Taquilla",El más allá
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726887.mkv
+#EXTINF:-1 tvg-name="Frankie y los monstruos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXsI6DluqNnBfJenlXNuIpiPTOU.jpg" group-title="Cine Taquilla",Frankie y los monstruos
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726886.mkv
+#EXTINF:-1 tvg-name="Escapando de Alemania (Escape from Germany)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ImLwjncbby96zBhPyI2mDRplnX.jpg" group-title="Cine Taquilla",Escapando de Alemania (Escape from Germany)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726885.mkv
+#EXTINF:-1 tvg-name="Pacific Fear (Maraé)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jw5lampy4gLzwLVnm6vQH6zYuCX.jpg" group-title="Cine Taquilla",Pacific Fear (Maraé)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726884.mkv
+#EXTINF:-1 tvg-name="Humano (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffUU2c3qLtggje1kqwG1o45uFdM.jpg" group-title="Cine Taquilla",Humano (2024)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726883.mkv
+#EXTINF:-1 tvg-name="Selena y Los Dinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkAS2BZ4SZGv9Iq9kqlq5q4rkYI.jpg" group-title="Cine Taquilla",Selena y Los Dinos
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726882.mkv
+#EXTINF:-1 tvg-name="Sara: Amor y Revolución" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecIYbYAwzRxDkS3MjIHpFiPGK5G.jpg" group-title="Cine Taquilla",Sara: Amor y Revolución
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726881.mkv
+#EXTINF:-1 tvg-name="Tierra de Fugitivos (Gunslingers)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTD94RBWZUPTiZgP3BSkWE4Oje.jpg" group-title="Cine Taquilla",Tierra de Fugitivos (Gunslingers)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726880.mkv
+#EXTINF:-1 tvg-name="Sueños de trenes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKvcYAt8VwZ246FM1HmXvYEV6gA.jpg" group-title="Cine Taquilla",Sueños de trenes
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726879.mkv
+#EXTINF:-1 tvg-name="31 Minutos: Calurosa Navidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dv9UrOoicRiMGkzr2oj2YwSFY2K.jpg" group-title="Cine Taquilla",31 Minutos: Calurosa Navidad
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726878.mkv
+#EXTINF:-1 tvg-name="Crimen sobre ruedas (Gassed Up)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc8fkprG49sAjVvaz63G2VYEMgb.jpg" group-title="Cine Taquilla",Crimen sobre ruedas (Gassed Up)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726877.mkv
+#EXTINF:-1 tvg-name="Caza de brujas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSzB0T77LvQzCjYCkb6ZhWHTrQa.jpg" group-title="Cine Taquilla",Caza de brujas
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726876.mkv
+#EXTINF:-1 tvg-name="Las Locuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKkAqwY0EzGVM7tONCGYVuYZTFm.jpg" group-title="Cine Taquilla",Las Locuras
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726875.mkv
+#EXTINF:-1 tvg-name="Destrucción inminente (Bureau 749)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW640PVBXLlzhrkQnAcvWNsehIO.jpg" group-title="Cine Taquilla",Destrucción inminente (Bureau 749)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726874.mkv
+#EXTINF:-1 tvg-name="Mente Perturbada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9o25YIQLkIJcFGYngV16UZkksU.jpg" group-title="Cine Taquilla",Mente Perturbada (2023)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726873.mkv
+#EXTINF:-1 tvg-name="Plan en familia 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg" group-title="Cine Taquilla",Plan en familia 2
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726872.mkv
+#EXTINF:-1 tvg-name="Firecracker (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgfIriFtNYvt1Nukmo1vGWp9zTm.jpg" group-title="Cine Taquilla",Firecracker (2024)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726871.mkv
+#EXTINF:-1 tvg-name="Spinal Tap II: El final continúa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDeRY3vKQzox1qalZolHMfxmGD.jpg" group-title="Cine Taquilla",Spinal Tap II: El final continúa
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726870.mkv
+#EXTINF:-1 tvg-name="The Senior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv3kE86knrukjpGTtLLfg246JFx.jpg" group-title="Cine Taquilla",The Senior
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726869.mkv
+#EXTINF:-1 tvg-name="V/H/S/Beyond" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXaf6VGNHIGU7qivapGOF7o4o4N.jpg" group-title="Cine Taquilla",V/H/S/Beyond
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726868.mkv
+#EXTINF:-1 tvg-name="Fuerza Bruta: Sin salida (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cB607Cz7Mpdwepnz6RncXOW9gDD.jpg" group-title="Cine Taquilla",Fuerza Bruta: Sin salida (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726631.mkv
+#EXTINF:-1 tvg-name="Fuerza Bruta: Sin salida (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cB607Cz7Mpdwepnz6RncXOW9gDD.jpg" group-title="Cine Taquilla",Fuerza Bruta: Sin salida (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726631.mkv
+#EXTINF:-1 tvg-name="The Smashing Machine (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qfyfrY4Sa0fUPVH0rcsfGZZNoY.jpg" group-title="Cine Taquilla",The Smashing Machine (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726630.mkv
+#EXTINF:-1 tvg-name="La mano que mece la cuna (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRe1CQugJcj5ZA3WSaQnFIDPoK5.jpg" group-title="Cine Taquilla",La mano que mece la cuna (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726424.mkv
+#EXTINF:-1 tvg-name="La mano que mece la cuna (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRe1CQugJcj5ZA3WSaQnFIDPoK5.jpg" group-title="Cine Taquilla",La mano que mece la cuna (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/726424.mkv
+#EXTINF:-1 tvg-name="Los ilusionistas 3: Ahora me ves, ahora no (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2VMqWWsdGiqyZ6UEjSgOoFK6mI.jpg" group-title="Cine Taquilla",Los ilusionistas 3: Ahora me ves, ahora no (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725863.mkv
+#EXTINF:-1 tvg-name="Los ilusionistas 3: Ahora me ves, ahora no (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2VMqWWsdGiqyZ6UEjSgOoFK6mI.jpg" group-title="Cine Taquilla",Los ilusionistas 3: Ahora me ves, ahora no (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725863.mkv
+#EXTINF:-1 tvg-name="La Ola (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srkHoeXw4SOzpODPhn3UX6BgdfV.jpg" group-title="Cine Taquilla",La Ola (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725862.mkv
+#EXTINF:-1 tvg-name="Lefter: La historia de un maestro del fútbol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPxiquXDXroiSJ6dmikbPISpIps.jpg" group-title="Cine Taquilla",Lefter: La historia de un maestro del fútbol
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725861.mkv
+#EXTINF:-1 tvg-name="Una apuesta con el casamentero (A Bet with the Matchmaker)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3t18kJGCft9VOQMgmI700y1bBvj.jpg" group-title="Cine Taquilla",Una apuesta con el casamentero (A Bet with the Matchmaker)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725860.mkv
+#EXTINF:-1 tvg-name="Belén (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fto3pNhRmildPHJuF5UrAs6DXuK.jpg" group-title="Cine Taquilla",Belén (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725859.mkv
+#EXTINF:-1 tvg-name="Una Navidad ex-cepcional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCh3KvC7abbNex2d4dKMnIeQs3Q.jpg" group-title="Cine Taquilla",Una Navidad ex-cepcional
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725858.mkv
+#EXTINF:-1 tvg-name="Un novio, dos novias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY6MkBBN3Hfyb8F87UWxVyTpXnZ.jpg" group-title="Cine Taquilla",Un novio, dos novias
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725857.mkv
+#EXTINF:-1 tvg-name="Nadie sabe quién soy yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TNBs393l7pOKDZsk6q9BAiUTaD.jpg" group-title="Cine Taquilla",Nadie sabe quién soy yo
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725856.mkv
+#EXTINF:-1 tvg-name="Refugio Sangriento (Murder Motel)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2Cp4IgQl6rtvU0p0bPcPRnZerm.jpg" group-title="Cine Taquilla",Refugio Sangriento (Murder Motel)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725855.mkv
+#EXTINF:-1 tvg-name="El descubridor de leyendas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvrSYRtgHTu3oqJN1X7LWZoekB6.jpg" group-title="Cine Taquilla",El descubridor de leyendas
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725854.mkv
+#EXTINF:-1 tvg-name="Autos, Mota y Rocanrol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAasOVaSrKDqnPoOkExRQ5pcDVy.jpg" group-title="Cine Taquilla",Autos, Mota y Rocanrol
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725853.mkv
+#EXTINF:-1 tvg-name="Soy Eddie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9DGdhgLONrgp4h36DpeWTCPsTO.jpg" group-title="Cine Taquilla",Soy Eddie
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725852.mkv
+#EXTINF:-1 tvg-name="Sin salida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFfABpBsp1eVXFphGreqGsHjp0m.jpg" group-title="Cine Taquilla",Sin salida
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725851.mkv
+#EXTINF:-1 tvg-name="Manada voraz (The Dogs)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg" group-title="Cine Taquilla",Manada voraz (The Dogs)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725850.mkv
+#EXTINF:-1 tvg-name="La opción de navidad (Holiday Twist)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t4BkwajF5yhZQImiZ3p8UMGcN.jpg" group-title="Cine Taquilla",La opción de navidad (Holiday Twist)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725849.mkv
+#EXTINF:-1 tvg-name="Juegos de niños" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWhglhFoGA0T7n5U6Yi0t8LBGjA.jpg" group-title="Cine Taquilla",Juegos de niños
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725848.mkv
+#EXTINF:-1 tvg-name="Tee Yai: Nacido para el crimen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wM125GkMUzSyjPzNqvx9j2UHYV7.jpg" group-title="Cine Taquilla",Tee Yai: Nacido para el crimen
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725847.mkv
+#EXTINF:-1 tvg-name="Oscuridad total" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lt3Adgt3msKnZNPSLZe1UVtTrYr.jpg" group-title="Cine Taquilla",Oscuridad total
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725846.mkv
+#EXTINF:-1 tvg-name="Marco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg" group-title="Cine Taquilla",Marco
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725845.mkv
+#EXTINF:-1 tvg-name="Una batalla tras otra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRiK0GwWAQ1qukvAgN3I9t5dGVq.jpg" group-title="Cine Taquilla",Una batalla tras otra
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725844.mkv
+#EXTINF:-1 tvg-name="Después de Nosotros, el Diluvio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3MiMpSKeAR6NIwfi3fO0FXOGAG.jpg" group-title="Cine Taquilla",Después de Nosotros, el Diluvio
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725843.mkv
+#EXTINF:-1 tvg-name="La Oyente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJMgP6j2mKeiQNgu159MeFCg0qI.jpg" group-title="Cine Taquilla",La Oyente
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/725842.mkv
+#EXTINF:-1 tvg-name="Padre no hay más que uno 5: Nido repleto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7H27uvaPZfq794qVcLFrSEgHseZ.jpg" group-title="Cine Taquilla",Padre no hay más que uno 5: Nido repleto
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723914.mkv
+#EXTINF:-1 tvg-name="Lo que sucede después" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLMYoVYlVt9Xo8hDL1nciDtlx3T.jpg" group-title="Cine Taquilla",Lo que sucede después
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723913.mkv
+#EXTINF:-1 tvg-name="Prisionero de guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6paGLyOAvY95XxjfdiTcatwI7dJ.jpg" group-title="Cine Taquilla",Prisionero de guerra
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723908.mkv
+#EXTINF:-1 tvg-name="Baramulla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2raITTyjXVUcsbJ7lJAQt8HzjDK.jpg" group-title="Cine Taquilla",Baramulla
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723907.mkv
+#EXTINF:-1 tvg-name="El dosier Maldoror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nscnLW6csnYLedioaFFnoNDA6dH.jpg" group-title="Cine Taquilla",El dosier Maldoror
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723906.mkv
+#EXTINF:-1 tvg-name="El Encanto de la Sirena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqzIXix00y0mRbGPhreDvIaQdg1.jpg" group-title="Cine Taquilla",El Encanto de la Sirena
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723905.mkv
+#EXTINF:-1 tvg-name="Animales peligrosos (Dangerous Animals)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFtk7T6dbDgroAGWtoe0yoL4cc.jpg" group-title="Cine Taquilla",Animales peligrosos (Dangerous Animals)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723904.mkv
+#EXTINF:-1 tvg-name="Frankenstein (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzNvTbblTCKgBiDFCO86nMaKkSt.jpg" group-title="Cine Taquilla",Frankenstein (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723903.mkv
+#EXTINF:-1 tvg-name="Mango (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg" group-title="Cine Taquilla",Mango (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723902.mkv
+#EXTINF:-1 tvg-name="La maldición del colgante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH2UI7qwvKtmHk9vFTxxnCQPLKa.jpg" group-title="Cine Taquilla",La maldición del colgante
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723901.mkv
+#EXTINF:-1 tvg-name="Teléfono negro 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg" group-title="Cine Taquilla",Teléfono negro 2
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723900.mkv
+#EXTINF:-1 tvg-name="Good Fortune (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg" group-title="Cine Taquilla",Good Fortune (2025)
+http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/723864.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Érase un amor rural S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/A3cqCI1akPNxCWv3cHdYhXG7R0K.jpg" group-title="*DORAMAS⏯️✅*",Érase un amor rural S1 E1
 http://vodlat.top:80/series/PREMIUM22/dhbdjkvdghfvk/25cc9344-576d-43b1-ba37-7f54a04aff25.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Érase un amor rural S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/92GifYJbrPOM70XLlzhe9acjcb4.jpg" group-title="*DORAMAS⏯️✅*",Érase un amor rural S1 E2
