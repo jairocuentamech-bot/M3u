@@ -9,8 +9,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="México",AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7.1" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="México",AZTECA 7.1
-http://46.151.196.243:80/play/liKMdkhx4i0YRlyNHiiuIRNNGMz_7ySPavr4I5yqgAY
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="México",AZTECA INTERNACIONAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZÓN" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="México",AZ CORAZON
@@ -49,7 +47,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
 #EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="Cine y Series",USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
-#EXTINF:0 tvg-id="" tvg-name="E! HD" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="Vida",E! HD
+#EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="Vida",E! HD
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9646
 #EXTINF:0 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Vida",LIFETIME
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9703
@@ -85,14 +83,8 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9843
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9824
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="Documentales",DISCOVERY H&H
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9784
-#EXTINF:0tvg-id="" tvg-name="DISCOVERY H&H 2" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="Documentales",DISCOVERY H&H HD
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9821
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY H&H 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Documentales",DISCOVERY HOME & HEALTH HD
-https://restream-live.realiptv.to:443/Bert123/Bert123/4208
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY HGTV" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="Documentales",DISCOVERY HGTV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9819
-#EXTINF:0 tvg-id="" tvg-name="RAKUTEN VIKI" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Cine Y Series",RAKUTEN VIKI
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=816bc56b-5dd1-4ac1-9cf7-cbeef5e13f6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:0 tvg-id="" tvg-name="MVS TV" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="Música",MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CONECTA TV" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Música",CONECTA TV
@@ -163,7 +155,7 @@ http://fhh54d.vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235575.ts
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine Y Series",TNT SERIES
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/3644.m3u8
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="SONY MOVIES" tvg-logo="https://cablego.com.pe/cache/logos/SONYMOVIES.png" group-title="Cine Sony",SONY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://cablego.com.pe/cache/logos/SONYMOVIES.png" group-title="Cine Sony",SONY MOVIES
 http://vodlat.top:80/live/PREMIUM22/dhbdjkvdghfvk/4c9b220f-ec76-4b4d-b55c-d10464eb86a8.m3u
 #EXTINF:0 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Cine Sony",CINE SONY 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -185,11 +177,11 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="Cine Golden",GOLDEN EDGE
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
-#EXTINF:0 tvg-id="" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="Cine Golden",GOLDEN PLUS
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="Cine Golden",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
 #EXTINF:0 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="Cine Golden",GOLDEN PREMIER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
-#EXTINF:0 tvg-id="" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="Cine HBO",HBO
+#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="Cine HBO",HBO
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9670
 #EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="Cine HBO",HBO 2 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9675
@@ -284,6 +276,7 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9551
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports Xtra" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="Deportes",DEPORTES - beIN Sports Xtra
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9552
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="Deportes",DEPORTES - beIN Sports
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9553
 #EXTINF:-1  tvg-id="" tvg-name="LMP - 01" tvg-logo="" group-title="Deportes", PURPLE 1
 http://fhh54d.vidacristiana.info:80/edwines693/q6EMWgBLqzrp/688021.ts
 #EXTINF:-1  tvg-id="" tvg-name="LMP - 02" tvg-logo="" group-title="Deportes", PURPLE 2
@@ -314,8 +307,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqp4wZctuR93wEFe6Hh09sS3dUHrLYIbGckcshHfEXa6
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24 Hrs Infantil",BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24 Hrs Infantil",BOB ESPONJA 2
-http://deluxe-tv.online:80//live/Jesus123/Jesus123/134011.ts
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://www.pngmart.com/files/3/Dragon-Ball-Logo-PNG-Photos.png" group-title="24 Hrs Infantil",DRAGON BALL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/94894
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - SAYAJIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Dragon_Ball_Z_Logo_C.png" group-title="24 Hrs Infantil",DRAGON BALL Z - Saga Saiyajin
@@ -422,6 +413,8 @@ http://fhh54d.vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235571.ts
 http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596873.ts
 #EXTINF:-1 tvg-id="" tvg-name="CASTING COUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",CASTING COUCH
 http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596889.ts
+#EXTINF:-1 tvg-id="" tvg-name="BACK ROOM CASTING COUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",Premium +18 - Back Room Casting Couch (e)(720)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/150771
 #EXTINF:-1 tvg-id="" tvg-name="FAKE TAXI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",FAKE TAXI
 http://fhh54d.vidacristiana.info:80/rZgThSk3Yqk3/HrSMDy49dSQG/596842.ts
 #EXTINF:-1 tvg-id="" tvg-name="RAW ATTACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",RAW ATTACK
@@ -490,8 +483,6 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/150752
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/150758
 #EXTINF:-1 tvg-id="" tvg-name="AFRICAN SEX TRIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",Premium +18 - African Sex Trip (e)(720)
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/150759
-#EXTINF:-1 tvg-id="" tvg-name="BACK ROOM CASTING COUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",Premium +18 - Back Room Casting Couch (e)(720)
-http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/150771
 #EXTINF:-1 tvg-id="" tvg-name="HOT GUYS FUCK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",Premium 18 - Hot Guys Fuck (e)(720)
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/153019
 #EXTINF:-1 tvg-id="" tvg-name="AD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",AD1
@@ -502,18 +493,6 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vgixQx
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vi1XUDMqzX0dXkj2hBnymnI
 #EXTINF:-1 tvg-id="" tvg-name="AD4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",AD4
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidnJtyRJK3d-jtNjpyJlU8vj22UL47KT1AwMJln4noOr0
-#EXTINF:-1 tvg-id="" tvg-name="4U1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",4U1
-http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/5551
-#EXTINF:-1 tvg-id="" tvg-name="4U2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",FU2
-http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20095
-#EXTINF:-1 tvg-id="" tvg-name="4U3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",4U3
-http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20073
-#EXTINF:-1 tvg-id="" tvg-name="4U4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",4U4
-http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20071
-#EXTINF:-1 tvg-id="" tvg-name="4U5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",4U5
-http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20069
-#EXTINF:-1 tvg-id="" tvg-name="4U6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Random",4U6
-http://4you-media.com:8080/marcel_bota/wHLb41esRbVNmk4/20064
 #EXTINF:-1 tvg-id="" tvg-name="WANDA" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-OnlyFans-icon-blue-png.png" group-title="Zona OF",WANDA
 http://digitv.site:80/play/0eLy3jecZhNYKz8gpzudHOi4UpSmecjkxudB_8wUqTqzFhyF5gonrfEpnMInJ5yq
 #EXTINF:-1 tvg-id="" tvg-name="OF 1" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-OnlyFans-icon-blue-png.png" group-title="Zona OF",OF 1
@@ -733,8 +712,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/b738baaf-5f07-4968-8054-7cf0a
 #EXTINF:-1 tvg-name="El niño que domó el viento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjdYOYNpPTgL9Ll8fVGlTyfbc08.jpg" group-title="Cine Taquilla",El niño que domó el viento (2019)
 http://fhh54d.vidacristiana.info:80/movie/6TZDWqxZeSYJ/Fju6XLPt5wRZ/599339.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/131783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Futbolín (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JsVAm9FAw1A9qlTw3zNNR8zhLP.jpg" group-title="Cine Taquilla",Futbolín (2013)
-http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/131784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Airbender, el último guerrero (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztvnkvNYtZReU9iQyY94PXw3nzs.jpg" group-title="Cine Taquilla",Airbender, el último guerrero (2010)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/132025.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El último samurái (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DfwutbQodAsYxdqJu7Cme5jifC.jpg" group-title="Cine Taquilla",El último samurái (2003)
