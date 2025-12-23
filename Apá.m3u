@@ -1,13 +1,6 @@
 #EXTM3U
-#EXTINF:-1  tvg-id"" tvg-name="LMP - 01" tvg-logo="" group-title="Deportes", PURPLE 1
-http://alfatv.lat:2082/play/P8DT2tHTqqUcuIQc2DFsm-yAq1UWR0x4armIdIJB8N9toGJblKmuzRKT36VzqlMS/ts
-#EXTINF:-1  tvg-id="" tvg-name="LMP - 02" tvg-logo="" group-title="Deportes", PURPLE 2
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/688021.ts
-#EXTINF:-1  tvg-id="" tvg-name="LMP - 03" tvg-logo="" group-title="Deportes", PURPLE 3
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/688020.ts
-#EXTINF:-1  tvg-id="" tvg-name="LMP - 04" tvg-logo="" group-title="Deportes", PURPLE 4
-LMB_04 | LMP - Naranjeros Hermosillo En Jaguares Nayarit - 8:30 PM
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/688023.ts
+#EXTINF:-1  tvg-id"" tvg-name="LMP - 01" tvg-logo="" group-title="Deportes", NARANJEROS DE HERMOSILLO
+http://fhh54d.vidacristiana.info:80/joh566jim/YrcY9ZqFFn85/688023.ts
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="México",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV+" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="México",IMAGEN TV+
