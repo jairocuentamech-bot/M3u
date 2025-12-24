@@ -423,6 +423,9 @@ https://tv.nousiptv.com:8443/RichardN/6822828/1156760
 https://tv.nousiptv.com:8443/RichardN/6822828/1245186
 #EXTINF:-1 tvg-id="" tvg-name="CINE ESTRENOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="Cine 24 Hrs",CINE ESTRENOS
 https://tv.nousiptv.com:8443/RichardN/6822828/1245187
+
+1. MCU: LA SAGA DEL INFINITO
+
 #EXTINF:-1 tvg-id="" tvg-name="Iron man - El hombre de hierro" tvg-logo="https://image.tmdb.org/t/p/w400/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="1. MCU: La Saga del Infinito",Iron man - El hombre de hierro
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/3872ac13-49c5-4165-af35-7fc2aba9b18c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El increíble Hulk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="1. MCU: La Saga del Infinito",El increíble Hulk
@@ -469,6 +472,9 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ffa35454-b1c0-4d62-a253-51022
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ce9d4f75-83e4-43d8-a5a0-f11c7df0ffea.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa" tvg-logo="https://image.tmdb.org/t/p/w400/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="1. MCU: La Saga del Infinito",Spider-Man 2: Lejos de Casa
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/9f29dc8b-71d4-40b8-a108-21fb211f48b8.mp4
+
+2. MCU: LA SAGA DEL MULTIVERSO
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Widow" tvg-logo="https://image.tmdb.org/t/p/w400/iKntUTTLxUgizTe3jFcGLuHc84c.jpg" group-title="2. MCU: La Saga del Multiverso",Black Widow
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/009d69e5-a088-4c4f-86c7-243c8e8c7507.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos" tvg-logo="https://image.tmdb.org/t/p/w400/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="2. MCU: La Saga del Multiverso",Shang-Chi y la leyenda de los Diez Anillos
@@ -491,6 +497,9 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/4c1e8537-34b4-4b04-836d-56ea8
 http://tv.zapping.life:8080/movie/SANTIAGOe22/9jxAUptDXm/109060.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Marvels" tvg-logo="https://image.tmdb.org/t/p/w400/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="2. MCU: La Saga del Multiverso",The Marvels
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/8e038623-122c-46f0-9773-c59aa1b9de24.mp4
+
+3. MCU: X-MEN
+
 #EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w400/aF170xLGytZcC0xeSlSamImgIi4.jpg" group-title="3. MCU: X-Men",X-Men
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/87278cb9-6ff0-4413-9e8e-095f24838236.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men 2" tvg-logo="https://image.tmdb.org/t/p/w400/quih8FOtyoy0z2O3ijBJLol2F5q.jpg" group-title="3. MCU: X-Men",X-Men 2
@@ -513,6 +522,9 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/1b955ac0-e7ea-4eb6-b8f1-28fde
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/97887f8b-95a9-4a0d-b1e5-e04b9a27ed2e.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="3. MCU: X-Men",Deadpool & Wolverine
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/75f4de8a-d693-4e82-86e9-89fe453db439.mp4
+
+4. MCU: SPIDERMAN
+
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña" tvg-logo="https://image.tmdb.org/t/p/w400/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="4. MCU: Spiderman",El hombre araña
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/dd7eedc7-d14c-4fee-bc33-df037f447ba0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña 2" tvg-logo="https://image.tmdb.org/t/p/w400/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg" group-title="4. MCU: Spiderman",El hombre araña 2
@@ -536,7 +548,7 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/af75131f-888e-4b65-8c61-db969
 #EXTINF:-1 tvg-id="" tvg-name="Venom: El último baile" tvg-logo="https://image.tmdb.org/t/p/w400/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg" group-title="4. MCU: Spiderman",Venom: El último baile
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/a8f8ce07-14fb-4aea-b976-b8e01e11ee2b.mp4
 
-CINE TAQUILLA
+CINE TAQUILLA: SAGAS
 
 #EXTINF:-1 tvg-id="" tvg-name="Starship Troopers: Las brigadas del espacio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK7LafXBhHKjALYOT3jRUTlFdpk.jpg" group-title="Cine Taquilla",Starship Troopers: Las brigadas del espacio
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/cf8f8da9-e810-42f8-96d5-eea47a696015.mp4
@@ -609,7 +621,7 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/5c77d09c-0590-42f1-9849-1065c
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Renace" tvg-logo="https://image.tmdb.org/t/p/w400/Aw1FSO4gWk2Zjr2sfuyQ4lnK3Gc.jpg" group-title="Cine Taquilla: Sagas",Jurassic World: Renace
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/10173be0-1ffe-41d4-91f3-3337762d3304.mp4
 
-CINE TAQUILLA:SAGAS
+CINE TAQUILLA
 
 #EXTINF:-1 tvg-id="" tvg-name="Le Mans '66 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="Cine Taquilla",Le Mans '66 (2019)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/27268.mkv
@@ -670,6 +682,9 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/6785.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/6842.mkv
 #EXTINF:-1 tvg-id="" tvg-name="G.I. Joe The Rise of Cobra (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHgwWPga7CMlpXYkIBqT5HOL3s0.jpg" group-title="Cine Taquilla",G.I. Joe The Rise of Cobra (2009)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/6843.mkv
+
+CINE TAQUILLA: INFANTIL
+
 #EXTINF:-1 tvg-id="" tvg-name="Flow" tvg-logo="https://image.tmdb.org/t/p/w400/2PPvMc165yk0zafItbitQ2ZqZyo.jpg" group-title="Cine Taquilla: Infantil",Flow
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/16328e21-3429-4bb6-8079-0ea95c2c7a5c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" group-title="Cine Taquilla: Infantil",Coco
@@ -686,6 +701,9 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/123726.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/142632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg" group-title="Cine Taquilla",Batman (2022)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/13677.mkv
+
+ZONA X PAGINAS
+
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",AST TV 1
 http://somoseluno.blog:80//live/CesarQuintero368/iREGuGJ8tpxCRLih/316897.ts
 #EXTINF:-1 tvg-id="" tvg-name="PUBLIC AGENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sexo.png" group-title="Zona X Páginas",PUBLIC AGENT
