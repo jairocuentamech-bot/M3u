@@ -1,5 +1,9 @@
 #EXTM3U
 
+** Argentina Casting
+#EXTINF:-1 tvg-id="" tvg-name="Lara 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Argentina Casting",Vid 1
+https://dash-s3-c50-fr-cdn.eporner.com/hls/srv6/11918714-720p-av1.mp4/index-v1-a1.m3u8?hash=IXHVHhJ6X2DvJOgWnRjg3g&expires=1767135980&ip=2806:263:c481:897b:dc90:d8e3:197b:e77f&id=11918714
+
 ** Blowketing
 #EXTINF:-1 tvg-id="" tvg-name="Jademoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Blowketing",Vid 1
 https://pimpbunny.com/es/get_file/17/84a0b58edfe10aa5476c49b0a3da0cc641abffc672/390000/390665/390665_720p.mp4/?rnd=1767045484986
