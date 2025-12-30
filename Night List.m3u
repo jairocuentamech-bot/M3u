@@ -2,10 +2,6 @@
 #EXTTURBOPLAYOPT:network-caching=1000ms
 #EXTTURBOPLAYOPT:http-reconnect=true
 
-** Mega
-#EXTINF:-1 tvg-id="" tvg-name="Alison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Mega - Soul",Vid 1
-https://mega.nz/file/875UxDhZ#kDpVtWb76mmpBEcIey_vtl38jIXVrc3LU5OckQzrFgs
-
 ** Argentina Casting
 #EXTINF:-1 tvg-id="" tvg-name="Lara 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Argentina Casting",Vid 1
 https://dash-s3-c50-fr-cdn.eporner.com/hls/srv6/11918714-720p-av1.mp4/index-v1-a1.m3u8?hash=IXHVHhJ6X2DvJOgWnRjg3g&expires=1767135980&ip=2806:263:c481:897b:dc90:d8e3:197b:e77f&id=11918714
