@@ -1,5 +1,5 @@
 #EXTM3U
-##EXTTURBOPLAYOPT:network-caching=1000ms
+#EXTTURBOPLAYOPT:network-caching=1000ms
 #EXTTURBOPLAYOPT:http-reconnect=true
 
 ** Argentina Casting
