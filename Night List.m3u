@@ -1,4 +1,6 @@
 #EXTM3U
+##EXTTURBOPLAYOPT:network-caching=1000ms
+#EXTTURBOPLAYOPT:http-reconnect=true
 
 ** Argentina Casting
 #EXTINF:-1 tvg-id="" tvg-name="Lara 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="Argentina Casting",Vid 1
