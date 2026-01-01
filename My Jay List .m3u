@@ -13,8 +13,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZÓN" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="México",AZ CORAZON
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87568
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="Deportes",AZTECA DEPORTES
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="México",LAS ESTRELLAS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8757
 #EXTINF:-1 tvg-id="" tvg-name="CANAL NUEVE" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México",CANAL NUEVE
@@ -221,36 +219,12 @@ http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="Cine Latino",DE PELICULA PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
-#EXTINF:0 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",ZONA TUDN
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/78280
+
+** Deportes
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="Deportes",AZTECA DEPORTES
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592017.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes ESPN",ESPN 1
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591979.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="Deportes ESPN",ESPN 2
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591985.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes ESPN",ESPN 3 
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591989.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes ESPN",ESPN 4 
-http://www.1play.cool:25461/Pisingo2024/ee19e81224/134294
-#EXTINF:0 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 5
-https://zonamovie.pro:443/play/U-Incyv09c9g67CQdtmkvvKjDWjCvx3f1-vAMSTLhpCztjp4ctzkTK6-onPrTaW2/ts
-#EXTINF:0 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 6
-http://go.iptvhn.net:25461/live/7619/7619/13347.ts
-#EXTINF:0 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 7 
-http://2.magmas5.com:8000/Cristalguevara/89386563/3014
-#EXTINF:0 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes ESPN",ESPN EXTRA
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes FOX",FOX SPORTS 
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592003.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes FOX",FOX SPORTS 2 
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592007.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes FOX",FOX SPORTS 3 
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592011.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes FOX",FOX SPORTS PREMIUM
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.postimg.cc/ZKTX4yBw/latest-6.png" group-title="Deportes FOX",FOX
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592015.ts
 #EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Deportes",CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Deportes",CLARO SPORTS 2
@@ -275,8 +249,38 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9551
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9552
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="Deportes",DEPORTES - beIN Sports
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9553
-#EXTINF:-1  tvg-id="" tvg-name="LMP - 01" tvg-logo="" group-title="Deportes", PURPLE 1
-http://fhh54d.vidacristiana.info:80/joh566jim/YrcY9ZqFFn85/688023.ts
+
+** Deportes ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes ESPN",ESPN 1
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591979.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="Deportes ESPN",ESPN 2
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591985.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes ESPN",ESPN 3 
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/591989.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes ESPN",ESPN 4 
+http://www.1play.cool:25461/Pisingo2024/ee19e81224/134294
+#EXTINF:0 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 5
+https://zonamovie.pro:443/play/U-Incyv09c9g67CQdtmkvvKjDWjCvx3f1-vAMSTLhpCztjp4ctzkTK6-onPrTaW2/ts
+#EXTINF:0 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 6
+http://go.iptvhn.net:25461/live/7619/7619/13347.ts
+#EXTINF:0 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 7 
+http://2.magmas5.com:8000/Cristalguevara/89386563/3014
+#EXTINF:0 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes ESPN",ESPN EXTRA
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9537
+
+** Deportes FOX
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes FOX",FOX SPORTS 
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592003.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes FOX",FOX SPORTS 2 
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592007.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes FOX",FOX SPORTS 3 
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592011.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes FOX",FOX SPORTS PREMIUM
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9593
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.postimg.cc/ZKTX4yBw/latest-6.png" group-title="Deportes FOX",FOX
+http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592015.ts
+
+** Infantiles
 #EXTINF:0 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="Infantiles",DISNEY JR
