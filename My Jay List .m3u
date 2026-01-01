@@ -407,7 +407,7 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/13677.mkv
 #EXTINF:-1 tvg-id="" tvg-name="42: La verdadera historia de una leyenda del deporte (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skDtx23it4RQ6XICxeUm7qoLsT3.jpg" group-title="Cine Taquilla",42: La verdadera historia de una leyenda del deporte (2013)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/142632.mkv
 
-** Z - CINE TAQUILLA: INFANTIL
+** CINE TAQUILLA: INFANTIL
 #EXTINF:-1 tvg-id="" tvg-name="Flow" tvg-logo="https://image.tmdb.org/t/p/w400/2PPvMc165yk0zafItbitQ2ZqZyo.jpg" group-title="Cine Taquilla: Infantil",Flow
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/16328e21-3429-4bb6-8079-0ea95c2c7a5c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" group-title="Cine Taquilla: Infantil",Coco
@@ -490,13 +490,13 @@ http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592015.ts
 ** DEPORTES INTERNACIONAL
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Deportes Internacional",SKY SPORTS LA LIGA 
 https://zonamovie.pro:443/play/vHjsYA-2mEOGN4Q9VJ8-ExSNrHTOrFCbZLL7PbvV9W0ByugPJ0LGnx1bo_aNr5my/ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="http://51.222.27.42/iconox/ligadecampeones.png" group-title=" Deportes Internacional ",LIGA DE CAMPEONES
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="http://51.222.27.42/iconox/ligadecampeones.png" group-title="Deportes Internacional",LIGA DE CAMPEONES
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/251630
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sport USA" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title=" Deportes Internacional ",DEPORTES - beIN Sport USA
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sport USA" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="Deportes Internacional",DEPORTES - beIN Sport USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9551
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports Xtra" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title=" Deportes Internacional ",DEPORTES - beIN Sports Xtra
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports Xtra" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="Deportes Internacional",DEPORTES - beIN Sports Xtra
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9552
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="Deporte Internacionals",DEPORTES - beIN Sports
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - beIN Sports" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="Deportes Internacional",DEPORTES - beIN Sports
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9553
 
 ** DOCUMENTALES
