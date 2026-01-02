@@ -462,8 +462,8 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/114793
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9525
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="Deportes ESPN",ESPN 2
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9531
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes ESPN",ESPN 3 
-http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9536
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="Deportes ESPN",ESPN 3
+http://imaxplay.net:8880//live/ZGCWR/AVKGT/518962.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes ESPN",ESPN 4 
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9537
 #EXTINF:0 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes ESPN",ESPN 5
@@ -474,18 +474,18 @@ http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9539
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9543
 #EXTINF:0 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes ESPN",ESPN EXTRA
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9547
-#EXTINF:0GaMsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="Deportes ESPN",ESPN EXTRA
+
 
 
 ** DEPORTES FOX
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes FOX",FOX SPORTS 
-http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9579
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes FOX",FOX SPORTS 2 
-http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9584
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes FOX",FOX SPORTS 3 
-http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9592
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes FOX",FOX SPORTS
+http://imaxplay.net:8880//live/ZGCWR/AVKGT/198785.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Deportes FOX",FOX SPORTS 2
+http://imaxplay.net:8880//live/ZGCWR/AVKGT/186573.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="Deportes FOX",FOX SPORTS 3
+http://imaxplay.net:8880//live/ZGCWR/AVKGT/93563.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="Deportes FOX",FOX SPORTS PREMIUM
-http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9593
+http://imaxplay.net:8880//live/ZGCWR/AVKGT/158454.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://i.postimg.cc/ZKTX4yBw/latest-6.png" group-title="Deportes FOX",FOX DEPORTES
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9572
 
