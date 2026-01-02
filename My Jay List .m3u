@@ -496,6 +496,10 @@ http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/9552
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9553
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes Internacional",beIN Sports ñ
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/172735216318_logo_vertical_negativo-1.jpg" group-title="Deportes Internacional",Real Madrid TV
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+
+Sent from my Android with Castify https://play.google.com/store/apps/details?id=com.castify
 
 ** DOCUMENTALES
 #EXTINF:0 tvg-id="" tvg-name="HISTORY" tvg-logo="https://logos.xbots.com.mx/89.png" group-title="Documentales",HISTORY 
