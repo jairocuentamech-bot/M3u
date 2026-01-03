@@ -499,6 +499,8 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="021. Noticias",CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS TELEMUNDO AHORA" tvg-logo="https://images.produ.com/wp-content/uploads/2025/05/08095241/bigwp-NoticiasTelemundoAhoraLogo.jpg" group-title="021. Noticias",NOTICIAS TELEMUNDO AHORA
+http://proxpanel.pro:80/nF2Ph6SUt/Oqy;9up5PQ1@E1/623309
 
 ** 022. SERIES: 24 HRS
 #EXTINF:-1 tvg-id="" tvg-name="DR HOUSE" tvg-logo="https://image.tmdb.org/t/p/w500/zTk34jve0Ee7izTm8BGNfW6laWg.jpg" group-title="022. Series: 24 Hrs",DR HOUSE
