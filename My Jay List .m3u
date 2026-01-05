@@ -120,7 +120,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="004. Cine HBO",HBO SIGNATURE
 http://fhh54d.024. Vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/46162.ts
 
-** .005. Cine Latino
+** .005. CINE LATINO
 #EXTINF:0 tvg-id="" tvg-name="005. Cine Latino" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="005. Cine Latino",CINELATINO
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="005. Cine Latino",CINEMA DINAMITA
@@ -130,7 +130,7 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="005. Cine Latino",DE PELICULA PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
 
-** 006. Cine Netflix
+** 006. CINE NETFLIX
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="006. Cine Netflix",NETFLIX FHD
 http://fhh54d.024. Vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235580.ts
 #EXTINF:0 tvg-id="" tvg-name="NETFLIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Netflix_Logomark.png" group-title="006. Cine Netflix",NETFLIX 1
@@ -149,7 +149,7 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/306959
 **  007. Cine Sony
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://cablego.com.pe/cache/logos/SONYMOVIES.png" group-title="007. Cine Sony",SONY MOVIES
 http://vodlat.top:80/live/PREMIUM22/dhbdjkvdghfvk/4c9b220f-ec76-4b4d-b55c-d10464eb86a8.m3u
-#EXTINF:0 tvg-id="" tvg-name="007. Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="007. Cine Sony",007. Cine Sony 
+#EXTINF:0 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="007. Cine Sony",CINE SONY
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="007. Cine Sony",SONY CHANNEL
 https://nxt.plus:8443/salvadorver/331015/43562.ts
