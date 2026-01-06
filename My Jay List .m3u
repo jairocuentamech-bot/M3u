@@ -116,27 +116,27 @@ http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="007. Cine Universal",UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
-#EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="010. Comedia",COMEDY CENTRAL
+#EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="008. Comedia",COMEDY CENTRAL
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9584
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="010. Comedia",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="008. Comedia",DISTRITO COMEDIA
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/52931
-#EXTINF:0 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://i.imgur.com/yu3Bpbd.png" group-title="011. Deportes",AYM SPORTS
+#EXTINF:0 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://i.imgur.com/yu3Bpbd.png" group-title="009. Deportes",AYM SPORTS
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/25701
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="011. Deportes",AZTECA DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="009. Deportes",AZTECA DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
-#EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="011. Deportes",CLARO SPORTS
+#EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="009. Deportes",CLARO SPORTS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
-#EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="011. Deportes",CLARO SPORTS 2
+#EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="009. Deportes",CLARO SPORTS 2
 http://xtvplayer.top:8080/abasit20/03219282420/352184
-#EXTINF:-1 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="011. Deportes",ITV DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="009. Deportes",ITV DEPORTES
 http://myxpanel.pro:80/3679642419/2914945219/716734
-#EXTINF:0 tvg-id="" tvg-name="LAS" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="011. Deportes",LAS 1.1
+#EXTINF:0 tvg-id="" tvg-name="LAS" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="009. Deportes",LAS 1.1
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
-#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="011. Deportes",TVC DEPORTES
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="009. Deportes",TVC DEPORTES
 http://live.proyectoxpro.com:8080/Manuel0311/9zWkMSnfZa/9607
-#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="011. Deportes",TVC DEPORTES 2
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="009. Deportes",TVC DEPORTES 2
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/387772
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="011. Deportes",TUDN
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="009. Deportes",TUDN
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/24855
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="012. Deportes ESPN",ESPN 1
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9525
