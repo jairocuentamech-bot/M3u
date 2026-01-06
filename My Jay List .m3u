@@ -108,7 +108,7 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="004. Cine HBO",HBO SIGNATURE
 http://fhh54d.024. Vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/46162.ts
-#EXTINF:0 tvg-id="" tvg-name="005. Cine Latino" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="005. Cine Latino",CINELATINO
+#EXTINF:0 tvg-id="" tvg-name="CINELATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="005. Cine Latino",CINELATINO
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="005. Cine Latino",CINEMA DINAMITA
 http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
@@ -287,7 +287,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="011. Cine Universal",UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
 #EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="012. Comedia",COMEDY CENTRAL
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
+http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9584
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="013. Deportes",AZTECA DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="013. Deportes",TUDN
