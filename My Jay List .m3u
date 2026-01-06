@@ -1,6 +1,5 @@
 #EXTM3U
 
-** 001.CINE
 #EXTINF:0 tvg-id="" tvg-name="USA" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="001. Cine",USA
 http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/87614
 #EXTINF:0 tvg-id="" tvg-name="DHE" tvg-logo="https://iconape.com/wp-content/files/ig/117745/png/Canal_DHE_logo.png" group-title="001. Cine",DHE
@@ -33,7 +32,6 @@ http://2.magmas5.com:8000/live/Cristalguevara/89386563/150115.m3u8
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9749
 #EXTINF:0 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/07/Ultra-Cine-Logo.png" group-title="001. Cine",ULTRA CINE
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/79183
-** 002. CINE 24 HRS
 #EXTINF:-1 tvg-id="" tvg-name="HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="002. Cine 24 Hrs",HARRY POTTER
 http://www.1play.cool:25461/2137135563/63ab966fe8/266592
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="https://cinefagos.wordpress.com/wp-content/uploads/2015/10/disneyandpixar3b.jpg" group-title="002. Cine 24 Hrs",DISNEY PIXAR
@@ -82,7 +80,6 @@ https://tv.nousiptv.com:8443/RichardN/6822828/1156760
 https://tv.nousiptv.com:8443/RichardN/6822828/1245186
 #EXTINF:-1 tvg-id="" tvg-name="CINE ESTRENOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="002. Cine 24 Hrs",CINE ESTRENOS
 https://tv.nousiptv.com:8443/RichardN/6822828/1245187
-** 003. Cine Golden
 #EXTINF:0 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="003. Cine Golden",GOLDEN
 https://nxt.plus:8443/salvadorver/331015/43534.ts
 #EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="003. Cine Golden",GOLDEN EDGE
@@ -91,7 +88,6 @@ https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4250
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
 #EXTINF:0 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="003. Cine Golden",GOLDEN PREMIER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
-** 004. Cine HBO
 #EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="004. Cine HBO",HBO
 http://tv.zapping.life:8080/SebastianCastillo/kA8whKJ2nF/9666
 #EXTINF:0 tvg-id="" tvg-name="HBO TV" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="004. Cine HBO",HBO TV
@@ -112,7 +108,6 @@ http://imaxplay.net:8880//live/Johan22/KFPPW/185169.ts
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="004. Cine HBO",HBO SIGNATURE
 http://fhh54d.024. Vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/46162.ts
-** .005. CINE LATINO
 #EXTINF:0 tvg-id="" tvg-name="005. Cine Latino" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="005. Cine Latino",CINELATINO
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7974.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="005. Cine Latino",CINEMA DINAMITA
@@ -121,7 +116,6 @@ http://fastopen.live:8080/LukaszGrabarek/RYx2ZvNsAz/5390
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/135785.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="005. Cine Latino",DE PELICULA PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9617
-** 006. CINE NETFLIX
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="006. Cine Netflix",NETFLIX FHD
 http://fhh54d.024. Vidacristiana.info:80/6TZDWqxZeSYJ/Fju6XLPt5wRZ/235580.ts
 #EXTINF:0 tvg-id="" tvg-name="NETFLIX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Netflix_Logomark.png" group-title="006. Cine Netflix",NETFLIX 1
@@ -136,7 +130,6 @@ http://www.1play.cool:25461/Pisingo2024/ee19e81224/266502
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/266504
 #EXTINF:0 tvg-id="" tvg-name="NETFLIX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Netflix_Logomark.png" group-title="006. Cine Netflix",NETFLIX 6
 http://www.1play.cool:25461/Pisingo2024/ee19e81224/306959
-**  007. Cine Sony
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://cablego.com.pe/cache/logos/SONYMOVIES.png" group-title="007. Cine Sony",SONY MOVIES
 http://vodlat.top:80/live/PREMIUM22/dhbdjkvdghfvk/4c9b220f-ec76-4b4d-b55c-d10464eb86a8.m3u
 #EXTINF:0 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="007. Cine Sony",CINE SONY
@@ -145,7 +138,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://nxt.plus:8443/salvadorver/331015/43562.ts
 #EXTINF:0 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="007. Cine Sony",SONY COMEDIAS
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-** 008. CINE TAQUILLA
 #EXTINF:-1 tvg-id="" tvg-name="Le Mans '66 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="008. Cine Taquilla",Le Mans '66 (2019)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/27268.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Air: La historia detrás del logo (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg" group-title="008. Cine Taquilla",Air: La historia detrás del logo (2023)
@@ -202,7 +194,6 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/6843.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/13677.mkv
 #EXTINF:-1 tvg-id="" tvg-name="42: La verdadera historia de una leyenda del deporte (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skDtx23it4RQ6XICxeUm7qoLsT3.jpg" group-title="008. Cine Taquilla",42: La verdadera historia de una leyenda del deporte (2013)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/142632.mkv
-** 009. Cine Taquilla: Infantil
 #EXTINF:-1 tvg-id="" tvg-name="Flow" tvg-logo="https://image.tmdb.org/t/p/w400/2PPvMc165yk0zafItbitQ2ZqZyo.jpg" group-title="009. Cine Taquilla: Infantil",Flow
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/16328e21-3429-4bb6-8079-0ea95c2c7a5c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZZhYLLDU4g4XGQ5tvjYNVytxc.jpg" group-title="009. Cine Taquilla: Infantil",Coco
@@ -215,7 +206,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/5c81a334-33f3-49bd-b443-ac4ca
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/c2293135-a589-42f8-b641-e616bf154f2c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mighty Morphin Power Rangers: Ayer, hoy y siempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg" group-title="009. Cine Taquilla: Infantil",Mighty Morphin Power Rangers: Ayer, hoy y siempre (2023)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/123726.mkv
-**  010. Cine Taquilla: Sagas
 #EXTINF:-1 tvg-id="" tvg-name="Starship Troopers: Las brigadas del espacio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK7LafXBhHKjALYOT3jRUTlFdpk.jpg" group-title="010. Cine Taquilla: Sagas",Starship Troopers: Las brigadas del espacio
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/cf8f8da9-e810-42f8-96d5-eea47a696015.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Starship Troopers 2: El héroe de la federación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FZJZcXFsEdwGQm8HFXha6VpxvM.jpg" group-title="010. Cine Taquilla: Sagas",Starship Troopers 2: El héroe de la federación
@@ -286,7 +276,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/6c4c37c2-c10a-4864-b79d-7d58e
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/5c77d09c-0590-42f1-9849-1065c5b13a91.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Renace" tvg-logo="https://image.tmdb.org/t/p/w400/Aw1FSO4gWk2Zjr2sfuyQ4lnK3Gc.jpg" group-title="010. Cine Taquilla: Sagas",Jurassic World: Renace
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/10173be0-1ffe-41d4-91f3-3337762d3304.mp4
-** 011. CINE UNIVERSAL
 #EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="011. Cine Universal",STUDIO UNIVERSAL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="011. Cine Universal",UNIVERSAL CHANNEL
@@ -297,10 +286,8 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9757
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="011. Cine Universal",UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
-* 012. COMEDIA
 #EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="012. Comedia",COMEDY CENTRAL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9781
-** 013. DEPORTES
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="013. Deportes",AZTECA DEPORTES
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87574
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="013. Deportes",TUDN
@@ -319,7 +306,6 @@ http://live.proyectoxpro.com:8080/Manuel0311/9zWkMSnfZa/9607
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/387772
 #EXTINF:-1 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="013. Deportes",ITV DEPORTES
 http://myxpanel.pro:80/3679642419/2914945219/716789
-** 014. DEPORTES ESPN
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="014. Deportes ESPN",ESPN 1
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9525
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="014. Deportes ESPN",ESPN 2
@@ -332,7 +318,6 @@ http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9537
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/9539
 #EXTINF:0 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="014. Deportes ESPN",ESPN EXTRA
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/81926
-** 015. DEPORTES FOX
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="015. Deportes FOX",FOX SPORTS
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/248
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="015. Deportes FOX",FOX SPORTS 2
@@ -343,7 +328,6 @@ http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/250
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78194
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://i.postimg.cc/ZKTX4yBw/latest-6.png" group-title="015. Deportes FOX",FOX DEPORTES
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9571
-** 016. DEPORTES INTERNACIONAL
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="016. Deportes Internacional",SKY SPORTS LA LIGA
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/388035
 #EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="http://51.222.27.42/iconox/ligadecampeones.png" group-title="016. Deportes Internacional",LIGA DE CAMPEONES
@@ -358,7 +342,6 @@ http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9553
 http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/592013.ts
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/172735216318_logo_vertical_negativo-1.jpg" group-title="016. Deportes Internacional",Real Madrid TV
 http://176.65.146.237:8401/play/a0ak/index.m3u8
-**  017. DOCUMENTALES
 #EXTINF:0 tvg-id="" tvg-name="HISTORY" tvg-logo="https://logos.xbots.com.mx/89.png" group-title="017. Documentales",HISTORY 
 https://restream-live.realiptv.to:443/Marilyn1/Marilyn1/4252
 #EXTINF:0 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="017. Documentales",HISTORY 2 
@@ -387,7 +370,6 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9821
 http://tv.proyectox.vip:8080/biancaarevalo1/Dw3Pm3HKk2/9820
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY HGTV" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="017. Documentales",DISCOVERY HGTV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/51616
-** 018. INFANTILES
 #EXTINF:0 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="018. Infantiles",DISNEY CHANNEL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/2815.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="018. Infantiles",DISNEY JR
@@ -410,7 +392,6 @@ https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95613
 #EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="018. Infantiles",BITME
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqp4wZctuR93wEFe6Hh09sS3dUHrLYIbGckcshHfEXa6
-** 019. MEXICO
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="019. México",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="019. México",AZTECA UNO
@@ -433,7 +414,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNICABLE" tvg-logo="http://fanc.tmsimg.com/assets/s16521_ll_h3_ab.png" group-title="019. México",UNICABLE 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8381
-** 020. MUSICA
 #EXTINF:0 tvg-id="" tvg-name="MVS TV" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="020. Música",MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CONECTA TV" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="020. Música",CONECTA TV
@@ -460,7 +440,6 @@ https://jmp2.uk/stvp-USBD3300004RH
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:0 tvg-id="" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="020. Música",XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
-** 021. NOTICIAS
 #EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png" group-title="021. Noticias",MILENIO TV
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1 tvg-id="" tvg-name="MEGA NOTICIAS" tvg-logo="https://logos.xbots.com.mx/307519.png" group-title="021. Noticias",MEGA NOTICIAS
@@ -477,7 +456,6 @@ http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS TELEMUNDO AHORA" tvg-logo="https://images.produ.com/wp-content/uploads/2025/05/08095241/bigwp-NoticiasTelemundoAhoraLogo.jpg" group-title="021. Noticias",NOTICIAS TELEMUNDO AHORA
 http://proxpanel.pro:80/nF2Ph6SUt/Oqy;9up5PQ1@E1/623309
-** 022. SERIES: 24 HRS
 #EXTINF:-1 tvg-id="" tvg-name="DR HOUSE" tvg-logo="https://image.tmdb.org/t/p/w500/zTk34jve0Ee7izTm8BGNfW6laWg.jpg" group-title="022. Series: 24 Hrs",DR HOUSE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/298778
 #EXTINF:-1 tvg-id="" tvg-name="LA NIÑERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/The_Nanny_%28TriStar_Television%29_logo.svg/250px-The_Nanny_%28TriStar_Television%29_logo.svg.png" group-title="022. Series: 24 Hrs",LA NIÑERA
@@ -500,7 +478,6 @@ http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/428547.ts
 http://tv.zapping.life:8080/SANTIAGOe22/9jxAUptDXm/94859
 #EXTINF:-1 tvg-id="" tvg-name="MANUAL DE NED" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="022. Series: 24 Hrs",MANUAL DE NED
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/95003
-** 023. Series: 24 Hrs Infantiles
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="023. Series: 24 Hrs Infantiles",BOB ESPONJA
 http://imaxplay.net:8880//live/Johan22/KFPPW/531694.ts
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://www.pngmart.com/files/3/Dragon-Ball-Logo-PNG-Photos.png" group-title="023. Series: 24 Hrs Infantiles",DRAGON BALL
@@ -549,7 +526,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/95033
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/129313.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="023. Series: 24 Hrs Infantiles",LA PANTERA ROSA
 http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/107989.ts
-** 024. Vida
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="024. Vida",TELEMUNDO INTERNACIONAL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
 #EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="024. Vida",NBC UNIVERSO
@@ -564,7 +540,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9703
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 #EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="024. Vida",A&E
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9615
-** 025. MCU: LA SAGA DEL INFINITO
 #EXTINF:-1 tvg-id="" tvg-name="Iron man - El hombre de hierro" tvg-logo="https://image.tmdb.org/t/p/w400/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="025. MCU: La Saga del Infinito",Iron man - El hombre de hierro
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/3872ac13-49c5-4165-af35-7fc2aba9b18c.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El increíble Hulk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="025. MCU: La Saga del Infinito",El increíble Hulk
@@ -611,7 +586,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ffa35454-b1c0-4d62-a253-51022
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/ce9d4f75-83e4-43d8-a5a0-f11c7df0ffea.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man 2: Lejos de Casa" tvg-logo="https://image.tmdb.org/t/p/w400/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="025. MCU: La Saga del Infinito",Spider-Man 2: Lejos de Casa
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/9f29dc8b-71d4-40b8-a108-21fb211f48b8.mp4
-** 026. MCU: LA SAGA DEL MULTIVERSO
 #EXTINF:-1 tvg-id="" tvg-name="Black Widow" tvg-logo="https://image.tmdb.org/t/p/w400/iKntUTTLxUgizTe3jFcGLuHc84c.jpg" group-title="026. MCU: La Saga del Multiverso",Black Widow
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/009d69e5-a088-4c4f-86c7-243c8e8c7507.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shang-Chi y la leyenda de los Diez Anillos" tvg-logo="https://image.tmdb.org/t/p/w400/9VqajJXm29uprSaxOcEh7O0d6E9.jpg" group-title="026. MCU: La Saga del Multiverso",Shang-Chi y la leyenda de los Diez Anillos
@@ -634,7 +608,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/4c1e8537-34b4-4b04-836d-56ea8
 http://tv.zapping.life:8080/movie/SANTIAGOe22/9jxAUptDXm/109060.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Marvels" tvg-logo="https://image.tmdb.org/t/p/w400/vpuuFM032yiX8tox4L84Wl9MGjG.jpg" group-title="026. MCU: La Saga del Multiverso",The Marvels
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/8e038623-122c-46f0-9773-c59aa1b9de24.mp4
-** 027. MCU: X-MEN
 #EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w400/aF170xLGytZcC0xeSlSamImgIi4.jpg" group-title="027. MCU: X-Men",X-Men
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/87278cb9-6ff0-4413-9e8e-095f24838236.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men 2" tvg-logo="https://image.tmdb.org/t/p/w400/quih8FOtyoy0z2O3ijBJLol2F5q.jpg" group-title="027. MCU: X-Men",X-Men 2
@@ -657,7 +630,6 @@ http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/1b955ac0-e7ea-4eb6-b8f1-28fde
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/97887f8b-95a9-4a0d-b1e5-e04b9a27ed2e.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w400/347cCxyMXy8WkcHfsfaPaugCyPA.jpg" group-title="027. MCU: X-Men",Deadpool & Wolverine
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/75f4de8a-d693-4e82-86e9-89fe453db439.mp4
-** 028. MCU: SPIDERMAN
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña" tvg-logo="https://image.tmdb.org/t/p/w400/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg" group-title="028. MCU: Spiderman",El hombre araña
 http://vodlat.top:80/movie/PREMIUM22/dhbdjkvdghfvk/dd7eedc7-d14c-4fee-bc33-df037f447ba0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El hombre araña 2" tvg-logo="https://image.tmdb.org/t/p/w400/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg" group-title="028. MCU: Spiderman",El hombre araña 2
