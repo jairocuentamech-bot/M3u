@@ -14,6 +14,10 @@ http://tv.zapping.life:8080/tadegarcia1/YJNFyDSNsR/9643
 http://tv.zapping.life:8080/tadegarcia1/YJNFyDSNsR/9653
 #EXTINF:0 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="001. Cine",MULTIPREMIER
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/105
+#EXTINF:0 tvg-id="" tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="001. Cine",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="001. Cine",SONY COMEDIAS
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="001. Cine",SPACE
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9612
 #EXTINF:0 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="001. Cine",STAR CHANNEL 
@@ -102,14 +106,6 @@ http://cineplay.vip:2086/sifuente54/hTPTGewMS6/25581
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/35466
 #EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="006. Cine Latino",DE PELICULA PLUS
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9586
-#EXTINF:0 tvg-id="" tvg-name="CINE SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="007. Cine Sony",CINE SONY
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="007. Cine Sony",SONY CHANNEL
-https://nxt.plus:8443/salvadorver/331015/43562.ts
-#EXTINF:0 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="007. Cine Sony",SONY COMEDIAS
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://cablego.com.pe/cache/logos/SONYMOVIES.png" group-title="007. Cine Sony",SONY MOVIES
-http://vodlat.top:80/live/PREMIUM22/dhbdjkvdghfvk/4c9b220f-ec76-4b4d-b55c-d10464eb86a8.m3u
 #EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="009. Cine Universal",STUDIO UNIVERSAL 
 http://2.magmas5.com:8000/live/Cristalguevara/89386563/7979.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="009. Cine Universal",UNIVERSAL CINEMA
