@@ -14,7 +14,7 @@ http://tv.zapping.life:8080/tadegarcia1/YJNFyDSNsR/9643
 http://tv.zapping.life:8080/tadegarcia1/YJNFyDSNsR/9653
 #EXTINF:0 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="001. Cine",MULTIPREMIER
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/105
-#EXTINF:0 tvg-id="" tvg-name="SONY CINE" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="001. Cine",SONY 
+#EXTINF:0 tvg-id="" tvg-name="SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="001. Cine",SONY 
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/23493
 #EXTINF:0 tvg-id="" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="001. Cine",SPACE
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9612
@@ -58,13 +58,13 @@ https://tv.nousiptv.com:8443/RichardN/6822828/1180734
 https://tv.nousiptv.com:8443/RichardN/6822828/1155781
 #EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="002. Cine 24 Hrs",CINE TERROR
 https://tv.nousiptv.com:8443/RichardN/6822828/1180736
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",CINE - DISNEY+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY+
 https://tv.nousiptv.com:8443/RichardN/6822828/1202811
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY+ 1
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY+ 2
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidsmZ8NcfH5hO6uahfF7sMspgTSzd_sAQFxA_mTPQQD6W
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY+ 2
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY+ 3
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidsmZ8NcfH5hO6uahfF7sMsoSTKhjoowwRIHy1n45HdI3
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="003. Cine 24 Hrs: Disney",DISNEY+ FAMILY
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzajTy5Ky87vNdnsAo6RMist
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="https://cinefagos.wordpress.com/wp-content/uploads/2015/10/disneyandpixar3b.jpg" group-title="003. Cine 24 Hrs: Disney",DISNEY PIXAR
 http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/177339.ts
@@ -86,7 +86,7 @@ http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/266
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/267
 #EXTINF:0 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="005. Cine HBO",HBO MUNDI
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/32431
-#EXTINF:0 tvg-id="" tvg-name="HBO +" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="005. Cine HBO",HBO PLUS
+#EXTINF:0 tvg-id="" tvg-name="HBO+" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="005. Cine HBO",HBO+
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/268
 #EXTINF:0 tvg-id="" tvg-name="HBO POP" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="005. Cine HBO",HBO POP
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/277
