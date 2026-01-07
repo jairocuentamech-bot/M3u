@@ -223,7 +223,7 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="015. México",CANAL 5 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
 #EXTINF:-1 tvg-id="" tvg-name="CANAL NUEVE" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="015. México",CANAL NUEVE
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9673
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="015. México",IMAGEN TV
 http://013tv.com:8080/F16077/2d3a2abc/9039
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="015. México",LAS ESTRELLAS
@@ -261,7 +261,7 @@ https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:0 tvg-id="" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="016. Música",XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="017. Noticias",ADN 40
-https://nxt.plus:8443/salvadorver/331015/227048.ts
+http://live.detodotvplay.com:8080/Risario8/Pineda13/9576
 #EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="017. Noticias",CNN EN ESPAÑOL
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
 #EXTINF:-1 tvg-id="" tvg-name="MEGA NOTICIAS" tvg-logo="https://logos.xbots.com.mx/307519.png" group-title="017. Noticias",MEGA NOTICIAS
@@ -270,12 +270,8 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/138232
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 #EXTINF:-1 tvg-id="" tvg-name="N+ FORO" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="017. Noticias",N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="" tvg-name="N+ MEDIA" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="017. Noticias",N+ MEDIA
-http://totalplay.site:80/Ivanpaz504/jwQQThnMUy/218424.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS TELEMUNDO AHORA" tvg-logo="https://images.produ.com/wp-content/uploads/2025/05/08095241/bigwp-NoticiasTelemundoAhoraLogo.jpg" group-title="017. Noticias",NOTICIAS TELEMUNDO AHORA
-http://proxpanel.pro:80/nF2Ph6SUt/Oqy;9up5PQ1@E1/623309
 #EXTINF:-1 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="017. Noticias",TELEFÓRMULA
-http://imaxplay.net:8880//live/VENGASDANIEL/UYDFB/9609.ts
+http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/37376
 #EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="018. Vida",A&E
 http://live.detodotvplay.com:8080/Risario8/Pineda13/225
 #EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="018. Vida",E! HD
