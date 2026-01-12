@@ -342,11 +342,8 @@ http://go.plugtv.fun:2052//live/DiegoG90/142563252/2005689.ts
 http://goldtv.lat:80//live/Tribuna143/kUPM8SEc2Nbq/316941.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="051. Series: 24 Hrs Infantiles",LA PANTERA ROSA
 http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/107989.ts
-#EXTINF:-1 tvg-id="" tvg-name="VOD 1" tvg-logo="https://commons.wikimedia.org/wiki/File:Dolby-Cinema-Logo.jpg" group-title="099. VOD",VOD 1 El peor vecino del mundo (2022)
-http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1735328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VOD 2" tvg-logo="https://commons.wikimedia.org/wiki/File:Dolby-Cinema-Logo.jpg" group-title="099. VOD",VOD 2 Vixens from Venus (2016)
-http://fhh54d.vidacristiana.info:80/movie/ManuelVillablanca2024/cEEKcmdYZv4z/508984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VOD 3" tvg-logo="https://commons.wikimedia.org/wiki/File:Dolby-Cinema-Logo.jpg" group-title="099. VOD",VOD 3
-#EXTINF:-1 tvg-id="" tvg-name="VOD 4" tvg-logo="https://commons.wikimedia.org/wiki/File:Dolby-Cinema-Logo.jpg" group-title="099. VOD",VOD 4
-#EXTINF:-1 tvg-id="" tvg-name="VOD 5" tvg-logo="https://commons.wikimedia.org/wiki/File:Dolby-Cinema-Logo.jpg" group-title="099. VOD",VOD 5
+#EXTINF:-1 tvg-name="Vixens from Venus (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nflFzdXONLMCs0RFaESzx5cJY65.jpg" group-title="100. VOD",Vixens from Venus (2016)
+http://fhh54d.vidacristiana.info:80/movie/rZgThSk3Yqk3/HrSMDy49dSQG/508984.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El peor vecino del mundo (2022)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/1b4705c4af78e53c3ef6f3e7ce7192fe.jpg" group-title="100. VOD",El peor vecino del mundo (2022)
+http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1683869.mp4
 
