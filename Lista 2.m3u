@@ -134,6 +134,8 @@ http://live.proyectoxpro.com:8080/Manuel0311/9zWkMSnfZa/9607
 http://tv.zapping.life:8080/live/PedroCardenas2009/d39241e4387b/9607.m3u8
 #EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="009. Deportes",TVC DEPORTES 2
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/387772
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2 OPC 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="009. Deportes",TVC DEPORTES 2 OPC 2
+http://xworld-blue.com:25461/play/f59rUir9AeN0d4bp8zXW42wYs6RS3EX7K8slmsf-MUiyX73VOePnJP4Tb-s_Jc7N/ts
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="009. Deportes",TUDN
 http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/38861
 #EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="009. Deportes",TUDN USA
