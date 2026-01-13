@@ -286,17 +286,31 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="018. Noticias",TELEFÓRMULA
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/37376
-#EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="019. Vida",A&E
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="019. Ultra TV",Ultra CINE
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520829
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra Clasico" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="019. Ultra TV",Ultra Clasico
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520830
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra DOCU" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_Docu_Logo.png" group-title="019. Ultra TV",Ultra DOCU
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520831
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra Familia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAG3SgcM3sp8oEiBRUIy2HmPhesIEHeY9pQ&s" group-title="019. Ultra TV",Ultra Familia
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520832
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra KIDS" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="019. Ultra TV",Ultra KIDS
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520833
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra Macho" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg" group-title="019. Ultra TV",Ultra Macho
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520834
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CINE Y Series HD | Ultra MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="019. Ultra TV",Ultra MEX
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520835
+#EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="020. Vida",A&E
 http://live.detodotvplay.com:8080/Risario8/Pineda13/225
-#EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="019. Vida",E! HD
+#EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="020. Vida",E! HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9588
-#EXTINF:0 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="019. Vida",FASHION TV
+#EXTINF:0 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="020. Vida",FASHION TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
-#EXTINF:0 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="019. Vida",LIFETIME
+#EXTINF:0 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="020. Vida",LIFETIME
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32353
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="019. Vida",TELEMUNDO INTERNACIONAL 
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="020. Vida",TELEMUNDO INTERNACIONAL 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
-#EXTINF:0 tvg-id="" tvg-name="UNIVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="019. Vida",UNIVISION 
+#EXTINF:0 tvg-id="" tvg-name="UNIVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="020. Vida",UNIVISION 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 #EXTINF:-1 tvg-id="" tvg-name="DR HOUSE" tvg-logo="https://image.tmdb.org/t/p/w500/zTk34jve0Ee7izTm8BGNfW6laWg.jpg" group-title="050. Series: 24 Hrs",DR HOUSE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/298778
