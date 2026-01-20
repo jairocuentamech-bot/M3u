@@ -378,6 +378,8 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1099.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/28881.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bailarina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title="100. VOD",Bailarina (2025)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/136971.mkv
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gran Turismo (2023)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/8f5a8026eb588f7550047b544f462c3a.jpg" group-title="100. VOD",Gran Turismo (2023)
+http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1735282.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Robots" tvg-logo="http://vip-kings-cr-tv.vip:80/images/17613a767243bd7acaa875f6a2542039.jpg" group-title="101. VOD Infantil",Robots
 http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1741146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cars (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqii8TqllZRainaNhQkJLNoSbMv.jpg" group-title="101. VOD Infantil",Cars (2006)
