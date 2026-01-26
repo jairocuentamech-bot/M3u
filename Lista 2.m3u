@@ -70,38 +70,52 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzajTy5
 http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/177339.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR 2" tvg-logo="https://cinefagos.wordpress.com/wp-content/uploads/2015/10/disneyandpixar3b.jpg" group-title="003. Cine 24 Hrs: Disney",DISNEY PIXAR 2
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzY0Z2Cw0tznIWAGBBmqBzPw
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="007. Cine Golden",GOLDEN
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="004. Cine Golden",GOLDEN
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/38365
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="007. Cine Golden",GOLDEN EDGE
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="004. Cine Golden",GOLDEN EDGE
 http://cineplay.vip:2086/sifuente54/hTPTGewMS6/38895
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="007. Cine Golden",GOLDEN PLUS
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="004. Cine Golden",GOLDEN PLUS
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9661
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="007. Cine Golden",GOLDEN PREMIER
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="004. Cine Golden",GOLDEN PREMIER
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9664
-#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="008. Cine HBO",HBO
+#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="005. Cine HBO",HBO
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/264
-#EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="008. Cine HBO",HBO 2 
+#EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="005. Cine HBO",HBO 2 
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/266
-#EXTINF:0 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="008. Cine HBO",HBO FAMILY
+#EXTINF:0 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="005. Cine HBO",HBO FAMILY
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/267
-#EXTINF:0 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="008. Cine HBO",HBO MUNDI
+#EXTINF:0 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="005. Cine HBO",HBO MUNDI
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/32431
-#EXTINF:0 tvg-id="" tvg-name="HBO+" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="008. Cine HBO",HBO+
+#EXTINF:0 tvg-id="" tvg-name="HBO+" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="005. Cine HBO",HBO+
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/268
-#EXTINF:0 tvg-id="" tvg-name="HBO POP" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="008. Cine HBO",HBO POP
+#EXTINF:0 tvg-id="" tvg-name="HBO POP" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="005. Cine HBO",HBO POP
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/277
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="008. Cine HBO",HBO XTREME 
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="005. Cine HBO",HBO XTREME 
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/276
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="008. Cine HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="005. Cine HBO",HBO SIGNATURE
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/269
-#EXTINF:0 tvg-id="" tvg-name="CINELATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="009. Cine Latino",CINELATINO
+#EXTINF:0 tvg-id="" tvg-name="CINELATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="006. Cine Latino",CINELATINO
 http://cineplay.vip:2086/sifuente54/hTPTGewMS6/25584
-#EXTINF:0 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="009. Cine Latino",CINEMA DINAMITA
+#EXTINF:0 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" group-title="006. Cine Latino",CINEMA DINAMITA
 http://cineplay.vip:2086/sifuente54/hTPTGewMS6/25581
-#EXTINF:0 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="009. Cine Latino",DE PELICULA 
+#EXTINF:0 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="006. Cine Latino",DE PELICULA 
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/35466
-#EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="009. Cine Latino",DE PELICULA PLUS
+#EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="006. Cine Latino",DE PELICULA PLUS
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9586
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="007. Ultra TV",ULTRA CINE
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78832
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra Clasico" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="007. Ultra TV",Ultra Clasico
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520830
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra DOCU" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_Docu_Logo.png" group-title="007. Ultra TV",Ultra DOCU
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520831
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra Familia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAG3SgcM3sp8oEiBRUIy2HmPhesIEHeY9pQ&s" group-title="007. Ultra TV",Ultra Familia
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520832
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra KIDS" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="007. Ultra TV",Ultra KIDS
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520833
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra Macho" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg" group-title="007. Ultra TV",Ultra Macho
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520834
+#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="007. Ultra TV",Ultra MEX
+http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520835
 #EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="010. Cine Universal",STUDIO UNIVERSAL
 http://104.194.8.54:9090/278518_.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="010. Cine Universal",UNIVERSAL CINEMA
@@ -295,20 +309,6 @@ http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="021. Noticias",TELEFÓRMULA
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/37376
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="022. Ultra TV",ULTRA CINE
-http://live.detodotvplay.com:8080/Risario8/Pineda13/78832
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra Clasico" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="022. Ultra TV",Ultra Clasico
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520830
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra DOCU" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_Docu_Logo.png" group-title="022. Ultra TV",Ultra DOCU
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520831
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra Familia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAG3SgcM3sp8oEiBRUIy2HmPhesIEHeY9pQ&s" group-title="022. Ultra TV",Ultra Familia
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520832
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra KIDS" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="022. Ultra TV",Ultra KIDS
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520833
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra Macho" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg" group-title="022. Ultra TV",Ultra Macho
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520834
-#EXTINF:-1 tvg-id="" tvg-name="CINE Y Series HD | Ultra MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="022. Ultra TV",Ultra MEX
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520835
 #EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="023. Vida",A&E
 http://live.detodotvplay.com:8080/Risario8/Pineda13/225
 #EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="023. Vida",E! HD
