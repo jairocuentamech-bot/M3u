@@ -102,20 +102,20 @@ http://cineplay.vip:2086/sifuente54/hTPTGewMS6/25581
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/35466
 #EXTINF:0 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="006. Cine Latino",DE PELICULA PLUS
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9586
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="007. Ultra TV",ULTRA CINE
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK4atig_Rq5lhmp6gWB08NAaTGC0oeUGbWw&s" group-title="007. Cine Ultra TV",ULTRA CINE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78832
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA CLASICO" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_clasico_Logo.png" group-title="007. Cine Ultra TV",Ultra Clasico
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520830
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78833
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA DOCU" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/09/Ultra_Docu_Logo.png" group-title="007. Cine Ultra TV",Ultra DOCU
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520831
+http://live.detodotvplay.com:8080/Risario8/Pineda13/297713
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA FAMILIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAG3SgcM3sp8oEiBRUIy2HmPhesIEHeY9pQ&s" group-title="007. Cine Ultra TV",Ultra Familia
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520832
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78835
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA KIDS" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="007. Cine Ultra TV",Ultra KIDS
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520833
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180637.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA MACHO" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg" group-title="007. Cine Ultra TV",Ultra Macho
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520834
+http://live.detodotvplay.com:8080/Risario8/Pineda13/416423
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="007. Cine Ultra TV",Ultra MEX
-http://vip-kings-cr-tv.vip:80/GIGABIT101/Giga200925/1520835
+http://live.detodotvplay.com:8080/Risario8/Pineda13/78838
 #EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="010. Cine Universal",STUDIO UNIVERSAL
 http://104.194.8.54:9090/278518_.m3u8
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="010. Cine Universal",UNIVERSAL CINEMA
@@ -375,8 +375,6 @@ http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/298804
 http://goldtv.lat:80//live/Tribuna143/kUPM8SEc2Nbq/316941.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="051. Series: 24 Hrs Infantiles",LA PANTERA ROSA
 http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/107989.ts
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El peor vecino del mundo (2022)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/1b4705c4af78e53c3ef6f3e7ce7192fe.jpg" group-title="100. VOD",El peor vecino del mundo (2022)
-http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1683869.mp4
 #EXTINF:-1 tvg-name="A.I. Rising - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg" group-title="100. VOD",A.I. Rising - 2018
 http://tv.zeuspro.xyz:8080/movie/GloriaCano25/qkMb2KFBHG/959.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guerra Mundial Z (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg" group-title="100. VOD",Guerra Mundial Z (2013)
@@ -387,10 +385,6 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1099.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/28881.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bailarina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title="100. VOD",Bailarina (2025)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/136971.mkv
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gran Turismo (2023)" tvg-logo="http://vip-kings-cr-tv.vip:80/images/8f5a8026eb588f7550047b544f462c3a.jpg" group-title="100. VOD",Gran Turismo (2023)
-http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1735282.mp4
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Robots" tvg-logo="http://vip-kings-cr-tv.vip:80/images/17613a767243bd7acaa875f6a2542039.jpg" group-title="101. VOD Infantil",Robots
-http://vip-kings-cr-tv.vip:80/movie/GIGABIT101/Giga200925/1741146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cars (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqii8TqllZRainaNhQkJLNoSbMv.jpg" group-title="101. VOD Infantil",Cars (2006)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1915.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cars 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg" group-title="101. VOD Infantil",Cars 2 (2011)
