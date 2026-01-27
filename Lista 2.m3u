@@ -381,8 +381,8 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/97459.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1099.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" group-title="100. VOD",Tetris (2023)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/28881.mkv
-#EXTINF:-1 tvg-name="28 Días (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPuNCEn62VybTAa9cvavO32i226.jpg" group-title="VOD - COMEDIA",28 Días (2000)
-http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/292259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailarina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title="101. VOD",Bailarina (2025)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/136971.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cars (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqii8TqllZRainaNhQkJLNoSbMv.jpg" group-title="101. VOD Infantil",Cars (2006)
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1915.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cars 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg" group-title="101. VOD Infantil",Cars 2 (2011)
@@ -391,8 +391,8 @@ http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1916.mkv
 http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/1917.mkv
 #EXTINF:-1 tvg-name="Ratatouille (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="101. VOD Infantil",Ratatouille (2007)
 http://tv.diablotv.net:8080/movie/newage8550/Oh09r1wDnf/1925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bailarina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title="102. VOD 60 FPS",Bailarina (2025)
-http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/136971.mkv
+#EXTINF:-1 tvg-name="28 Days Later (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="102. VOD 60 FPS",28 Days Later (2002)
+http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/102865.mkv
 #EXTINF:-1 tvg-name="Blue Beetle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg" group-title="102. VOD 60 FPS",Blue Beetle (2023)
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/150394.mkv
 #EXTINF:-1 tvg-name="Gran Turismo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="102. VOD 60 FPS",Gran Turismo (2023)
