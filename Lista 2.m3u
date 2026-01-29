@@ -281,6 +281,34 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/9588
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 #EXTINF:0 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="019. Vida",LIFETIME
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32353
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ACCION
+https://tv.nousiptv.com:8443/RichardN/6822828/1180733
+#EXTINF:-1 tvg-id="" tvg-name="CINE BELICO" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE BELICO
+https://tv.nousiptv.com:8443/RichardN/6822828/1147993
+#EXTINF:-1 tvg-id="" tvg-name="CINE CIENCIA FICCION" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE CIENCIA FICCION
+https://tv.nousiptv.com:8443/RichardN/6822828/1191888
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA" tvg-logo="https://i.postimg.cc/1RbTpzH7/Proyectox-Cinemax-4.png" group-title="040. Cine 24 Hrs",CINE COMEDIA
+http://tv.zapping.life:8080/fabbaes2vQVY/95620
+#EXTINF:-1 tvg-id="" tvg-name="CINE DC UNIVERSE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE DC UNIVERSE
+https://tv.nousiptv.com:8443/RichardN/6822828/1161848
+#EXTINF:-1 tvg-id="" tvg-name="CINE DIGITAL" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE DIGITAL
+https://tv.nousiptv.com:8443/RichardN/6822828/1202401
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ESTELAR
+https://tv.nousiptv.com:8443/RichardN/6822828/1156007
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTRENOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ESTRENOS
+https://tv.nousiptv.com:8443/RichardN/6822828/1245187
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE FAMILIA
+https://tv.nousiptv.com:8443/RichardN/6822828/1156760
+#EXTINF:-1 tvg-id="" tvg-name="CINE HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="040. Cine 24 Hrs",HARRY POTTER
+http://www.1play.cool:25461/2137135563/63ab966fe8/266592
+#EXTINF:-1 tvg-id="" tvg-name="CINE ROBOTS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINEMA ROBOTS
+https://tv.nousiptv.com:8443/RichardN/6822828/1202400
+#EXTINF:-1 tvg-id="" tvg-name="CINE SAGAS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE SAGAS
+https://tv.nousiptv.com:8443/RichardN/6822828/1180734
+#EXTINF:-1 tvg-id="" tvg-name="CINE SUSPENSO" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE SUSPENSO
+https://tv.nousiptv.com:8443/RichardN/6822828/1155781
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE TERROR
+https://tv.nousiptv.com:8443/RichardN/6822828/1180736
 
 
 
