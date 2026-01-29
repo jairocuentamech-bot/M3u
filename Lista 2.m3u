@@ -283,9 +283,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32353
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ACCION
 https://tv.nousiptv.com:8443/RichardN/6822828/1180733
-#EXTINF:-1 tvg-id="" tvg-name="ANIMACIÓN 1" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",ANIMACIÓN 1
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANIMACIÓN 1" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ANIMACIÓN 1
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164949
-#EXTINF:-1 tvg-id="" tvg-name="ANIMACIÓN 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",ANIMACIÓN 2
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANIMACIÓN 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ANIMACIÓN 2
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164950
 #EXTINF:-1 tvg-id="" tvg-name="CINE AVENTURA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE AVENTURA
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164957
@@ -307,9 +307,9 @@ https://tv.nousiptv.com:8443/RichardN/6822828/1245187
 https://tv.nousiptv.com:8443/RichardN/6822828/1156760
 #EXTINF:-1 tvg-id="" tvg-name="CINE FANTASIA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE FANTASIA
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164958
-#EXTINF:-1 tvg-id="" tvg-name="CINE HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="040. Cine 24 Hrs",HARRY POTTER
+#EXTINF:-1 tvg-id="" tvg-name="CINE HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="040. Cine 24 Hrs",CINE HARRY POTTER
 http://www.1play.cool:25461/2137135563/63ab966fe8/266592
-#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",HARRY POTTER 2
+#EXTINF:-1 tvg-id="" tvg-name="CINE HARRY POTTER 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE HARRY POTTER 2
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164970
 #EXTINF:-1 tvg-id="" tvg-name="CINE ROBOTS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINEMA ROBOTS
 https://tv.nousiptv.com:8443/RichardN/6822828/1202400
@@ -399,13 +399,13 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzajTy5
 http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/177339.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR 2" tvg-logo="https://cinefagos.wordpress.com/wp-content/uploads/2015/10/disneyandpixar3b.jpg" group-title="045. Cine 24 Hrs: Disney",DISNEY PIXAR 2
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzY0Z2Cw0tznIWAGBBmqBzPw
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="046. Cine 24 Hrs:",HBO MAX 1
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="046. Cine 24 Hrs: HBO MAX",HBO MAX 1
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164941
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL 1" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="047. Cine 24 Hrs:",INFANTIL 1
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL 1" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="047. Cine 24 Hrs: Infantil",INFANTIL 1
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164943
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="047. Cine 24 Hrs:",INFANTIL 2
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL 2" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="047. Cine 24 Hrs: Infantil",INFANTIL 2
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164944
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL 3" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="047. Cine 24 Hrs:",INFANTIL 3
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL 3" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="047. Cine 24 Hrs: Infantil",INFANTIL 3
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164946
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX 1" tvg-logo="https://iconape.com/wp-content/files/wd/155656/png/NETFLIX-logo.png" group-title="048. Cine 24 Hrs: Netflix",NETFLIX 1
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164802
