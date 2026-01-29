@@ -283,6 +283,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32353
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE ACCION
 https://tv.nousiptv.com:8443/RichardN/6822828/1180733
+#EXTINF:-1 tvg-id="" tvg-name="CINE AVENTURA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE AVENTURA
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164957
 #EXTINF:-1 tvg-id="" tvg-name="CINE BELICO" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE BELICO
 https://tv.nousiptv.com:8443/RichardN/6822828/1147993
 #EXTINF:-1 tvg-id="" tvg-name="CINE CIENCIA FICCION" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE CIENCIA FICCION
@@ -299,6 +301,8 @@ https://tv.nousiptv.com:8443/RichardN/6822828/1156007
 https://tv.nousiptv.com:8443/RichardN/6822828/1245187
 #EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE FAMILIA
 https://tv.nousiptv.com:8443/RichardN/6822828/1156760
+#EXTINF:-1 tvg-id="" tvg-name="CINE FANTASIA" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINE FANTASIA
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164958
 #EXTINF:-1 tvg-id="" tvg-name="CINE HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="040. Cine 24 Hrs",HARRY POTTER
 http://www.1play.cool:25461/2137135563/63ab966fe8/266592
 #EXTINF:-1 tvg-id="" tvg-name="CINE ROBOTS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",CINEMA ROBOTS
@@ -329,29 +333,27 @@ http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164783
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164787
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION 10" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title=" 041. Cine 24 Hrs: Acción",CINE ACCION 10
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164788
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 1" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 1
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164869
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 2
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164870
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 3" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 3
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164871
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 4" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 4
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164934
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 5" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 5
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164935
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 6" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 6
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164936
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 7" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 7
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164937
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 8" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 8
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164938
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 9" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 9
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164939
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON 10" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="042. Cine 24 Hrs: Amazon", AMAZON 10
+http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164940
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1" tvg-logo="" group-title="043. Cine 24 Hrs: Disney",DISNEY 1
-http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164951
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2" tvg-logo="" group-title="043. Cine 24 Hrs: Disney",DISNEY 2
-http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164952
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3" tvg-logo="" group-title="043. Cine 24 Hrs: Disney",DISNEY 3
-http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164953
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4" tvg-logo="" group-title="043. Cine 24 Hrs: Disney",DISNEY 4
-http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164954
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY 5" tvg-logo="" group-title="043. Cine 24 Hrs: Disney",DISNEY 5
-http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/164955
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="043. Cine 24 Hrs: Disney",DISNEY+
-https://tv.nousiptv.com:8443/RichardN/6822828/1202811
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="043. Cine 24 Hrs: Disney",DISNEY+ 2
-https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidsmZ8NcfH5hO6uahfF7sMspgTSzd_sAQFxA_mTPQQD6W
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="043. Cine 24 Hrs: Disney",DISNEY+ 3
-https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidsmZ8NcfH5hO6uahfF7sMsoSTKhjoowwRIHy1n45HdI3
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Disney-Logo.png" group-title="043. Cine 24 Hrs: Disney",DISNEY+ FAMILY
-https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzajTy5Ky87vNdnsAo6RMist
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR" tvg-logo="https://cinefagos.wordpress.com/wp-content/uploads/2015/10/disneyandpixar3b.jpg" group-title="043. Cine 24 Hrs: Disney",DISNEY PIXAR
-http://imaxplay.net:8880//live/SandraRv20/6ZPW4mghVt/177339.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR 2" tvg-logo="https://cinefagos.wordpress.com/wp-content/uploads/2015/10/disneyandpixar3b.jpg" group-title="043. Cine 24 Hrs: Disney",DISNEY PIXAR 2
-https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidv3jg18oBn8iujVDbVg9lzY0Z2Cw0tznIWAGBBmqBzPw
 
 #EXTINF:-1 tvg-id="" tvg-name="2 BROKE GIRLS" tvg-logo="https://i.postimg.cc/fTccH6Gb/Proyectox-24-7-series-Animacion3-6.png" group-title="050. Series: 24 Hrs",2 BROKE GIRLS
 http://tv.zapping.life:8080/fabbymartinez951/t2aes2vQVY/94845
