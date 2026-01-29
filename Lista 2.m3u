@@ -209,6 +209,10 @@ http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/91302
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/91258
 #EXTINF:0 tvg-id="" tvg-name="NICK" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="014. Infantiles",NICK
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9609
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="015. Latinos",TELEMUNDO INTERNACIONAL 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8351
+#EXTINF:0 tvg-id="" tvg-name="UNIVISIÓN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="015. Latinos",UNIVISION 
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/8400
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="016. México",AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZÓN" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="016. México",AZ CORAZON
@@ -257,7 +261,26 @@ https://jmp2.uk/stvp-USBD3300004RH
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:0 tvg-id="" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="017. Música",XITE SIEMPRE LATINO
 https://jmp2.uk/stvp-USBD3300010L9
-
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="018. Noticias",ADN 40
+http://live.detodotvplay.com:8080/Risario8/Pineda13/9576
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="018. Noticias",CNN EN ESPAÑOL
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/10252
+#EXTINF:-1 tvg-id="" tvg-name="MEGA NOTICIAS" tvg-logo="https://logos.xbots.com.mx/307519.png" group-title="018. Noticias",MEGA NOTICIAS
+http://live.detodotvplay.com:8080/Risario8/Pineda13/138232
+#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png" group-title="018. Noticias",MILENIO TV
+http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87599
+#EXTINF:-1 tvg-id="" tvg-name="N+ FORO" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="018. Noticias",N+ FORO
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="018. Noticias",TELEFÓRMULA
+http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/37376
+#EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="019. Vida",A&E
+http://live.detodotvplay.com:8080/Risario8/Pineda13/225
+#EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="019. Vida",E! HD
+http://live.detodotvplay.com:8080/Risario8/Pineda13/9588
+#EXTINF:0 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="019. Vida",FASHION TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
+#EXTINF:0 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="019. Vida",LIFETIME
+http://live.detodotvplay.com:8080/Risario8/Pineda13/32353
 
 
 
