@@ -537,6 +537,14 @@ http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/150394.mkv
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/150395.mkv
 #EXTINF:-1 tvg-name="I, Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="102. VOD 60 FPS",I, Robot (2004)
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/103518.mkv
+#EXTINF:-1 xui-id="700365" tvg-name="John Wick: Otro Día para Matar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="103. VOD SAGAS",John Wick: Otro Día para Matar (2014)
+https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mAUX39liSxDFd3-6lWDKOF_l-9FP7lHHsQHFLkF3q0bW#.mkv
+#EXTINF:-1 xui-id="700372" tvg-name="John Wick 2: Un Nuevo Día para Matar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg" group-title="103. VOD SAGAS",John Wick 2: Un Nuevo Día para Matar (2017)
+https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mAUX39liSxDFd3-6lWDKOF83vKdku3uBfcD_zvUU_JfK#.mkv
+#EXTINF:-1 xui-id="834263" tvg-name="John Wick 3: Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="103. VOD SAGAS",John Wick 3: Parabellum (2019)
+https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mIADdXhJf2XnQ7B445oI4KxEUI0rtPVVnDt6-df4ae8y#.mp4
+#EXTINF:-1 xui-id="834264" tvg-name="John Wick 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="103. VOD SAGAS",John Wick 4 (2023)
+https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mIADdXhJf2XnQ7B445oI4KxU6FX0EVGCPat9q0qsjwit#.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CAROLINA ROMO" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Onlyfans-Logo.png" group-title="200. Onlyfans",CAROLINA ROMO
 http://tv.diablotv.net:8080/prioritypaintingservices2024/0f501c9f937f/169993
 #EXTINF:-1 tvg-id="" tvg-name="PUBLIC AGENT" tvg-logo="https://static.ok.xxx/contents/dvds/groups/207/c1_s1_public-agent.jpg" group-title="201. Red TV",PUBLIC AGENT
