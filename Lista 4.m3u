@@ -132,6 +132,8 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278555.m3u8
 http://live.proyectoxpro.com:8080/Manuel0311/9zWkMSnfZa/9607
 #EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="009. Deportes",TVC DEPORTES OPC 2
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/60998
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES OPC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="008. Deportes",TVC DEPORTES OPC 3
+http://tv.diablotv.net:8080/dmarzano/d7e5a26a86a0/9607
 #EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="009. Deportes",TVC DEPORTES 2
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/387772
 #EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES 2 OPC 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="009. Deportes",TVC DEPORTES 2 OPC 2
