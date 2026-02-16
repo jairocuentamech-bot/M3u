@@ -535,11 +535,29 @@ http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/150394.mkv
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/150395.mkv
 #EXTINF:-1 tvg-name="I, Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="102. VOD 60 FPS",I, Robot (2004)
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/103518.mkv
-#EXTINF:-1 xui-id="700365" tvg-name="John Wick: Otro Día para Matar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg" group-title="103. VOD SAGAS",John Wick: Otro Día para Matar (2014)
-https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mAUX39liSxDFd3-6lWDKOF_l-9FP7lHHsQHFLkF3q0bW#.mkv
-#EXTINF:-1 xui-id="700372" tvg-name="John Wick 2: Un Nuevo Día para Matar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg" group-title="103. VOD SAGAS",John Wick 2: Un Nuevo Día para Matar (2017)
-https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mAUX39liSxDFd3-6lWDKOF83vKdku3uBfcD_zvUU_JfK#.mkv
-#EXTINF:-1 xui-id="834263" tvg-name="John Wick 3: Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="103. VOD SAGAS",John Wick 3: Parabellum (2019)
-https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mIADdXhJf2XnQ7B445oI4KxEUI0rtPVVnDt6-df4ae8y#.mp4
-#EXTINF:-1 xui-id="834264" tvg-name="John Wick 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="103. VOD SAGAS",John Wick 4 (2023)
-https://fenixplay.info:8443/play/4mHA88c9siOtJQoVkaC5mIADdXhJf2XnQ7B445oI4KxU6FX0EVGCPat9q0qsjwit#.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men IMAX (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" group-title="103. VOD-IMAX",X-Men IMAX (2000)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 IMAX (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg" group-title="103. VOD-IMAX",X-Men 2 IMAX (2003)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/12001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: La decisión final IMAX (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg" group-title="103. VOD-IMAX",X-Men: La decisión final IMAX (2006)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/12000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men orígenes: Lobezno IMAX (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chiX6x3esPxQrE1lCUScVnR0uN5.jpg" group-title="103. VOD-IMAX",X-Men orígenes: Lobezno IMAX (2009)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Primera Generación IMAX (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg" group-title="103. VOD-IMAX",X-Men: Primera Generación IMAX (2011)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Días del futuro pasado IMAX (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" group-title="103. VOD-IMAX",X-Men: Días del futuro pasado IMAX (2014)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Apocalipsis IMAX (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg" group-title="103. VOD-IMAX",X-Men: Apocalipsis IMAX (2016)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Fénix oscura IMAX (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="103. VOD-IMAX",X-Men: Fénix oscura IMAX (2019)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los nuevos mutantes IMAX (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" group-title="103. VOD-IMAX",Los nuevos mutantes IMAX (2020)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/11991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick (Otro día para matar) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg" group-title="104. Keanu Reeves",John Wick (Otro día para matar) (2014)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/5514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Pacto de sangre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg" group-title="104. Keanu Reeves",John Wick: Pacto de sangre (2017)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/5516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Capítulo 3 - Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="104. Keanu Reeves",John Wick: Capítulo 3 - Parabellum (2019)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/5517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4 IMAX (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="104. Keanu Reeves",John Wick 4 IMAX (2023)
+http://tv.zapping.life:8080/movie/hernanllerena1/89fVTSCGJS/42336.mkv
