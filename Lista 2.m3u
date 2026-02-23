@@ -84,8 +84,6 @@ http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68252
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68248
 #EXTINF:-1 tvg-id="izzigo_universalchannel" tvg-name="MX | UNIVERSAL TV" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="ENTRETENIMIENTO",MX | UNIVERSAL TV
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/1982
-#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="007. Cine Universal",UNIVERSAL CHANNEL
-http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
 #EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="008. Comedia",COMEDY CENTRAL
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/9585
 #EXTINF:0 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="008. Comedia",DISTRITO COMEDIA
@@ -141,7 +139,9 @@ http://cplay.club:2086/AleValadez/rh3KxbM7Unfr/81926
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="011. Deportes FOX",FOX SPORTS
 http://planettvweb.com:8091/JavierA/BLas5394d/12008
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="011. Deportes FOX",FOX SPORTS 2
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/249
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="011. Deportes FOX",FOX SPORTS 3
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/250
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="011. Deportes FOX",FOX SPORTS PREMIUM
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/78194
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://i.postimg.cc/ZKTX4yBw/latest-6.png" group-title="011. Deportes FOX",FOX DEPORTES
@@ -169,23 +169,29 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/401220
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://www.virginmedia.ie/content/www-virginmedia-ie/en/television/premium-channels/_jcr_content/background_fullwidth/templatesection_1083700295/section_content/nested_columns/parsys-1/grouping_1693997317/grouped/templated/data/productImage.img.png/1700135827200.png" group-title="012. Deportes Internacional",SKY SPORTS PREMIER LEAGUE
 http://live.detodotvplay.com:8080/Risario8/Pineda13/397112
 #EXTINF:0 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" group-title="013. Documentales",ANIMAL PLANET
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/236
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="013. Documentales",DISCOVERY CHANNEL HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/243
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="013. Documentales",DISCOVERY H&H
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9821
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY H&H TV" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="013. Documentales",DISCOVERY H&H TV
 http://tv.proyectox.vip:8080/biancaarevalo1/Dw3Pm3HKk2/9820
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY HGTV" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="013. Documentales",DISCOVERY HGTV
 http://live.detodotvplay.com:8080/Risario8/Pineda13/51616
-#EXTINF:0 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://1.bp.blogspot.com/-bM2_Q39fvdM/XaukeQIiYhI/AAAAAAAAAf4/yvKvVd55HEM8phsmoOuHyu0LMdHgTR9bgCLcBGAsYHQ/s200/16.png" group-title="013. Documentales",DISCOVERY SCIENCE
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://1.bp.blogspot.com/-BzAhrKSxP3M/Xaukgj6CHCI/AAAAAAAAAgc/GsnF0u2sAvI-wB4L3yFhac_zhO8mg50hgCLcBGAsYHQ/s200/8.png" group-title="013. Documentales",DISCOVERY THEATER
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/8421
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="013. Documentales",DISCOVERY TLC HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/8423
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png" group-title="013. Documentales",DISCOVERY TURBO HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/38296
 #EXTINF:0 tvg-id="" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="https://1.bp.blogspot.com/-1wsiKCXFQwQ/XaukeKJb7pI/AAAAAAAAAf0/yIW1q0Xu334yYzGXEJSoR5g8RObOTjGHwCLcBGAsYHQ/s200/15.png" group-title="013. Documentales",INVESTIGACION DISCOVERY
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/8424
 #EXTINF:0 tvg-id="" tvg-name="HISTORY" tvg-logo="https://logos.xbots.com.mx/89.png" group-title="013. Documentales",HISTORY
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/270
 #EXTINF:0 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="013. Documentales",HISTORY 2 
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/32354
 #EXTINF:0 tvg-id="" tvg-name="NATGEO" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="013. Documentales",NATGEO HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/8425
 #EXTINF:0 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="013. Documentales",NATGEO WILD HD
 #EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="014. Infantiles",BITME
 https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqp4wZctuR93wEFe6Hh09sS3dUHrLYIbGckcshHfEXa6
