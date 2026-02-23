@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="" tvg-name="AMC" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="001. Cine",AMC
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/226
 #EXTINF:0 tvg-id="" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="001. Cine",AXN 
-http://live.proyectoxpro.com:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9625
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/237
 #EXTINF:0 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="001. Cine",CINECANAL
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/241
 #EXTINF:0 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="001. Cine",CINEMAX
@@ -12,6 +12,10 @@ http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9581
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/20868
 #EXTINF:0 tvg-id="" tvg-name="FX" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="001. Cine",FX
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/261
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="001. Cine",GOLDEN
+http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/38365
+#EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="001. Cine",GOLDEN EDGE
+http://cineplay.vip:2086/sifuente54/hTPTGewMS6/38895
 #EXTINF:0 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="001. Cine",MULTIPREMIER
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/105
 #EXTINF:0 tvg-id="" tvg-name="SONY" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="001. Cine",SONY 
@@ -24,12 +28,6 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/460
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9616
 #EXTINF:0 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="001. Cine",WARNER CHANNEL
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/287
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="002. Cine Golden",GOLDEN
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/38365
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="002. Cine Golden",GOLDEN EDGE
-http://cineplay.vip:2086/sifuente54/hTPTGewMS6/38895
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://archive.org/download/logo.brootv_golden/GOLDEN_PLUS.png" group-title="002. Cine Golden",GOLDEN PLUS
-#EXTINF:0 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="002. Cine Golden",GOLDEN PREMIER
 #EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="003. Cine HBO",HBO
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/264
 #EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="003. Cine HBO",HBO 2 
@@ -79,7 +77,7 @@ http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9584
 #EXTINF:0 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="008. Comedia",DISTRITO COMEDIA
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/52931
 #EXTINF:0 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://i.imgur.com/yu3Bpbd.png" group-title="008. Deportes",AYM SPORTS
-http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/197
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/69668
 #EXTINF:0 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="008. Deportes",AZTECA DEPORTES
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/120233
 #EXTINF:0 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="008. Deportes",CLARO SPORTS
