@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-name="AMC" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="001. Cine",AMC
-http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/226
+http://premium.iptvzla.xyz:2082/1504899.prm/Up9wArsZzE/29058
 #EXTINF:0 tvg-id="" tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="001. Cine",AXN 
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/237
 #EXTINF:0 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="001. Cine",CINECANAL
@@ -263,7 +263,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="" tvg-name="TELEFÓRMULA" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="018. Noticias",TELEFÓRMULA
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/37376
 #EXTINF:0 tvg-id="" tvg-name="A&E" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="019. Vida",A&E
-http://premium.iptvzla.xyz:2082/1504899.prm/Up9wArsZzE/29050
+http://premium.iptvzla.xyz:2082/1504899.prm/Up9wArsZzE/29052
 #EXTINF:0 tvg-id="" tvg-name="E!" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="019. Vida",E! HD
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9588
 #EXTINF:0 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="019. Vida",FASHION TV
