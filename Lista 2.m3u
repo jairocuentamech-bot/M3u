@@ -67,11 +67,25 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/416423
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA MEX" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo.png" group-title="006. Cine Ultra TV",Ultra MEX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/78838
 #EXTINF:0 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="007. Cine Universal",STUDIO UNIVERSAL
-#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="007. Cine Universal",UNIVERSAL CINEMA
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/9613
+#EXTINF:-1 tvg-id="directvgomx_aemexico" tvg-name="LAT | Universal Cinema HD" tvg-logo="https://logos.xbots.com.mx/307508.png" group-title="007. Cine Universal",LAT | Universal Cinema HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68247
+#EXTINF:-1 tvg-id="izzigo_universalcomedy" tvg-name="LAT | Universal Comedy HD" tvg-logo="https://logos.xbots.com.mx/307504.png" group-title="007. Cine Universal",LAT | Universal Comedy HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68251
+#EXTINF:-1 tvg-id="directvgomx_universalcrimeeste" tvg-name="LAT | Universal Crime Este HD" tvg-logo="https://logos.xbots.com.mx/307505.png" group-title="007. Cine Universal",LAT | Universal Crime Este HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68250
+#EXTINF:-1 tvg-id="directvgomx_aemexico" tvg-name="LAT | Universal Crime HD" tvg-logo="https://logos.xbots.com.mx/307505.png" group-title="007. Cine Universal",LAT | Universal Crime HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68253
+#EXTINF:-1 tvg-id="directvgomx_universalpremiereeste" tvg-name="LAT | Universal Premier Este HD" tvg-logo="https://logos.xbots.com.mx/307506.png" group-title="007. Cine Universal",LAT | Universal Premier Este HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68249
+#EXTINF:-1 tvg-id="directvgomx_aemexico" tvg-name="LAT | Universal Premier HD" tvg-logo="https://logos.xbots.com.mx/307506.png" group-title="007. Cine Universal",LAT | Universal Premier HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68252
+#EXTINF:-1 tvg-id="directvgomx_universalreality" tvg-name="LAT | Universal Reality HD" tvg-logo="https://logos.xbots.com.mx/307507.png" group-title="007. Cine Universal",LAT | Universal Reality HD
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68248
+#EXTINF:-1 tvg-id="izzigo_universalchannel" tvg-name="MX | UNIVERSAL TV" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="ENTRETENIMIENTO",MX | UNIVERSAL TV
+http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/1982
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="007. Cine Universal",UNIVERSAL CHANNEL
 http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
-#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="007. Cine Universal",UNIVERSAL COMEDY
-#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="007. Cine Universal",UNIVERSAL PREMIERE
 #EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="008. Comedia",COMEDY CENTRAL
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9584
 #EXTINF:0 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="008. Comedia",DISTRITO COMEDIA
