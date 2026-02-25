@@ -66,10 +66,6 @@ http://go.plugtv.fun:2052//live/DiegoG90/142563252/39174.ts
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9759
 #EXTINF:0 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="007. Cine Universal",UNIVERSAL PREMIERE
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9766
-#EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="008. Comedia",COMEDY CENTRAL
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9584
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="008. Comedia",DISTRITO COMEDIA
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/52931
 #EXTINF:0 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" group-title="014. Documentales",ANIMAL PLANET
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9811
 #EXTINF:0 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="014. Documentales",DISCOVERY CHANNEL HD
@@ -104,35 +100,4 @@ https://fenixplay.info:8443/play/7MNKo-V_V5z8UkLW3dtidqp4wZctuR93wEFe6Hh09sS3dUH
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/240
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="015. Infantiles",DISCOVERY KIDS 
 http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/9862
-#EXTINF:0 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="015. Infantiles",DISNEY CHANNEL 
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/246
-#EXTINF:0 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="015. Infantiles",DISNEY JR
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9587
-#EXTINF:-1 tvg-id="" tvg-name="DREAM WORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="015. Infantiles",DREAMS WORK
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/91302
-#EXTINF:0 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="015. Infantiles",NICK JR
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/91258
-#EXTINF:0 tvg-id="" tvg-name="NICK" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="015. Infantiles",NICK
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/9609
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="016. México",AZTECA 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZÓN" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="016. México",AZ CORAZON
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87568
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="016. México",AZTECA INTERNACIONAL
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87589
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="016. México",AZTECA UNO
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87576
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="016. México",CANAL 5 
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87598
-#EXTINF:-1 tvg-id="" tvg-name="CANAL NUEVE" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="016. México",CANAL NUEVE
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="016. México",IMAGEN TV
-http://013tv.com:8080/F16077/2d3a2abc/9039
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="016. México",LAS ESTRELLAS
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/562
-#EXTINF:-1 tvg-id="" tvg-name="ONCE TV" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png" group-title="016. México",ONCE TV
-http://tv.diablotv.net:8080/VanessaCastaneda284/cpbCeCrFA4/87603
-#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="016. México",TELEMAX
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png" group-title="016. México",UNICABLE 
-http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/38359
+
