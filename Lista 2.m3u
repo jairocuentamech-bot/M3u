@@ -262,6 +262,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 http://live.detodotvplay.com:8080/Risario8/Pineda13/32353
 #EXTINF:-1 tvg-id="" tvg-name="CINE HARRY POTER" tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/07/harry-potter-11.jpg" group-title="040. Cine 24 Hrs",CINE HARRY POTTER
 http://www.1play.cool:25461/2137135563/63ab966fe8/266592
+#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA PLUCHE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",LA FAMILIA PLUCHE
+http://www.1play.cool:25461/2137135563/63ab966fe8/155605
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",MARVEL STUDIOS
+http://www.1play.cool:25461/2137135563/63ab966fe8/266544
+#EXTINF:-1 tvg-id="" tvg-name="PIRATAS DEL CARIBE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",PIRATAS DEL CARIBE
+http://www.1play.cool:25461/2137135563/63ab966fe8/266653
 #EXTINF:-1 tvg-id="" tvg-name="RAPIDO Y FURIOSO" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="040. Cine 24 Hrs",RAPIDO Y FURIOSO
 http://www.1play.cool:25461/2137135563/63ab966fe8/266648
 #EXTINF:-1 tvg-id="" tvg-name="DR HOUSE" tvg-logo="http://213.145.87.11/Logos/24horas.png" group-title="050. Series: 24 Hrs",DR HOUSE
