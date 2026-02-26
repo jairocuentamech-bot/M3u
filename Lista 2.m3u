@@ -68,7 +68,7 @@ http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68249
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68252
 #EXTINF:0 tvg-id="" tvg-name="LAT | Universal Reality HD" tvg-logo="https://logos.xbots.com.mx/307507.png" group-title="007. Cine Universal",LAT | Universal Reality HD
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/68248
-#EXTINF:0 tvg-id="" tvg-name="MX | UNIVERSAL TV" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="ENTRETENIMIENTO",MX | UNIVERSAL TV
+#EXTINF:0 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://logos.xbots.com.mx/57.png" group-title="007. Cine Universal",UNIVERSAL TV
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/1982
 #EXTINF:0 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="008. Comedia",COMEDY CENTRAL
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/9585
@@ -86,11 +86,11 @@ http://www.1play.cool:25461/2137135563/63ab966fe8/174645
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/311189
 #EXTINF:0 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="008. Deportes",ITV DEPORTES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7be71506-fb29-4e4f-b830-8ddbe9d7fb20
-#EXTINF:-1 tvg-id="" tvg-name="LAS" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="008. Deportes",LAS 1.1
+#EXTINF:0 tvg-id="" tvg-name="LAS" tvg-logo="https://i.imgur.com/SkQU34L.png" group-title="008. Deportes",LAS 1.1
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/160792
-#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="008. Deportes",TVC DEPORTES
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="008. Deportes",TVC DEPORTES
 http://www.1play.cool:25461/2137135563/63ab966fe8/151459
-#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="008. Deportes",TVC DEPORTES OPC 2
+#EXTINF:0 tvg-id="" tvg-name="TVC DEPORTES OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="008. Deportes",TVC DEPORTES OPC 2
 http://live.detodotvplay.com:8080/mE7oi0mEQn/w7CC3s9PTO/60998
 #EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES 2" tvg-logo="https://i.imgur.com/m71SnbO.png" group-title="008. Deportes",TVC DEPORTES 2
 http://live.detodotvplay.com:8080/ipmont2024/WBdYvp2xhn/387772
