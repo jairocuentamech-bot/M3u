@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Player Personal</title>
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
+    <style>
+        body { background-color: #1a1a1a; color: white; font-family: sans-serif; text-align: center; }
+        .container { max-width: 800px; margin: 50px auto; }
+        video { width: 100%; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Mi Streaming desde GitHub</h2>
+        
+        <video id="my-video" class="video-js vjs-big-play-centered" controls preload="auto" width="640" height="360">
+            <source src="https://raw.githubusercontent.com/jairocuentamech-bot/M3u/refs/heads/main/tv_channels_ET7fEee845vbh_plus.m3u" type="application/x-mpegURL">
+            <p class="vjs-no-js">Para ver este video, por favor habilita JavaScript.</p>
+        </video>
+    </div>
+
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+</body>
+</html>
